@@ -1,19 +1,18 @@
 # Overview
 # Entry/Setup
-# Passing
-# Retention/Keys
+
+# Keys
+The passer should be on the toes unless they’re dropping down into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
 # Attacking
-# Escape/Defense
-# Variations
+# Defense
+First, the bottom player should be framing at the shoulders and hip; these frames are temporary and should be replaced by legs.
 # Links
-## Escapes
 ## Guards
+- [[Half Guard]]
 ## Passes
+- [[Leg Drag]]
 ## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
-# References
+- [[J-point]]
+- [[Side Control]]
 # Tags
 Insert tags #hide

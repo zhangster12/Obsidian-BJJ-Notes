@@ -8,7 +8,6 @@ The <u>Kimura</u> is a submission that attacks the shoulder by forcing excessive
 - Triceps to the chest
 - Trace the wrist up the back
 - Foot to hip if the elbow is tight to the core
-
 ## [[Hip Bump Sweep]]
 - If they drive into you, Kimura grip the arm
 - Karate kick to create an angle (perpendicular to them), then re-lock the guard
