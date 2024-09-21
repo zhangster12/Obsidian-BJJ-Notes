@@ -14,9 +14,9 @@ The <u>Kimura</u> is a submission that attacks the shoulder by forcing excessive
 - Karate kick to create an angle (perpendicular to them), then re-lock the guard
 - To finish the Kimura:
 	- Keep the arm tight to the body
-    - Tuck your elbows in
-    - Keep their elbow in line with their shoulders
-    - Elevate their hand
+	- Tuck your elbows in
+	- Keep their elbow in line with their shoulders
+	- Elevate their hand
 
 # Defense
 In the gi, the player can defend by grabbing their own gi.
