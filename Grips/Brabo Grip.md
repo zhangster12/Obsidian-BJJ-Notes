@@ -3,7 +3,7 @@ The <u>Brabo Grip</u> is a powerful grip in the gi, in which the opponent’s l
 
 ![Brabo Grip](https://evolve-mma.com/wp-content/uploads/2022/03/barbo-choke-bjj-.jpg)
 # Setup
-This grip can used in bottom [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard). [Link](https://www.youtube.com/watch?v=DXE-FfK1j0E&t=45s)
+This grip can used in bottom [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard).
  - Breaking the opponent’s posture while pulling their lapel out.
  - Feeding under their armpit and across their back to the opposite hand.
  - Transferring the lapel back to other right hand.
