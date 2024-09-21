@@ -5,7 +5,6 @@ The <u>Knee Elbow Escape</u> is an escape from [Mount](obsidian://open?vault=BJJ
 # Setup
 The <u>Knee Elbow Escape</u> can be setup when the top player is in regular [Mount](obsidian://open?vault=BJJ%20Notes&file=Positions%2FMount). If the top player has advanced to high [Mount](obsidian://open?vault=BJJ%20Notes&file=Positions%2FMount), then this escape is ineffective.
 # Keys
-The keys to the <u>Knee Elbow Escape</u> are:
 - Bumping the top player forward.
 - Keeping the elbows tight and not opening the elbow-knee space (prevents the top player from advancing into high [Mount](), [Armbar](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FArmbar), or [Mounted Triangle](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FMounted%20Triangle)).
 - Being on the side.

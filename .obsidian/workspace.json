@@ -9,67 +9,7 @@
         "dimension": 66.10738255033557,
         "children": [
           {
-            "id": "a5af7723d623e8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Positions/Mount.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f7299dea85c52db",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9dcb673ef0701893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/Half Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1444fcfc49103820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Butterfly Half Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "579675a82d65b761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guard Passes/Smash Pass.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24853baf221fe50a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,61 +20,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30d4f21315c77749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guard Passes/Circle Pass.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fba24293e64055e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/Half Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6af5acc836aa5274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/Squid Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ed7cdfe18d56b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/Shin-on-Shin Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "1c6b6298707a4128",
@@ -309,12 +196,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24853baf221fe50a",
+  "active": "1444fcfc49103820",
   "lastOpenFiles": [
-    "Grips/Brabo Grip.md",
-    "Escapes/Ghost Escape.md",
-    "Submissions/Ezekiel Choke.md",
     "Guard Passes/Circle Pass.md",
+    "Grips/Cross Pant Grip.md",
+    "Grips/Brabo Grip.md",
+    "Escapes/Knee Elbow Escape.md",
+    "Escapes/Kipping Escape.md",
+    "Escapes/Ghost Escape.md",
+    "Butterfly Half Guard.md",
+    "Submissions/Ezekiel Choke.md",
     "Submissions/Americana.md",
     "Sweeps/G-Roll Sweep.md",
     "Guard Passes/Leg Drag.md",
@@ -323,12 +214,9 @@
     "Guard Passes/Knee Cut.md",
     "Guard Passes/Leg Weave.md",
     "Positions/Scarf Hold.md",
-    "Grips/Cross Pant Grip.md",
     "Guard Passes/Long Step.md",
     "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Shin Slice.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Escapes/Kipping Escape.md",
     "Submissions/Brabo Choke.md",
     "Sweeps/Muscle Sweep.md",
     "Guards/Closed Guard.md",
@@ -336,7 +224,6 @@
     "Template/Template.md",
     "Positions/Side Control.md",
     "Positions/Dogfight.md",
-    "Guards/Lapel Guard.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",
