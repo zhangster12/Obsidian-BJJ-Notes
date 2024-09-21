@@ -1,0 +1,20 @@
+# Overview
+# Entry
+You can do an Americana from Mount or Side Control.
+# Passing
+# Retention/Keys
+# Attacking
+# Escape/Defense
+# Variations
+# Links
+## Escapes
+## Guards
+## Passes
+## Positions
+## Takedowns
+## Transitions
+## Submissions
+## Sweeps
+# References
+# Tags
+#gi #submission 
