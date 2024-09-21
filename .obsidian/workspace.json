@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Submissions/Kimura.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,22 +84,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "e9823c1032bf08eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/X-guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grips/Cross Pant Grip.md"
+                "file": "Submissions/Kimura.md"
               }
             }
           },
@@ -152,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Submissions/Kimura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Submissions/Kimura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +183,11 @@
   },
   "active": "a0dbd6bd034f19bb",
   "lastOpenFiles": [
+    "Grips/Cross Pant Grip.md",
+    "Sweeps/Scissor Sweep.md",
     "Guard Passes/Leg Drag.md",
     "Escapes/Ghost Escape.md",
     "Escapes/Knee Elbow Escape.md",
-    "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
     "Guard Passes/Knee Cut.md",
     "Guard Passes/Sao Paulo Pass.md",
@@ -222,7 +209,6 @@
     "Positions/Reverse Triangle.md",
     "Positions/S-mount.md",
     "Positions/Side Control.md",
-    "Positions/Top Lock.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

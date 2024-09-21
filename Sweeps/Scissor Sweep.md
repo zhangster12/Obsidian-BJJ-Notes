@@ -25,7 +25,7 @@ You can set up the sweep from an Arm Drag attempt:
 
 # Links
 ## Positions
- - [[Mount]]
+- [[Mount]]
 # References
 - [How To Use The Scissor Sweep In BJJ Effectively](https://evolve-mma.com/blog/how-to-use-the-scissor-sweep-in-bjj-effectively/)
 # Tags
