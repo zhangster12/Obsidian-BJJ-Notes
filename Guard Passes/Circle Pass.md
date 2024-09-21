@@ -1,5 +1,5 @@
 # Overview
-# Entry/Setup
+# Setup
 
 # Keys
 The passer should be on the toes unless they’re dropping down into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
