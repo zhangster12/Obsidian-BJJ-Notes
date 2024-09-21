@@ -85,8 +85,13 @@
             "id": "cab2b5a50339783b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Submissions/Americana.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -252,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Positions/Mount.md"
+                "file": "Submissions/Americana.md"
               }
             }
           },
@@ -274,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Positions/Mount.md",
+                "file": "Submissions/Americana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Positions/Mount.md",
+                "file": "Submissions/Americana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,6 +311,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -316,10 +323,12 @@
   },
   "active": "cab2b5a50339783b",
   "lastOpenFiles": [
-    "Positions/Arm Saddle.md",
+    "Sweeps/G-Roll Sweep.md",
     "Guard Passes/Leg Drag.md",
-    "Guard Passes/Knee Cut.md",
     "Guard Passes/Circle Pass.md",
+    "Untitled.md",
+    "Positions/Arm Saddle.md",
+    "Guard Passes/Knee Cut.md",
     "Guard Passes/Leg Weave.md",
     "Positions/Scarf Hold.md",
     "Grips/Cross Pant Grip.md",
@@ -330,7 +339,6 @@
     "Escapes/Kipping Escape.md",
     "Escapes/Ghost Escape.md",
     "Grips/Brabo Grip.md",
-    "Untitled.md",
     "Submissions/Brabo Choke.md",
     "Sweeps/Muscle Sweep.md",
     "Guards/Closed Guard.md",
@@ -341,7 +349,6 @@
     "Guards/Lapel Guard.md",
     "Guards/Turtle Guard.md",
     "Guards/X-guard.md",
-    "Positions/J-point.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

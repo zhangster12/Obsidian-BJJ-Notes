@@ -1,10 +1,12 @@
 # Overview
-# Entry
+
+
+![Americana](https://evolve-mma.com/wp-content/uploads/2021/09/BJJ-Americana.jpg)
+# Setup
 You can do an Americana from Mount or Side Control.
-# Passing
 # Retention/Keys
 # Attacking
-# Escape/Defense
+# Defense
 # Variations
 # Links
 ## Escapes
