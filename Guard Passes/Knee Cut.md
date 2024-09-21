@@ -3,8 +3,8 @@ The <u>Knee Cut</u>, or knee slice, is a pass in which the passer uses their nea
 
 ![Knee Cut](https://cdn.evolve-mma.com/wp-content/uploads/2022/08/knee-slice-pass-bjj.jpg)
 # Entry
-- From [HQ](obsidian://open?vault=BJJ%20Notes&file=Positions%2FHeadquarters), the passer can <u>Knee Cut</u> if the center knee falls towards the passer’s outside knee.
-- In [DLR](obsidian://open?vault=BJJ%20Notes&file=Guards%2FDe%20La%20Riva), the passer can enter a <u>Knee Cut</u> after striping hooks and frames. [Link](https://www.youtube.com/watch?v=3IqCi1GXmOg)
+- From [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHeadquarters), the passer can <u>Knee Cut</u> if the center knee falls towards the passer’s outside knee.
+- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), the passer can enter a <u>Knee Cut</u> after striping hooks and frames. [Link](https://www.youtube.com/watch?v=3IqCi1GXmOg)
 # Keys
 The <u>Knee Cut</u>, seemingly simple, has multiple moving parts and small details.
 ## Posture
@@ -29,12 +29,12 @@ If there’s a RDLR hook, the passer can:
 - Pop it out then shin slice.
 - Donkey kick.
 # Attacking
-When the bottom player attempts to sit up for an underhook, the passer can counter with a [Loop Choke](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FLoop%20Choke). [Link](https://www.youtube.com/watch?v=7ZNd3w5m1xs)
+When the bottom player attempts to sit up for an underhook, the passer can counter with a [Loop Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FLoop%20Choke). [Link](https://www.youtube.com/watch?v=7ZNd3w5m1xs)
 # Defense
 The bottom player needs to frame on the passer’s opposite shoulder and arm and have a knee shield, which will prevent them from advancing and force them to switch to a different pass.
-- The bottom player can use the outside leg to butterfly hook the passer’s heel and push them into [Half Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FHalf%20Guard).
+- The bottom player can use the outside leg to butterfly hook the passer’s heel and push them into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
 
-The bottom player can also drive the passer away, after which the bottom player can sit up an underhook and [Wrestle-up](obsidian://open?vault=BJJ%20Notes&file=Transitions%2FWrestle-up).
+The bottom player can also drive the passer away, after which the bottom player can sit up an underhook and [Wrestle-up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up).
 
 In the gi, the bottom player can grab an outside pant grip.
 # Links

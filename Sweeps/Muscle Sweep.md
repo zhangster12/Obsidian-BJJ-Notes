@@ -1,9 +1,9 @@
 # Overview
-The <u>Muscle Sweep</u> is a sweep that can be used when the opponent stands up in [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard).
+The <u>Muscle Sweep</u> is a sweep that can be used when the opponent stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
 
 ![Muscle Sweep](https://www.bjjee.com/wp-content/uploads/2019/08/Kurt-Osiander.jpg)
 # Setup
-The <u>Muscle Sweep</u> can be setup when the top player stands up in [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard) with both feet at arms length.
+The <u>Muscle Sweep</u> can be setup when the top player stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with both feet at arms length.
 # Keys
 When the top player stands, the bottom player underhooks the foot at the elbow while their other hand is using a cross sleeve grip.
 

@@ -3,7 +3,7 @@
 
 ![DLR](https://www.bjjheroes.com/wp-content/uploads/2014/06/De-La-Riva-Guard1.jpg)
 # Entry
-Entering **DLR** occurs in open guard when the opponent steps one leg forward, which presents an opportunity to hook onto the leg. For example, in [Collar Sleeve](obsidian://open?vault=BJJ%20Notes&file=Guards%2FCollar%20Sleeve%20Guard), when the opponent steps forwards to remove the frames, you can swing around to hook onto the leg.
+Entering **DLR** occurs in open guard when the opponent steps one leg forward, which presents an opportunity to hook onto the leg. For example, in [Collar Sleeve](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FCollar%20Sleeve%20Guard), when the opponent steps forwards to remove the frames, you can swing around to hook onto the leg.
 # Passing
 When passing **DLR**, you have to kill the hook by extending your leg, so it’s very hard to hook onto. For the other leg, control the leg so that it’s not framing and squat on top of it. If the person on the bottom strips the grips, you can force half guard.
 
@@ -16,7 +16,7 @@ The hooked knee should be turned in, so the opponent is unable to remove the hoo
 The foot that is hooking should be tight and flexed and be very close to the hips. [Link](https://youtu.be/QcyeCLpw4fg?si=-JFcrw1eaK9h-t-b&t=43)
 
 If you are too close to their foot, this can prevent you from establish a strong hook. To fix this, simply shoulder walk yourself away while framing on their foot.
-## [Nick and Danny’s Seminar](obsidian://open?vault=BJJ%20Notes&file=Seminars%2FNick%20and%20Danny's%20Seminar%20(4-30%20-%205-3-2024))^d023b6
+## [Nick and Danny’s Seminar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Seminars%2FNick%20and%20Danny's%20Seminar%20(4-30%20-%205-3-2024))^d023b6
 They taught a variation of **DLR** in which you are a little more square to the opponent, and they emphasized a few details:
 - Keeping the knees pointing up towards the ceiling, so they when the opponent tries to remove them, it’s difficult.
 - The foot that is framing is on the hip to prevent them from stepping over.
@@ -38,10 +38,10 @@ Sweeping to the hooked leg side:
 If they can post you can push on the hip and go into mount (Test this out)
 
 Sweeping overhead:
-- You can off balance them overhead, and take their [Back](obsidian://open?vault=BJJ%20Notes&file=Positions%2FBack). [Link](https://youtu.be/F7uZnNpPy8Y?si=_eWaPjGcvoTt24HK&t=13)
+- You can off balance them overhead, and take their [Back](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FBack). [Link](https://youtu.be/F7uZnNpPy8Y?si=_eWaPjGcvoTt24HK&t=13)
 If you off balance them away from the hooked leg: ^fb9732
-- [Wrestle-up](obsidian://open?vault=BJJ%20Notes&file=Transitions%2FWrestle-up) then progress into a [Single Leg](obsidian://open?vault=BJJ%20Notes&file=Takedowns%2FSingle%20Leg. [Link](https://youtu.be/F7uZnNpPy8Y?si=_eWaPjGcvoTt24HK&t=13).
-- You can also [Triangle](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FTriangle%20Choke), since you can isolate a head and arm. [Link](https://www.youtube.com/watch?v=uEGGBDJRTaw)
+- [Wrestle-up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up) then progress into a [Single Leg](obsidian://open?vault=Obsidian-BJJ-Notes&file=Takedowns%2FSingle%20Leg. [Link](https://youtu.be/F7uZnNpPy8Y?si=_eWaPjGcvoTt24HK&t=13).
+- You can also [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke), since you can isolate a head and arm. [Link](https://www.youtube.com/watch?v=uEGGBDJRTaw)
 - Lastly you can take the Back either AOJ style or Crab Ride.
 # Variations
 ## Reverse DLR

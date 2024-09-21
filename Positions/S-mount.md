@@ -3,7 +3,7 @@ The **S-mount** is characterized by the “S” formation that you form using yo
 
 ![https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg](https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg)
 # Entry
-Typically entering S-mount occurs from [Mount](obsidian://open?vault=BJJ%20Notes&file=Positions%2FMount) when you’ve separated their elbow from their hip.
+Typically entering S-mount occurs from [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) when you’ve separated their elbow from their hip.
 
 
 ## [[Mount]]

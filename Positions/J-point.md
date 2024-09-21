@@ -6,7 +6,7 @@ The J-point is a position in which the opponent’s guard is in jeopardy of gett
 This can be 
 # Passing
 There are a few options here:
-- If they try to track with the bottom foot, you can go to a [Knee Cut](obsidian://open?vault=BJJ%20Notes&file=Guard%20Passing%2FKnee%20Cut).
+- If they try to track with the bottom foot, you can go to a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
 - If they don’t, but are framing, go to the other side for a leg drag
 - If they collapse the top knee, press it down and go around the other way.
 - If they don’t frame, the top player drops their shoulder into Side Control.

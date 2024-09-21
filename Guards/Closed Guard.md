@@ -5,7 +5,7 @@ The <u>Closed Guard</u> is when the legs are hooked behind the opponent, prevent
 # Entry
 When pulling guard, if the opponent leaves their knee-elbow space open, you can shoot your legs through.
 # Passing
-All passes from the <u>Closed Guard</u> will involve opening the legs and most of the time controlling and pinning the hips. The one exception to this is the [Sao Paulo Pass](obsidian://open?vault=BJJ%20Notes&file=Guard%20Passing%2FSao%20Paulo%20Pass), in which you’re actively maintaining a low posture.
+All passes from the <u>Closed Guard</u> will involve opening the legs and most of the time controlling and pinning the hips. The one exception to this is the [Sao Paulo Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FSao%20Paulo%20Pass), in which you’re actively maintaining a low posture.
 
 There are multiple ways to open the legs:
 - From the knees, after the hips have been pinned, you can blade your stance and force one knee into their butt. [Link](https://www.youtube.com/watch?v=Yhy-QVscGq8)
@@ -26,20 +26,20 @@ Similarly, there are multiple ways to control posture:
 
 Climbing the back will allow you to have upper body control:
 - Climb the back one leg at a time while breaking their posture with a collar grip/collar tie.
-- You can also control an arm (triceps grip, wrist grip). Once you control an arm, if you open your legs just a little and bring them to you, you can have greater upper body control. You will hit their arms. Then the only way for them to escape is to drive forward, which makes the [Pendulum Sweep](obsidian://open?vault=BJJ%20Notes&file=Sweeps%2FPendulum%20Sweep) assessable.
+- You can also control an arm (triceps grip, wrist grip). Once you control an arm, if you open your legs just a little and bring them to you, you can have greater upper body control. You will hit their arms. Then the only way for them to escape is to drive forward, which makes the [Pendulum Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FPendulum%20Sweep) assessable.
 # Attacking
 In the <u>Closed Guard</u>, attacking is based on their elbow, hand, and posture positions:
-- If their posture is high, then you could attempt a [Hip Bump Sweep](obsidian://open?vault=BJJ%20Notes&file=Sweeps%2FHip%20Bump%20Sweep). To set it up, you could break their posture, and as they try to posture up, you can attempt the sweep.
+- If their posture is high, then you could attempt a [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep). To set it up, you could break their posture, and as they try to posture up, you can attempt the sweep.
 - If their hands are on your chest, then they are not on your legs/pants. You can freely move your legs.
 
-Additionally, if you break their posture, the opponent will want to posture up, or if you attempt an [Arm Drag](obsidian://open?vault=BJJ%20Notes&file=Transitions%2FArm%20Drag), they will square up.
+Additionally, if you break their posture, the opponent will want to posture up, or if you attempt an [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag), they will square up.
 
-You can begin a setup for everything with a [Cross Collar Choke](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FCross%20Collar%20Choke), as they will need to defend it.
+You can begin a setup for everything with a [Cross Collar Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Collar%20Choke), as they will need to defend it.
 
 If they stand up with both of their legs near you, you can grab them and sweep. By pushing on the hips or Muscle Sweep.
 
 ## Hand Position
-If the hand is on the floor, you can go into [Clamp Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClamp%20Guard).
+If the hand is on the floor, you can go into [Clamp Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard).
 
 Armbar
 Top Lock

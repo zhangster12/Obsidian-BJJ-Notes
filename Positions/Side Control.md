@@ -11,7 +11,7 @@ As with any other position, <u>Side Control</u> is **NOT** a static position bec
 # Attacking
 You can take the back by blocking the near side hip. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
 
-You can attack the far side arm with a [Kimura](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FKimura), then straight arm lock, then Americana.
+You can attack the far side arm with a [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura), then straight arm lock, then Americana.
 
 Additionally, you can attack the near side arm by placing your leg over it.
 
@@ -23,7 +23,7 @@ To escape **Side Control**, you need to:
 - Frame on the biceps when they hip switch.
 - Bring your knees/legs back in front of you.
 
-You can escape into Half Guard, Closed Guard, and Butterfly Guard or if they leave they arm in, you can use the underhook to establish a [Clamp Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClamp%20Guard).
+You can escape into Half Guard, Closed Guard, and Butterfly Guard or if they leave they arm in, you can use the underhook to establish a [Clamp Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard).
 
 Sometimes the opponent has passed the guard but has not established a crossface:
 - Control/frame on their biceps.

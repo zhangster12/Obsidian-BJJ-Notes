@@ -4,8 +4,8 @@ The Back is one of the most dominant positions, because while your opponent has 
 ![Back](https://evolve-mma.com/wp-content/uploads/2022/03/back-mount.jpg)
 # Entry
 There are multiple ways to take the **Back**:
-- In [DLR](obsidian://open?vault=BJJ%20Notes&file=Guards%2FDe%20La%20Riva), once the opponent is off balanced, you can take the hooked leg and turn it down to force them to their knees and turn them away from you. From there you can control the hips and gradually climb the back.
-- In [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard), taking the Back can happen from an Arm Drag.
+- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), once the opponent is off balanced, you can take the hooked leg and turn it down to force them to their knees and turn them away from you. From there you can control the hips and gradually climb the back.
+- In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), taking the Back can happen from an Arm Drag.
 - In Technical Mount, you can take the back from a chair sit, by .
 - In Turtle Guard,
 # Retention

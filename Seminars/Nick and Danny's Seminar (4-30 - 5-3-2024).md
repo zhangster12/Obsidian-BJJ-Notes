@@ -10,7 +10,7 @@ We worked on an Arm Saddle drill in which the opponent was pressing down the bot
 
 We then worked on going into K guard and Taking the Back from there through Crab Ride.
 # Gi
-We went their variation of [DLR](obsidian://open?vault=BJJ%20Notes&file=Guards%2FDe%20La%20Riva), with some details:
+We went their variation of [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), with some details:
 - Keeping the knees pointing up towards the ceiling, so they when the opponent tries to remove them, it’s difficult.
 - The foot that is framing is on the hip to prevent them from stepping over.
 - A light collar grip so you can adjust your body position depending on if they posture up or crouch. [Link](https://www.youtube.com/shorts/02jQ2CylttM)
@@ -22,7 +22,7 @@ We worked on off balancing 3 ways:
 
 Lastly, we worked a few sweeps and Back Takes:
 - If we swept left, we keep the bottom foot as a frame on the stomach, plant the top leg on the mat, switch hands, and the Technical stand-up.
-- If we swept right or overhead, we can [Take the Back](obsidian://open?vault=BJJ%20Notes&file=Transitions%2FTaking%20the%20Back).
+- If we swept right or overhead, we can [Take the Back](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FTaking%20the%20Back).
 # Concepts
 We went over a few key concepts:
 - Every guard should have a sweep, submission, or taking the back.

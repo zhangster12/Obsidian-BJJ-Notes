@@ -5,7 +5,7 @@
 # Entry
 During reguarding, you can enter <u>Half Guard</u> as a pitstop during reguarding.
 
-During passing, you can force <u>Half Guard</u> by placing one leg in between yours and dropping to your knees or when the opponent tries to underhook the leg when you’re [Knee Cutting](obsidian://open?vault=BJJ%20Notes&file=Guard%20Passing%2FKnee%20Cut).
+During passing, you can force <u>Half Guard</u> by placing one leg in between yours and dropping to your knees or when the opponent tries to underhook the leg when you’re [Knee Cutting](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
 # Passing
 To pass <u>Half Guard</u>, you have to get chest-to-chest to the opponent. This can be accomplished by getting past the ***top leg*** [[#^ca35da]] or the ***bottom knee***. 
 
@@ -15,10 +15,10 @@ Chest-to-chest is a very good position, because you can pin the opponent without
 - Hook on the outside.
 
 Getting past the top knee can be accomplished by: ^ca35da
-- Shifting back to [HQ](obsidian://open?vault=BJJ%20Notes&file=Guard%20Passing%2FKnee%20Cut), then to a [Knee Cut](obsidian://open?vault=BJJ%20Notes&file=Guard%20Passing%2FKnee%20Cut).
+- Shifting back to [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut), then to a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
 - You can also Hip Switch into Reverse Half Guard then pull the leg out.
 
-You can end up in Side Control or Mount. In chest-to-chest, you need to watch out for a [Lever Sweep](obsidian://open?vault=BJJ%20Notes&file=Sweeps%2FLever%20Sweep).
+You can end up in Side Control or Mount. In chest-to-chest, you need to watch out for a [Lever Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FLever%20Sweep).
 # Retention
 Some of the keys to retaining <u>Half Guard</u> are:
 - Maintaining frames
@@ -40,8 +40,8 @@ In the gi, collar and sleeve grip, pull, post onto elbow, upgrade to over back a
 
 If they tripodd, grab their foot
 
-## [Reverse Half Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FReverse%20Half%20Guard)
-The [Reverse Half Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FReverse%20Half%20Guard) is the variation of <u>Half Guard</u> where the top player is facing the legs.
+## [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FReverse%20Half%20Guard)
+The [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FReverse%20Half%20Guard) is the variation of <u>Half Guard</u> where the top player is facing the legs.
 
 ![Reverse Half Guard](https://evolve-mma.com/wp-content/uploads/2023/08/reverse-half-guard-edited.jpg)
 ## Chest-to-Chest

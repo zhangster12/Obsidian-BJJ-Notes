@@ -4,13 +4,13 @@ The **Triangle Choke** is a chokehold that encircles the opponent's neck and one
 ![Triangle Choke](https://gumacliftonnj.com/wp-content/uploads/2023/06/Mastering-the-Triangle-Choke-Essential-Tips-and-Variations.png)
 # Entry
 The **Triangle Choke** can be setup anytime there is an isolation of the head and arm.
-- From [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard), controlling the wrists and pushing one away to isolate the head and arm.
-- In Lasso Guard, control the triceps where the hook is and shoot the legs up into a **Triangle**/[Trap Triangle](obsidian://open?vault=BJJ%20Notes&file=Positions%2FTrap%20Triangle). [Link](https://www.youtube.com/shorts/7XBWcjFlqh0)
+- From [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), controlling the wrists and pushing one away to isolate the head and arm.
+- In Lasso Guard, control the triceps where the hook is and shoot the legs up into a **Triangle**/[Trap Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTrap%20Triangle). [Link](https://www.youtube.com/shorts/7XBWcjFlqh0)
 
 This can come after off balancing the opponent:
-- From [DLR](obsidian://open?vault=BJJ%20Notes&file=Guards%2FDe%20La%20Riva), use the hips to push up to the **Triangle**.
-- From [X-guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FX-guard), when the opponent tries to prevent you from [Wrestling-up](obsidian://open?vault=BJJ%20Notes&file=Transitions%2FWrestle-up) by grabbing your collar, either scoop grip or pant grip, push off their hips to the **Triangle**. [Link](https://www.youtube.com/watch?v=CWt5-b4yack)
-- In the [Hip Bump Sweep](obsidian://open?vault=BJJ%20Notes&file=Sweeps%2FHip%20Bump%20Sweep), if they defend or you are unable to sweep, you can enter the **Triangle**.
+- From [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), use the hips to push up to the **Triangle**.
+- From [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard), when the opponent tries to prevent you from [Wrestling-up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up) by grabbing your collar, either scoop grip or pant grip, push off their hips to the **Triangle**. [Link](https://www.youtube.com/watch?v=CWt5-b4yack)
+- In the [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep), if they defend or you are unable to sweep, you can enter the **Triangle**.
 ## Sweeps
 ### [[Hip Bump Sweep]]
 - If they post on their hand:

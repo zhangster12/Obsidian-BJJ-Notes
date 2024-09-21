@@ -11,20 +11,20 @@ There are multiple ways to advance to **Mount** from Side Control:
 Even in **Mount**, you need to be dynamic, so if you feel they’re beginning to escape, you need to transition.
 
 For example:
-- You can windshield your legs to [KOB](obsidian://open?vault=BJJ%20Notes&file=Positions%2FKnee%20On%20Belly).
+- You can windshield your legs to [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly).
 # Attacking
-You have to separate their elbows from their body to advance in position. This can be accomplished by an [Ezekiel Choke](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FEzekiel%20Choke).
+You have to separate their elbows from their body to advance in position. This can be accomplished by an [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke).
 - If they're keeping their arms tight, use a cross grip and grip at the elbow and push the arm down.
 - In gi, grab the collar.
 # Escape
 In the early stages, you have to use your elbows to block them from advancing.
 # Variations
 There are variations to how you maintain/control the mount.
-## [S-mount](obsidian://open?vault=BJJ%20Notes&file=Positions%2FS-mount)
+## [S-mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FS-mount)
 This variation is typically used to set up arm bars.
 
 ![https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg](https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg)
-## [Technical Mount](obsidian://open?vault=BJJ%20Notes&file=Positions%2FTechnical%20Mount)
+## [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount)
 
 
 ![Technical Mount](https://www.bjjee.com/wp-content/uploads/2022/12/Technical-Mount-Paul-Schreiner.jpg)

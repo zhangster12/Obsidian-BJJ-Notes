@@ -19,7 +19,7 @@ An Arm Drag is a movement in which you hook one of the opponent’s arms as to d
 ## Submissions
 - [[Armbar]]
 ## Sweeps
-- [[Pendulum Sweep]] (If they try to square back in [Closed Guard](obsidian://open?vault=BJJ%20Notes&file=Guards%2FClosed%20Guard) with their arm still across)
+- [[Pendulum Sweep]] (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
 - [[Scissor Sweep]]
 - 
 # Tags

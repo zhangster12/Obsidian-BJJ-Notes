@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Grips/Cross Pant Grip.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escapes/Kipping Escape.md"
+                "file": "Grips/Cross Pant Grip.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Grips/Cross Pant Grip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Grips/Cross Pant Grip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,32 +197,32 @@
   },
   "active": "a0dbd6bd034f19bb",
   "lastOpenFiles": [
-    "Submissions/Ezekiel Choke.md",
-    "Escapes/Kipping Escape.md",
-    "Positions/Mount.md",
-    "Guards/Ashi Garami.md",
-    "Positions/Side Control.md",
-    "Escapes/Ghost Escape.md",
-    "Positions/Front Headlock.md",
-    "Escapes/Back Door Escape.md",
-    "Template/Template.md",
-    "Grips/Cross Pant Grip.md",
-    "Guard Passes/Circle Pass.md",
-    "Grips/Brabo Grip.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Guards/Butterfly Half Guard.md",
-    "Submissions/Americana.md",
-    "Sweeps/G-Roll Sweep.md",
     "Guard Passes/Leg Drag.md",
-    "Untitled.md",
-    "Positions/Arm Saddle.md",
+    "Escapes/Ghost Escape.md",
+    "Escapes/Knee Elbow Escape.md",
+    "Grips/Cross Pant Grip.md",
+    "Grips/Brabo Grip.md",
     "Guard Passes/Knee Cut.md",
-    "Guard Passes/Leg Weave.md",
-    "Positions/Scarf Hold.md",
-    "Guard Passes/Long Step.md",
     "Guard Passes/Sao Paulo Pass.md",
-    "Guard Passes/Shin Slice.md",
-    "Submissions/Brabo Choke.md",
+    "Guard Passes/X-pass.md",
+    "Guards/Ashi Garami.md",
+    "Guards/Clamp Guard.md",
+    "Guards/Closed Guard.md",
+    "Guards/De La Riva.md",
+    "Guards/Half Guard.md",
+    "Guards/Reverse Half Guard.md",
+    "Guards/Sit Up Guard.md",
+    "Guards/Spider Guard.md",
+    "Guards/X-guard.md",
+    "Positions/Back.md",
+    "Positions/Headquarters.md",
+    "Positions/J-point.md",
+    "Positions/Knee On Belly.md",
+    "Positions/Mount.md",
+    "Positions/Reverse Triangle.md",
+    "Positions/S-mount.md",
+    "Positions/Side Control.md",
+    "Positions/Top Lock.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

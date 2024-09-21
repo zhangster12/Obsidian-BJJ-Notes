@@ -1,5 +1,5 @@
 # Overview
-The **Reverse Triangle** is a [Triangle](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FTriangle%20Choke), but the legs are locked on the other side, which 
+The **Reverse Triangle** is a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke), but the legs are locked on the other side, which 
 ## Variations
 ## Additional Details
 # Links

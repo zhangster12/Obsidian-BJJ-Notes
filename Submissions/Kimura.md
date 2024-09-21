@@ -1,5 +1,5 @@
 # Overview
-The <u>Kimura</u> is a submission that attacks the shoulder by forcing excessive shoulder internal rotation. The [Americana](obsidian://open?vault=BJJ%20Notes&file=Submissions%2FAmericana) is the opposite as it forces excessive external rotation.
+The <u>Kimura</u> is a submission that attacks the shoulder by forcing excessive shoulder internal rotation. The [Americana](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FAmericana) is the opposite as it forces excessive external rotation.
 
 ![Kimura](https://www.mmaleech.com/wp-content/uploads/2016/10/042215-UFC-Gallery-CH-G2.vadapt.980.high_.38.jpg)
 ## [[Half Guard]]
