@@ -5,7 +5,6 @@ The <u>Ghost Escape</u> is an escape from [Side Control](obsidian://open?vault=B
 # Setup
 This escape happens when the top player has established [Side Control](obsidian://open?vault=BJJ%20Notes&file=Positions%2FSide%20Control).
 # Keys
-The bottom player has to:
 - Get their shoulder to the mat.
 - Get their arm to their own hip.
 # Links
