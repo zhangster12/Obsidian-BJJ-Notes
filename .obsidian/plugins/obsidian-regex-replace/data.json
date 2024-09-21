@@ -1,0 +1,10 @@
+{
+  "findText": "BJJ%20Notes",
+  "replaceText": "Obsidian-BJJ-Notes",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

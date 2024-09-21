@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d5bc01e3ffe897",
+        "id": "3c8d66f7cf01ff41",
         "type": "tabs",
-        "dimension": 66.10738255033557,
         "children": [
           {
-            "id": "1444fcfc49103820",
+            "id": "a0dbd6bd034f19bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Kipping Escape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +25,6 @@
       {
         "id": "1c6b6298707a4128",
         "type": "tabs",
-        "dimension": 33.89261744966443,
         "children": [
           {
             "id": "93ffc14c64fae3c2",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grips/Cross Pant Grip.md"
+                "file": "Escapes/Kipping Escape.md"
               }
             }
           },
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Kipping Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Kipping Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,16 +194,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1444fcfc49103820",
+  "active": "a0dbd6bd034f19bb",
   "lastOpenFiles": [
-    "Guard Passes/Circle Pass.md",
+    "Submissions/Ezekiel Choke.md",
+    "Escapes/Kipping Escape.md",
+    "Positions/Mount.md",
+    "Guards/Ashi Garami.md",
+    "Positions/Side Control.md",
+    "Escapes/Ghost Escape.md",
+    "Positions/Front Headlock.md",
+    "Escapes/Back Door Escape.md",
+    "Template/Template.md",
     "Grips/Cross Pant Grip.md",
+    "Guard Passes/Circle Pass.md",
     "Grips/Brabo Grip.md",
     "Escapes/Knee Elbow Escape.md",
-    "Escapes/Kipping Escape.md",
-    "Escapes/Ghost Escape.md",
-    "Butterfly Half Guard.md",
-    "Submissions/Ezekiel Choke.md",
+    "Guards/Butterfly Half Guard.md",
     "Submissions/Americana.md",
     "Sweeps/G-Roll Sweep.md",
     "Guard Passes/Leg Drag.md",
@@ -218,12 +222,6 @@
     "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Shin Slice.md",
     "Submissions/Brabo Choke.md",
-    "Sweeps/Muscle Sweep.md",
-    "Guards/Closed Guard.md",
-    "Submissions/Cross Collar Choke.md",
-    "Template/Template.md",
-    "Positions/Side Control.md",
-    "Positions/Dogfight.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

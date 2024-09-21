@@ -1,6 +1,5 @@
 # Overview
-## Variations
-## Additional Details
+
 # Links
 ## Escapes
 ## Guards
