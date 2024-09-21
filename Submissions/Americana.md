@@ -10,6 +10,7 @@ You can do an Americana from Mount or Side Control.
 # Variations
 # Links
 ## Escapes
+
 ## Guards
 ## Passes
 ## Positions
