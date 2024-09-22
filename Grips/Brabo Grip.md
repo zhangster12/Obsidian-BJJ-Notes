@@ -14,7 +14,7 @@ To make this grip difficult to escape, the player should pull the lapel **as tig
 
 When using the <u>Brabo Grip</u> to choke, the player should flex their wrist (ulnar deviation).
 # Attacking
-In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), the bottom player can use this grip to [Cross Collar Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Collar%20Choke) or [Brabo Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FBrabo%20Choke).
+In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), the guard player can use this grip to [Cross Collar Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Collar%20Choke) or [Brabo Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FBrabo%20Choke).
 # Defense
 In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), before the lapel grip is passed back to the other hand, the top player can lower their head and shrug the grip off to the side. 
 # Links

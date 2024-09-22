@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Knee Cut.md",
+                "file": "Guard Passes/Circle Pass.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2831a10919ae014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapes/Kipping Escape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c6b6298707a4128",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Knee Cut.md"
+                "file": "Escapes/Kipping Escape.md"
               }
             }
           },
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Knee Cut.md",
+                "file": "Escapes/Kipping Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Knee Cut.md",
+                "file": "Escapes/Kipping Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,16 +204,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a0dbd6bd034f19bb",
+  "active": "b2831a10919ae014",
   "lastOpenFiles": [
     "Escapes/Ghost Escape.md",
-    "Template/Template.md",
-    "Guard Passes/Knee Cut.md",
-    "Submissions/Loop Choke.md",
     "Escapes/Back Door Escape.md",
-    "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
+    "Grips/Cross Pant Grip.md",
     "Guard Passes/Circle Pass.md",
+    "Shin Trap.md",
+    "Guard Passes/Knee Cut.md",
+    "Template/Template.md",
+    "Submissions/Loop Choke.md",
     "Escapes/Knee Elbow Escape.md",
     "Escapes/Kipping Escape.md",
     "Submissions/Kimura.md",
@@ -217,7 +232,6 @@
     "Guards/Spider Guard.md",
     "Guards/X-guard.md",
     "Positions/Back.md",
-    "Positions/Headquarters.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

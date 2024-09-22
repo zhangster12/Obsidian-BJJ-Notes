@@ -1,5 +1,5 @@
 # Overview
-The <u>Kipping Escape</u> is an escape that displaces the opponent from top pins, such as [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) and [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control).
+The <u>Kipping Escape</u> is an escape that displaces the top player from top pins, such as [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) and [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control).
 
 ![Kipping Escape](https://evolve-mma.com/wp-content/uploads/2023/10/kipping-escape-edited.jpg)
 # Setup
