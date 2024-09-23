@@ -11,7 +11,7 @@ When creating space, the bottom player takes the top player overhead rather than
 # Transitioning
 If the top player posts on 1 leg, the bottom player can enter [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).
 # Counter
-An [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke) will anchor the top to the bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), when they attempt this escape.
+An [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke) will anchor the top to bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), when they attempt this escape.
 # Links
 ## Guards
 - [[Ashi Garami]]

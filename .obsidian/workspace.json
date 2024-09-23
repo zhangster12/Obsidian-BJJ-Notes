@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Guard Passes/Circle Pass.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escapes/Kipping Escape.md"
+                "file": "Guard Passes/Circle Pass.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Guard Passes/Circle Pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escapes/Kipping Escape.md",
+                "file": "Guard Passes/Circle Pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +206,17 @@
   },
   "active": "b2831a10919ae014",
   "lastOpenFiles": [
+    "Grips/Cross Pant Grip.md",
+    "Grips/Brabo Grip.md",
+    "Escapes/Knee Elbow Escape.md",
+    "Escapes/Kipping Escape.md",
     "Escapes/Ghost Escape.md",
     "Escapes/Back Door Escape.md",
-    "Grips/Brabo Grip.md",
-    "Grips/Cross Pant Grip.md",
     "Guard Passes/Circle Pass.md",
     "Shin Trap.md",
     "Guard Passes/Knee Cut.md",
     "Template/Template.md",
     "Submissions/Loop Choke.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Escapes/Kipping Escape.md",
     "Submissions/Kimura.md",
     "Sweeps/Scissor Sweep.md",
     "Guard Passes/Leg Drag.md",
