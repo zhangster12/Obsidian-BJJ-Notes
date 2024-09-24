@@ -9,7 +9,7 @@ Typically entering S-mount occurs from [Mount](obsidian://open?vault=Obsidian-BJ
 ## [[Mount]]
 - Bait by grabbing a collar
 - Once they defend, scoot up until the groin meets the armpit
-- Move the arm to one side
+- Move the arm to 1 side
 - Scoop the other arm and control both arms
 - Pinch the head with the foot and knee
 # Keys

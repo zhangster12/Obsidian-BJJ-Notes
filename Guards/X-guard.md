@@ -1,5 +1,5 @@
 # Overview
-The **X-guard** is a position in which you have your same side hand gripping over the top of their knee, while one of your legs hooks behind their other knee, while your other foot is up by their hip.
+The **X-guard** is a position in which you have your same side hand gripping over the top of their knee, while 1 of your legs hooks behind their other knee, while your other foot is up by their hip.
 
 ![X-Guard](https://www.grapplearts.com/wp-content/uploads/2013/03/What-is-the-X-Guard.png)
 # Entry
@@ -7,7 +7,7 @@ From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami
 # Passing
 # Retention
 # Attacking
-If you have one hook at the hook and lower the other hook to the foot, you can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
+If you have 1 hook at the hook and lower the other hook to the foot, you can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
 # Variations
 ## Modified
 In the modified **X-guard**, sometimes called the butterfly-x guard, the top leg is hooking at the near side hip for control. [Link](https://www.youtube.com/watch?v=5YiH8ggmM4I&t=11s)

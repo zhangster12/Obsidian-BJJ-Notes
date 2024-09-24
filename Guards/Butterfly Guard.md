@@ -1,5 +1,5 @@
 # Overview
-The **Butterfly Guard** is one of the simplest, yet most effective open guard and can be used against opponents of any size as it utilizes the strongest part of our body-the legs, to pull, lift, and off-balance the opponent.
+The **Butterfly Guard** is 1 of the simplest, yet most effective open guard and can be used against opponents of any size as it utilizes the strongest part of our body-the legs, to pull, lift, and off-balance the opponent.
 
 ![Butterfly Guard](https://cdn.fugu.com/lc-59/images/curriculum/ls_00000657_01.jpg)
 # Entry
@@ -9,7 +9,7 @@ Tripod up
 Under hook a side
 Flatten them out
 Cross face
-Stuff one leg
+Stuff 1 leg
 # Attacking
 Most commonly, Butterfly Guard is used to sweep or off balance.
 
@@ -19,7 +19,7 @@ There are various configurations you can use with your arms to do so:
 - Head and arm
 - Collar sleeve with a foot on the hip
 
-You can enter Lapel Guard from the last one.
+You can enter Lapel Guard from the last 1.
 # Retention
 Force them onto their back.
 

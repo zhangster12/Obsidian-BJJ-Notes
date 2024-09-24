@@ -5,7 +5,7 @@ The <u>Ezekiel Choke</u> is a choke that involves applying pressure to an oppone
 
 ![Ezekiel Choke No-gi](https://www.elitesports.com/cdn/shop/articles/ultimate-guide-to-set-up-the-ezekiel-choke.jpg?v=1719592963&width=1200)
 ## [[Mount]]
-- With one arm behind their head, grab the sleeve of your other arm (turn their head, so they’re looking in your direction)
+- With 1 arm behind their head, grab the sleeve of your other arm (turn their head, so they’re looking in your direction)
 - Bring the other arm over their neck and under their chin
 - Form the other hand into a blade and place it over the carotid artery
 - Extend your arms

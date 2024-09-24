@@ -11,7 +11,7 @@
 - If you’re too high, readjust
 - Power half
 	- Connect hands under the armpit and over the head (not the neck)
-	- Use a foot to elevate one side
+	- Use a foot to elevate 1 side
 ## Additional Details
 # Links
 ## Positions

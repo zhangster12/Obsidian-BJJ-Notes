@@ -1,10 +1,10 @@
 # Overview
-The **Mount** is one of the most dominant positions, hence earning 4 points when achieving in competition. One downside of mount is that the opponent can still use their hips to bridge, so it’s important to monitor that.
+The **Mount** is 1 of the most dominant positions, hence earning 4 points when achieving in competition. 1 downside of mount is that the opponent can still use their hips to bridge, so it’s important to monitor that.
 
 ![Mount](https://www.jiujitsubrotherhood.com/cdn/shop/articles/Keys_to_Mount_1728x.png?v=1579429130)
 # Entry
 There are multiple ways to advance to **Mount** from Side Control:
-- Walk your knees down, while maintaining cross face. Bring your knee over their waist, while keeping the other one on the toes. Walk their arm up. Bring your leg to the mat. Shelf the legs with your leg or slide into high mount.
+- Walk your knees down, while maintaining cross face. Bring your knee over their waist, while keeping the other 1 on the toes. Walk their arm up. Bring your leg to the mat. Shelf the legs with your leg or slide into high mount.
 - Shin slice across the hip.
 - Press 
 # Keys

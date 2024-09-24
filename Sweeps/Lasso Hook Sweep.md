@@ -3,7 +3,7 @@ The Lasso Hook Sweep, or the Merigali Sweep, is a sweep that uses the Lasso Guar
 # Initiation
 This sweep starts in Lasso Guard.
 # Keys
-This sweep uses the Lasso Guard to take away the base on one side.
+This sweep uses the Lasso Guard to take away the base on 1 side.
 
 Use the collar grip to direct them overhead.
 # Defense

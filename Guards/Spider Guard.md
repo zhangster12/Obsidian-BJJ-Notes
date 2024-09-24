@@ -9,11 +9,11 @@ Entering Spider Guard usually happens when you can control of both of the oppone
 # Retention
 You need to be on 1 hip and have 1 leg extended.
 
-Plant one foot on mat arms to face
+Plant 1 foot on mat arms to face
 → X guard
 
 
-If they squat down with one knee up and the other back:
+If they squat down with 1 knee up and the other back:
 
 Deep DLR X
 

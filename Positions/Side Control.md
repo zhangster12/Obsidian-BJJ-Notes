@@ -5,7 +5,7 @@
 # Entry
 <u>Side Control</u> is a hub after you’ve passed the guard. This can be from open guard, half guard, closed guard, etc.
 # Keys
-The most basic <u>Side Control</u> consists of an under and overhook while having a good crossface, so your shoulder will be driving into their face. One knee should be under their near side shoulder and the other at their hip.
+The most basic <u>Side Control</u> consists of an under and overhook while having a good crossface, so your shoulder will be driving into their face. 1 knee should be under their near side shoulder and the other at their hip.
 
 As with any other position, <u>Side Control</u> is **NOT** a static position because your opponent will be countering and trying to escape. You have to be dynamic when pinning your opponent. By switching from position to position, you can adapt to the energy he’s giving you and also create many opportunities to outmaneuver and set him up as he tries to recover his guard. Each variation allows you to adjust the point of pressure for your weight on your opponent while moving around their various attempts to escape, so you should become familiar with them all.
 # Attacking

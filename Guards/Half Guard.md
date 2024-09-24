@@ -1,11 +1,11 @@
 # Overview
-<u>Half Guard</u> is a guard in which you have one leg in and one leg out. It is an excellent passing and sweeping position.
+<u>Half Guard</u> is a guard in which you have 1 leg in and 1 leg out. It is an excellent passing and sweeping position.
 
 ![Half Guard](https://www.artemisbjj.com/wp-content/uploads/2014/06/BJJ-Bristol-Artemis-Brazilian-Jiu-Jitsu-Half-Guard.jpg)
 # Entry
 During reguarding, you can enter <u>Half Guard</u> as a pitstop during reguarding.
 
-During passing, you can force <u>Half Guard</u> by placing one leg in between yours and dropping to your knees or when the opponent tries to underhook the leg when you’re [Knee Cutting](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
+During passing, you can force <u>Half Guard</u> by placing 1 leg in between yours and dropping to your knees or when the opponent tries to underhook the leg when you’re [Knee Cutting](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
 # Passing
 To pass <u>Half Guard</u>, you have to get chest-to-chest to the opponent. This can be accomplished by getting past the ***top leg*** [[#^ca35da]] or the ***bottom knee***. 
 

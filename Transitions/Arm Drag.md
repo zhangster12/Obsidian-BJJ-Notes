@@ -1,5 +1,5 @@
 # Overview
-An Arm Drag is a movement in which you hook one of the opponent’s arms as to drag it across your body.
+An Arm Drag is a movement in which you hook 1 of the opponent’s arms as to drag it across your body.
 
 # Setup
 ## [[Closed Guard]]

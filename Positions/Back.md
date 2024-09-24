@@ -1,5 +1,5 @@
 # Overview
-The Back is one of the most dominant positions, because while your opponent has very few attacks, you can attack them while controlling them.
+The Back is 1 of the most dominant positions, because while your opponent has very few attacks, you can attack them while controlling them.
 
 ![Back](https://evolve-mma.com/wp-content/uploads/2022/03/back-mount.jpg)
 # Entry
@@ -30,7 +30,7 @@ Hooks are the weakest way to control the back, but if they’re in turtle, it mi
 ### Feet on Hips
 This is similar to the body triangle, but the legs aren’t locked. This is good for people whose waists are wider than your legs.
 ### Single Hook
-This is good if you can’t get the other hook in. One leg is in, and the other leg is out. You can cross your feet behind their leg, or you can extend them out to get the other hook by pushing on their thigh with your shin and reinforcing with the other foot. [Link](https://www.youtube.com/watch?v=pUECcQ8JJeA)
+This is good if you can’t get the other hook in. 1 leg is in, and the other leg is out. You can cross your feet behind their leg, or you can extend them out to get the other hook by pushing on their thigh with your shin and reinforcing with the other foot. [Link](https://www.youtube.com/watch?v=pUECcQ8JJeA)
 # Attacking
 The opponent will likely be hand fighting you.
 

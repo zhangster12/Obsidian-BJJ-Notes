@@ -1,10 +1,10 @@
 # Overview
-The **Triangle Choke** is a chokehold that encircles the opponent's neck and one arm with the legs in a configuration similar to the shape of a triangle. It is one of the basic submissions that’s learning when starting BJJ.
+The **Triangle Choke** is a chokehold that encircles the opponent's neck and 1 arm with the legs in a configuration similar to the shape of a triangle. It is 1 of the basic submissions that’s learning when starting BJJ.
 
 ![Triangle Choke](https://gumacliftonnj.com/wp-content/uploads/2023/06/Mastering-the-Triangle-Choke-Essential-Tips-and-Variations.png)
 # Entry
 The **Triangle Choke** can be setup anytime there is an isolation of the head and arm.
-- From [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), controlling the wrists and pushing one away to isolate the head and arm.
+- From [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), controlling the wrists and pushing 1 away to isolate the head and arm.
 - In Lasso Guard, control the triceps where the hook is and shoot the legs up into a **Triangle**/[Trap Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTrap%20Triangle). [Link](https://www.youtube.com/shorts/7XBWcjFlqh0)
 
 This can come after off balancing the opponent:

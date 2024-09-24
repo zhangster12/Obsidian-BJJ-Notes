@@ -1,7 +1,7 @@
 # Entries
 ## [[Butterfly Guard]]
 - Keep as tight as possible to the hips and chest
-- Press one knee past your centerline and press all of your weight onto their legs, while you step forward (maintain chest contact with the legs)
+- Press 1 knee past your centerline and press all of your weight onto their legs, while you step forward (maintain chest contact with the legs)
 	- Straighten the leg in front, while you wedge your left hand behind your opponent
 	- Back step and bring the trailing arm to the triceps
 ## Additional Details

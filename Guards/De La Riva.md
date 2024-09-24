@@ -1,9 +1,9 @@
 # Overview
-**De La Riva (DLR)** is a guard in which you have one foot hooked on their hip.
+**De La Riva (DLR)** is a guard in which you have 1 foot hooked on their hip.
 
 ![DLR](https://www.bjjheroes.com/wp-content/uploads/2014/06/De-La-Riva-Guard1.jpg)
 # Entry
-Entering **DLR** occurs in open guard when the opponent steps one leg forward, which presents an opportunity to hook onto the leg. For example, in [Collar Sleeve](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FCollar%20Sleeve%20Guard), when the opponent steps forwards to remove the frames, you can swing around to hook onto the leg.
+Entering **DLR** occurs in open guard when the opponent steps 1 leg forward, which presents an opportunity to hook onto the leg. For example, in [Collar Sleeve](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FCollar%20Sleeve%20Guard), when the opponent steps forwards to remove the frames, you can swing around to hook onto the leg.
 # Passing
 When passing **DLR**, you have to kill the hook by extending your leg, so it’s very hard to hook onto. For the other leg, control the leg so that it’s not framing and squat on top of it. If the person on the bottom strips the grips, you can force half guard.
 
@@ -49,7 +49,7 @@ In Reverse DLR,
 ## Deep DLR-X
 Sometimes in DLR, they take a back step and their far foot ends up near you.
 
-The one downside is that it locks you into sweeping.
+The 1 downside is that it locks you into sweeping.
 
 Keep frame on near side arm.
 ## Grip Variations

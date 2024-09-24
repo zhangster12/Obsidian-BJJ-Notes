@@ -1,5 +1,5 @@
 # Overview
-In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), you would typically shift your hips to the outside to create an angle, so this guard is a continuation of that principle, with the overhook. Similar to [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), this guard is an isolation of one arm.
+In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), you would typically shift your hips to the outside to create an angle, so this guard is a continuation of that principle, with the overhook. Similar to [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), this guard is an isolation of 1 arm.
 
 ![Clamp Guard](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F387f6fb2-f5e8-4033-bba0-41f9f6c20e5d_1980x1178.png)
 # Entry
