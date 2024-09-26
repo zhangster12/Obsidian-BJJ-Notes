@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Leg Drag.md",
+                "file": "Guard Passes/Leg Weave.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Leg Drag.md"
+                "file": "Guard Passes/Leg Weave.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Leg Drag.md",
+                "file": "Guard Passes/Leg Weave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Leg Drag.md",
+                "file": "Guard Passes/Leg Weave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,10 @@
   "active": "b2831a10919ae014",
   "lastOpenFiles": [
     "Guard Passes/Knee Cut.md",
-    "Guard Passes/Leg Drag.md",
     "Guard Passes/Circle Pass.md",
+    "Guard Passes/Leg Drag.md",
+    "Guard Passes/Leg Weave.md",
+    "Guard Passes/Long Step.md",
     "Guards/Half Guard.md",
     "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
@@ -218,8 +220,6 @@
     "Positions/Top Lock.md",
     "Submissions/Ezekiel Choke.md",
     "Submissions/Omoplata.md",
-    "Submissions/Mounted Triangle.md",
-    "Submissions/Triangle Choke.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",
