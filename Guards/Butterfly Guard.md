@@ -20,6 +20,12 @@ There are various configurations you can use with your arms to do so:
 - Collar sleeve with a foot on the hip
 
 You can enter Lapel Guard from the last 1.
+
+
+To set up sweep:
+- over back grup on gi.
+- kick out their leg
+- 
 # Retention
 Force them onto their back.
 

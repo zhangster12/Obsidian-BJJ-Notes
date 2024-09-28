@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Escapes/Back Door Escape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Leg Weave.md"
+                "file": "Escapes/Back Door Escape.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Escapes/Back Door Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Escapes/Back Door Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +192,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b2831a10919ae014",
+  "active": "f6999d96f8c1db2e",
   "lastOpenFiles": [
-    "Guard Passes/Knee Cut.md",
+    "Template/Template.md",
+    "Escapes/Back Door Escape.md",
+    "Positions/Mount.md",
+    "Escapes/Ghost Escape.md",
+    "Escapes/Kipping Escape.md",
+    "Guards/Ashi Garami.md",
+    "Guards/X-guard.md",
+    "Guards/Butterfly Guard.md",
+    "Submissions/Omoplata.md",
     "Guard Passes/Leg Weave.md",
+    "Guard Passes/Knee Cut.md",
     "Guards/Half Guard.md",
     "Guard Passes/Circle Pass.md",
     "Guard Passes/Leg Drag.md",
@@ -204,22 +213,13 @@
     "Grips/Brabo Grip.md",
     "Positions/Side Control.md",
     "Positions/S-mount.md",
-    "Positions/Mount.md",
     "Positions/Headquarters.md",
     "Positions/Dagestani Handcuff.md",
     "Positions/Back.md",
-    "Guards/X-guard.md",
     "Guards/Spider Guard.md",
     "Guards/Clamp Guard.md",
     "Guards/De La Riva.md",
     "Guards/Closed Guard.md",
-    "Guards/Butterfly Guard.md",
-    "Guards/Ashi Garami.md",
-    "Guard Passes/Smash Pass.md",
-    "Guard Passes/Sao Paulo Pass.md",
-    "Positions/Top Lock.md",
-    "Submissions/Ezekiel Choke.md",
-    "Submissions/Omoplata.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",

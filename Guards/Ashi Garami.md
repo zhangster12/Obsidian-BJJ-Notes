@@ -17,6 +17,8 @@ If you wish to remain standing, make sure to *turn the outside knee in* and *pin
 - After doing so, strip the outside leg and then the inside hook. Lock out the arms. Once you’ve pushed on the inside leg. You can step back if they push back and into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
 # Retention
 The most important part of **Ashi** is controlling the ankle, because if the opponent tries to pass to mount, there’s still enough space to re-guard.
+
+If the guard player keeps the passer’s ankle off the mat, they won’t be able to crowd the guard player. Turn yourself into a ball.
 ## Attacking
 To sweep, try to grab the far sleeve/arm, so they aren’t able to base or grab both pants/ankles.
 
