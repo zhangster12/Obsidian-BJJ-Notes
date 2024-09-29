@@ -1,5 +1,5 @@
 # Overview
-The <u>São Paulo Pass</u>, also known as the **Tozi Pass** or hammerlock, is a guard pass that that traps your opponent's hand so you can apply pressure to their shoulder and limit attacks while passing the guard.
+The <u>São Paulo Pass</u>, also known as the <u>Tozi Pass</u> or hammerlock, is a guard pass that that traps your opponent's hand so you can apply pressure to their shoulder and limit attacks while passing the guard.
 # Setup
 In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), you have to pin 1 arm to the mat or in the gi, you can grab their sleeve to to pin their arm. [Link](https://youtu.be/bs0IejiQ76Q?si=Pz8df0ArRqzGehA0&t=122)
 

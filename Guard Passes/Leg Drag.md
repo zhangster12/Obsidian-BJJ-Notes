@@ -19,7 +19,6 @@ If the bottom player is on their side, this is ideal for taking the [Back](obsid
 
 If the guard player is framing at the shoulder, the passer can move the frame to one side and block with the chest/shoulder.
 # Defense
-
 # Links
 ## Positions
 - [[Back]] (If the bottom player [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTurtle%20Guard))
