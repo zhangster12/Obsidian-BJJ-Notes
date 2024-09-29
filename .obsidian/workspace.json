@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Guard Passes/Shin Slice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Leg Weave.md"
+                "file": "Guard Passes/Shin Slice.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Guard Passes/Shin Slice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Leg Weave.md",
+                "file": "Guard Passes/Shin Slice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,14 +192,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b2831a10919ae014",
+  "active": "f6999d96f8c1db2e",
   "lastOpenFiles": [
+    "Guard Passes/Leg Weave.md",
     "Guard Passes/Shin Slice.md",
     "2024-09-29.md",
     "Guard Passes/Smash Pass.md",
     "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Long Step.md",
-    "Guard Passes/Leg Weave.md",
     "Guard Passes/Leg Drag.md",
     "Guard Passes/Circle Pass.md",
     "Grips/Cross Pant Grip.md",
