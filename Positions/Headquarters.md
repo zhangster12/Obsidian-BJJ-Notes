@@ -1,5 +1,5 @@
 # Overview
-**HQ** is a position in which you have 1 leg out and the other leg in and is a very good passing hub.
+<u>HQ</u> is a position in which you have 1 leg out and the other leg in and is a very good passing hub.
 
 ![HQ](https://preview.redd.it/x8uulmpupql51.png?width=966&format=png&auto=webp&s=5ec60de0ec8335177ee17b02409768c995b385d9)
 # Entry
@@ -28,11 +28,10 @@ Bring your outside knee turned in at their thigh in this case. This is similar t
 
 Sometimes they will grab your ankle/pants to establish a [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva) hook. You have to address this first by reaching inside the hook and stripping their ankle/pant grip.
 # Defense
-In the gi, using a pant grip on their outside knee is very helpful. 
+The guard player has to defend by getting their feet back in front and getting the pinned leg out:
+- The outside leg can be used to frame on the shoulder with a sleeve grip. The guard player can then use a same side collar grip to push the passer away and recovery their pinned leg. With the legs freed, the guard player can re-guard into [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) or [Shallow Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard).
 
-You have to get counter grips.
-
-You have to get your feet back in front of you.
+The guard player can use counter grips (double collar grip, outside DLR pant grip) to prevent the passer from advancing.
 # Variations
 There is a variation of HQ in which you pin their outside leg
 # Links

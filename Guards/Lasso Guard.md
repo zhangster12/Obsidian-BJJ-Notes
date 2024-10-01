@@ -17,4 +17,4 @@ You can enter Lasso Guard from Spider Guard:
 - [[Triangle Choke]]
 ## Sweeps
 # Tags
-#gi #guard 
+#gi #guard #lassoguard 

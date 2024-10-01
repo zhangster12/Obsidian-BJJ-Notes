@@ -56,6 +56,7 @@ The [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2F
 - [[Butterfly Guard]]
 - [[Closed Guard]]
 - [[Half Guard]] (Lever Sweep into top Half Guard)
+	- [[Deep Half Guard]]
 	- [[Reverse Half Guard]]
 ### Passes
 - [[Leg Drag]]

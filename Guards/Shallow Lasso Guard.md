@@ -2,9 +2,8 @@
 # Entry/Setup
 # Passing
 # Retention/Keys
-# Attacking
-Merigali sweep
-# Escape/Defense
+# Attacking/Transitioning
+# Escape/Defense/Counter
 # Variations
 # Links
 ## Escapes
@@ -17,4 +16,4 @@ Merigali sweep
 ## Sweeps
 # References
 # Tags
-#gi #guard #lassoguard #lapelguard 
+#gi #guard #lassoguard

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Shin Slice.md",
+                "file": "Positions/Headquarters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#halfguard",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Shin Slice.md"
+                "file": "Positions/Headquarters.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Shin Slice.md",
+                "file": "Positions/Headquarters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Shin Slice.md",
+                "file": "Positions/Headquarters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,34 +192,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6999d96f8c1db2e",
+  "active": "b2831a10919ae014",
   "lastOpenFiles": [
-    "Guard Passes/Leg Weave.md",
+    "Guards/Shallow Lasso Guard.md",
+    "Guards/Half Guard.md",
+    "Template/Template.md",
+    "Guard Passes/Circle Pass.md",
+    "Guard Passes/Shin Pin.md",
+    "Guards/Lapel Lasso Guard.md",
+    "Guards/Lasso Guard.md",
+    "Guards/Deep Half Guard.md",
     "Guard Passes/Shin Slice.md",
+    "Guard Passes/Leg Weave.md",
     "2024-09-29.md",
     "Guard Passes/Smash Pass.md",
     "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Long Step.md",
     "Guard Passes/Leg Drag.md",
-    "Guard Passes/Circle Pass.md",
     "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
     "Escapes/Kipping Escape.md",
     "Escapes/Ghost Escape.md",
     "Escapes/Back Door Escape.md",
-    "Template/Template.md",
     "Positions/Mount.md",
     "Guards/Ashi Garami.md",
     "Guards/X-guard.md",
     "Guards/Butterfly Guard.md",
     "Submissions/Omoplata.md",
     "Guard Passes/Knee Cut.md",
-    "Guards/Half Guard.md",
-    "Positions/Side Control.md",
-    "Positions/S-mount.md",
-    "Positions/Headquarters.md",
-    "Positions/Dagestani Handcuff.md",
-    "Positions/Back.md",
     "Pasted image 20240907002539.png",
     "Untitled",
     "Pasted image 20240602100909.png",
