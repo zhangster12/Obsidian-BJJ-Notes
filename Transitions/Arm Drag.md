@@ -12,7 +12,7 @@ An Arm Drag is a movement in which you hook 1 of the opponent’s arms as to dra
 # Links
 
 ## Guards
-- [[Turtle Guard]]
+- [[Turtle]]
 ## Positions
 - [[Back]]
 - [[Mount]]

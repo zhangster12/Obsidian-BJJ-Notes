@@ -1,5 +1,5 @@
 # Overview
-The **Top Lock** is when the ankles are crossed high up on the opponent’s back, with 1 elbow being across the centerline. This position provides greater control over their posture as well as offer a multitude of arm locks.
+The <u>Top Lock</u> is when the ankles are crossed high up on the opponent’s back, with 1 elbow being across the centerline. This position provides greater control over the passer’s posture as well as offer a multitude of arm locks.
 
 ![Top Lock](https://bjj-notes.com/wp-content/uploads/2022/10/top_lock_re-size.gif)
 # Entry
