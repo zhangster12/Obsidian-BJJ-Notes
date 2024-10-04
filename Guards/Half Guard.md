@@ -31,6 +31,7 @@ Where to frame:
 
 If they manage to grab your collar and, you can block their outside knee and off balance them to get them to post, or if they face plant by not letting go, you can come up for the sweep.
 # Attacking
+
 # Variations
 ## Butterfly Half Guard
 
@@ -62,6 +63,7 @@ The [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2F
 - [[Leg Drag]]
 - [[Leg Weave]] (If they collapse their knees)
 ### Positions
+- [[Back]]
 - [[Dogfight]]
 - [[Scarf Hold]]
 ### Submissions

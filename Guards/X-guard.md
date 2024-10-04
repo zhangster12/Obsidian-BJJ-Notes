@@ -1,16 +1,18 @@
 # Overview
-The **X-guard** is a position in which you have your same side hand gripping over the top of their knee, while 1 of your legs hooks behind their other knee, while your other foot is up by their hip.
+The <u>X-guard</u> is a guard in which the guard player’s legs are controlling a passer’s leg like an X.
 
 ![X-Guard](https://www.grapplearts.com/wp-content/uploads/2013/03/What-is-the-X-Guard.png)
 # Entry
-From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), you can enter **X-guard** when the opponent strips the top foot.
+From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), the guard player can enter <u>X-guard</u> when the opponent strips the top foot.
 # Passing
+The passer must break down the hooks.
 # Retention
 # Attacking
-If you have 1 hook at the hook and lower the other hook to the foot, you can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
-
-Get top player’s hands to mat then 2 pant grips.
-Wrestle up to leg drag.
+The guard player should keep the passer’s hands on the mat or away by off balancing them.
+## Sweeps
+- If the guard player has 1 hook at the hip and lower the other hook to the foot, they can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
+- After getting the passer’s hands to the mat, the guard player can grab 2 pant grips and [Wrestle up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up).
+- The guard player can bring their knees to the chest and push the passer onto their back.
 # Variations
 ## Modified
 In the modified **X-guard**, sometimes called the butterfly-x guard, the top leg is hooking at the near side hip for control. [Link](https://www.youtube.com/watch?v=5YiH8ggmM4I&t=11s)
