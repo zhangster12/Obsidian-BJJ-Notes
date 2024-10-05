@@ -11,8 +11,13 @@
             "id": "26e4ba9830aef451",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Escapes/Back Door Escape.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "582ff28650872adf",
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Escapes/Back Door Escape.md"
+              }
             }
           },
           {
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Escapes/Back Door Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Escapes/Back Door Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +171,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6999d96f8c1db2e",
+  "active": "26e4ba9830aef451",
   "lastOpenFiles": [
+    "Escapes/Ghost Escape.md",
+    "Escapes/Back Door Escape.md",
     "Competitions/2024-04-28 - Brewjitsu 2.md",
     "Guards/Reverse DLR.md",
     "Guards/De La Riva.md",
@@ -191,8 +201,6 @@
     "Guards/X-guard.md",
     "Guards/Sit Up Guard.md",
     "Guard Passes/Shin Pin.md",
-    "Guard Passes/Sao Paulo Pass.md",
-    "Guard Passes/Long Step.md",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
