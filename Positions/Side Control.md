@@ -16,6 +16,52 @@ You can attack the far side arm with a [Kimura](obsidian://open?vault=Obsidian-B
 Additionally, you can attack the near side arm by placing your leg over it.
 
 Attack the far arm by controlling it, then stepping around for Armbar.
+
+[https://youtube.com/watch?v=25Phe--Jhu0](https://youtube.com/watch?v=25Phe--Jhu0)
+
+Lapel chokes
+- In side control:
+    - Isolate the near arm by grabbing your own gi
+    - Isolate the far arm:
+        - Shift hips (face their head)
+        - Push down on the arm (wrist lock at blue belt)
+        - Windshield wiper legs to cover it
+- Thumb in choke
+    - Hand in the collar (near side)
+    - Drop elbow to the floor
+    - Flare over the head
+- 4 finger loop choke
+    - Hand in the lapel (far side)
+    - Loop elbow over the head & bring it to the floor
+    - The free hand takes the slack out of their collar
+    - Bring the choking elbow to your waist
+- Near lapel chokes
+    - Handoff
+        - Free the near lapel
+        - Pass it to the free while snaking the choking arm under their head
+        - Pass it back to the choking hand
+        - Take out all the slack
+        - Block their hip with your hand
+        - Windshield wipe legs to change legs
+        - Rotate your head clockwise
+        - Replace the leg with the hand
+        - Maintain shoulder pressure
+        - Continue turning clockwise
+    - Loop choke
+        - Free the lapel
+        - Feed it under their head & loop it over their neck
+        - Use the other hand to take the slack out
+        - Flare the elbow
+- Far lapel choke
+    - Free the far lapel (while blocking their vision)
+    - Use the other hand to control the arm
+    - Feed it to the choking arm under the head
+    - Turn clockwise & extend the arm
+
+## Additional Details
+
+
+
 # Escape
 To escape **Side Control**, you need to:
 - Elbow frame at the hip.

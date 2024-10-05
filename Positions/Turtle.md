@@ -8,8 +8,9 @@ In a wide <u>Turtle</u>, the top player can simply insert their knee inside the 
 
 In an inside <u>Turtle</u>, the top player can roll the bottom player onto their side.
 
-Control the hips first, then the rest of the 
-Get hooks in
+Control the hips first, then climb to the rest of the body, then get hooks.
+
+In the gi, the top player can grab the collar and the pants while keeping one knee at the side (on the mat) and there other behind the hips (off the floor).
 # Escape
 The bottom player’s objective is to recover guard.
 # Keys

@@ -6,52 +6,13 @@
       {
         "id": "3c8d66f7cf01ff41",
         "type": "tabs",
-        "dimension": 72.37569060773481,
         "children": [
           {
-            "id": "db3b9fe492d829cf",
+            "id": "26e4ba9830aef451",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guards/Half Guard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdb05ba0f64ef14c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guard Passes/Shin Pin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1c6b6298707a4128",
-        "type": "tabs",
-        "dimension": 27.624309392265197,
-        "children": [
-          {
-            "id": "93ffc14c64fae3c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#halfguard",
+                "query": "tag:#hide",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Guards/Half Guard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guards/Half Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guards/Half Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,36 +163,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db3b9fe492d829cf",
+  "active": "f6999d96f8c1db2e",
   "lastOpenFiles": [
-    "Sweeps/Rollover Sweep.md",
+    "Competitions/2024-04-28 - Brewjitsu 2.md",
+    "Guards/Reverse DLR.md",
+    "Guards/De La Riva.md",
     "Guards/Half Guard.md",
+    "Concepts.md",
+    "Untitled",
+    "Harry Take down workshop.md",
+    "Sequences.md",
+    "Guards/Lasso-DLR Guard.md",
+    "Competitions",
+    "Positions/Side Control.md",
+    "Guards/Spider Guard.md",
+    "Submissions/Bicep Slicer.md",
+    "Submissions/Armbar.md",
+    "Positions/S-mount.md",
+    "Takedowns/Osoto Gari.md",
+    "Takedowns/Foot Sweep.md",
+    "Positions/Turtle.md",
+    "Positions/Dogfight.md",
+    "Sweeps/Dummy Sweep.md",
+    "Positions/J-point.md",
+    "Guard Passes/Circle Pass.md",
+    "Sweeps/Rollover Sweep.md",
     "Guards/X-guard.md",
     "Guards/Sit Up Guard.md",
     "Guard Passes/Shin Pin.md",
     "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Long Step.md",
-    "Guard Passes/Leg Weave.md",
-    "Guard Passes/Leg Drag.md",
-    "Guard Passes/Knee Cut.md",
-    "Guard Passes/Circle Pass.md",
-    "Guards/Shin-on-Shin Guard.md",
-    "Positions/Turtle.md",
-    "Positions/Top Lock.md",
-    "Positions/Mount.md",
-    "Positions/North-South.md",
-    "Positions/Reverse Triangle.md",
-    "Positions/S-mount.md",
-    "Positions/Technical Mount.md",
-    "Positions/Dagestani Handcuff.md",
-    "Foot Sweep.md",
-    "Positions/Headquarters.md",
-    "Guards/Shallow Lasso Guard.md",
-    "Template/Template.md",
-    "Guards/Lapel Lasso Guard.md",
-    "Guards/Lasso Guard.md",
     "Pasted image 20240907002539.png",
-    "Untitled",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
     "Pasted image 20240507104318.png",
@@ -253,7 +211,6 @@
     "Guard Pulls",
     "Takedowns",
     "Sweeps",
-    "Transitions",
-    "Guards"
+    "Transitions"
   ]
 }

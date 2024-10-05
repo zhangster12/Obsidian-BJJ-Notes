@@ -5,34 +5,76 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#escape  ",
+      "query": "path:Escapes  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#guard  ",
+      "query": "path:Grips  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#guardpass",
+      "query": "path:\"Guard Passes\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "",
+      "query": "path:\"Guard Pulls\"  ",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Guards  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Positions  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Submissions  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Sweeps  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Takedowns  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:Transitions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
       }
     }
   ],
@@ -42,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.99989604989605,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 15,
+  "centerStrength": 0.504158004158004,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6346285676930613,
-  "close": true
+  "scale": 0.17874521860402023,
+  "close": false
 }

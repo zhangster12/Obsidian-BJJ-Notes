@@ -46,6 +46,8 @@ The [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2F
 
 ![Reverse Half Guard](https://evolve-mma.com/wp-content/uploads/2023/08/reverse-half-guard-edited.jpg)
 ## Chest-to-Chest
+
+Shake to escape from bottom
 ## Deep Half Guard
 
 ![Deep Half Guard](https://www.grapplearts.com/wp-content/uploads/2018/09/6-deep-half-guard.png)

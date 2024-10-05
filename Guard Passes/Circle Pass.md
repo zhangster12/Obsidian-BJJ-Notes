@@ -12,7 +12,7 @@ At the beginning, when the passer is controlling the ankles:
 When moving laterally, the passer should be on the toes unless they’re dropping down into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard), and they shouldn’t be within arms length of the guard player.
 # Transitioning
 - If there are no frames, the passer can simply drop their weight into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control).
-- If the there are frames, the passer can walk to the other side for a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag). The passer can also camp the position to make the guard player more fatigued ([J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control)).
+- If the there are frames, the passer can walk to the other side for a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag). The passer can also camp the position to make the guard player more fatigued ([J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point)).
 - If the guard player begins to track the passer with their feet, they’ve opened themselves to a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut).
 - The top player can also drop into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) to reserve energy.
 # Defense

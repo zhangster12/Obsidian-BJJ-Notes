@@ -74,6 +74,7 @@ In this variation, you are framing the far foot on the far bicep.
 - [[Triangle Choke]]
 ## Sweeps
 - [[Split Sweep]]
+- [[Tripod Sweep]]
 - [[Wrestle-up]]
 # Tags
 #gi #guard

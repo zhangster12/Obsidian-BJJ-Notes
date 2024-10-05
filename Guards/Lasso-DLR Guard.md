@@ -1,9 +1,9 @@
 # Overview
 # Entry/Setup
 # Passing
-# Keys
-- Sweep the foot towards oneself.
+# Retention/Keys
 # Attacking/Transitioning
+Back take https://www.youtube.com/shorts/U_Q_kBZCMrM
 # Escape/Defense/Counter
 # Variations
 # Links
