@@ -35,7 +35,7 @@ The **Grapevine**, a technique where the legs wrap around the opponent’s legs 
 # Links
 ## Escapes
 - [[Back Door Escape]]
-- Bridge and Roll
+- [[Bridge & Roll Escape]]
 - [[Kipping Escape]] (If their feet are crossed)
 - [[Knee Elbow Escape]] (If their posture is up)
 ## Positions
