@@ -13,4 +13,4 @@ You can enter Technical Mount from Side Control using a few methods:
 - [[Bow & Arrow Choke]]
 - [[Single Wing]]
 # Tags
-#gi #position 
+#gi #position #mount 

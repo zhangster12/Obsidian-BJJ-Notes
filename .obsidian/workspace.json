@@ -11,13 +11,8 @@
             "id": "26e4ba9830aef451",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escapes/Back Door Escape.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Escapes/Back Door Escape.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escapes/Back Door Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escapes/Back Door Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,10 +162,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26e4ba9830aef451",
+  "active": "f6999d96f8c1db2e",
   "lastOpenFiles": [
-    "Escapes/Ghost Escape.md",
+    "New Text Document.txt",
     "Escapes/Back Door Escape.md",
+    "Positions/Technical Mount.md",
+    "Positions/Mount.md",
+    "Positions/S-mount.md",
+    "Escapes/Ghost Escape.md",
     "Competitions/2024-04-28 - Brewjitsu 2.md",
     "Guards/Reverse DLR.md",
     "Guards/De La Riva.md",
@@ -189,7 +184,6 @@
     "Guards/Spider Guard.md",
     "Submissions/Bicep Slicer.md",
     "Submissions/Armbar.md",
-    "Positions/S-mount.md",
     "Takedowns/Osoto Gari.md",
     "Takedowns/Foot Sweep.md",
     "Positions/Turtle.md",
@@ -198,9 +192,6 @@
     "Positions/J-point.md",
     "Guard Passes/Circle Pass.md",
     "Sweeps/Rollover Sweep.md",
-    "Guards/X-guard.md",
-    "Guards/Sit Up Guard.md",
-    "Guard Passes/Shin Pin.md",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",

@@ -28,4 +28,4 @@ The opponent should also be on their back and not their side, whereas in Technic
 ## Submissions
 - [[Armbar]]
 # Tags
-#gi #position 
+#gi #position #mount
