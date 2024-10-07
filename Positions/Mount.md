@@ -1,5 +1,5 @@
 # Overview
-The **Mount** is 1 of the most dominant positions, hence earning 4 points when achieving in competition. 1 downside of mount is that the opponent can still use their hips to bridge, so it’s important to monitor that.
+The <u>Mount</u> is one of the most dominant positions, hence earning 4 points when achieving in competition. One downside of <u>Mount</u> is that the opponent can still use their hips to bridge, so it’s important to monitor that.
 
 ![Mount](https://www.jiujitsubrotherhood.com/cdn/shop/articles/Keys_to_Mount_1728x.png?v=1579429130)
 # Entry

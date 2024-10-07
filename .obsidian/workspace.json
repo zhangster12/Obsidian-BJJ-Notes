@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapes/Back Door Escape.md",
+                "file": "Escapes/Bridge & Roll Escape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Bridge & Roll Escape.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47ea581caaacf309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positions/High Mount.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grips/Cross Pant Grip.md"
+                "file": "Escapes/Bridge & Roll Escape.md"
               }
             }
           },
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Bridge & Roll Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grips/Cross Pant Grip.md",
+                "file": "Escapes/Bridge & Roll Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +197,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2e9ad64f9c2b724d",
+  "active": "26e4ba9830aef451",
   "lastOpenFiles": [
+    "Escapes/Back Door Escape.md",
+    "Escapes/Bridge & Roll Escape.md",
+    "Positions/High Mount.md",
+    "Positions/Mount.md",
+    "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
     "Escapes/Knee Elbow Escape.md",
     "Escapes/Ghost Escape.md",
-    "Escapes/Bridge & Roll Escape.md",
-    "Escapes/Back Door Escape.md",
-    "Positions/Mount.md",
     "Escapes/Kipping Escape.md",
     "Competitions - Copy/2024-04-28 - Brewjitsu 2.md",
     "Competitions - Copy",
@@ -207,7 +221,7 @@
     "Concepts.md",
     "Untitled",
     "Harry Take down workshop.md",
-    "Sequences.md",
+    "Positions/Sequences.md",
     "Guards/Lasso-DLR Guard.md",
     "Positions/Side Control.md",
     "Guards/Spider Guard.md",
@@ -215,8 +229,6 @@
     "Submissions/Armbar.md",
     "Takedowns/Osoto Gari.md",
     "Takedowns/Foot Sweep.md",
-    "Positions/Turtle.md",
-    "Positions/Dogfight.md",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
