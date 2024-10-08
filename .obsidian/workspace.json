@@ -32,14 +32,21 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8173bbdf40555274",
+        "type": "tabs",
+        "children": [
           {
-            "id": "47ea581caaacf309",
+            "id": "6b902678885e7f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positions/High Mount.md",
+                "file": "Template/Template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -197,17 +204,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26e4ba9830aef451",
+  "active": "2e9ad64f9c2b724d",
   "lastOpenFiles": [
-    "Escapes/Back Door Escape.md",
+    "Template/Template.md",
     "Escapes/Bridge & Roll Escape.md",
+    "Escapes/Kipping Escape.md",
+    "Escapes/Ghost Escape.md",
+    "Escapes/Back Door Escape.md",
     "Positions/High Mount.md",
     "Positions/Mount.md",
     "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
     "Escapes/Knee Elbow Escape.md",
-    "Escapes/Ghost Escape.md",
-    "Escapes/Kipping Escape.md",
     "Competitions - Copy/2024-04-28 - Brewjitsu 2.md",
     "Competitions - Copy",
     "Competitions/2024-04-28 - Brewjitsu 2.md",
@@ -228,7 +236,6 @@
     "Submissions/Bicep Slicer.md",
     "Submissions/Armbar.md",
     "Takedowns/Osoto Gari.md",
-    "Takedowns/Foot Sweep.md",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
