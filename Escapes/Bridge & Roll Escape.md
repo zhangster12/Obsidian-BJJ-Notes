@@ -6,20 +6,10 @@ The <u>Bridge & Roll</u> can be used when the top player is still in [Mount](obs
 - Bumping the top player forward so they’re on their hands.
 - Trapping an arm.
 - Bridging and rolling towards the trapped arm.
-# Transitioning
-
 # Counter
-The top player can try and get their arm free and post on their arm or use their head as a post. They can also grapevine their legs.
-# Variations
+The top player can try and get their arm free and post on their arm or use their head as a post. They can also grapevine their legs to anchor them to the bottom player.
 # Links
-## Escapes
 ## Guards
 - [[Closed Guard]]
-## Passes
-## Positions
-## Transitions
-## Submissions
-## Sweeps
-# References
 # Tags
 #gi #nogi #escape 

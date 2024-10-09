@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapes/Bridge & Roll Escape.md",
+                "file": "Positions/Arm Saddle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escapes/Bridge & Roll Escape.md"
+                "file": "Positions/Arm Saddle.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escapes/Bridge & Roll Escape.md",
+                "file": "Positions/Arm Saddle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escapes/Bridge & Roll Escape.md",
+                "file": "Positions/Arm Saddle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,16 +206,17 @@
   },
   "active": "2e9ad64f9c2b724d",
   "lastOpenFiles": [
-    "Template/Template.md",
-    "Escapes/Bridge & Roll Escape.md",
-    "Escapes/Kipping Escape.md",
-    "Escapes/Ghost Escape.md",
+    "Positions/Back.md",
     "Escapes/Back Door Escape.md",
+    "Escapes/Ghost Escape.md",
+    "Escapes/Kipping Escape.md",
+    "Escapes/Knee Elbow Escape.md",
+    "Escapes/Bridge & Roll Escape.md",
+    "Template/Template.md",
     "Positions/High Mount.md",
     "Positions/Mount.md",
     "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
-    "Escapes/Knee Elbow Escape.md",
     "Competitions - Copy/2024-04-28 - Brewjitsu 2.md",
     "Competitions - Copy",
     "Competitions/2024-04-28 - Brewjitsu 2.md",
@@ -235,7 +236,6 @@
     "Guards/Spider Guard.md",
     "Submissions/Bicep Slicer.md",
     "Submissions/Armbar.md",
-    "Takedowns/Osoto Gari.md",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
