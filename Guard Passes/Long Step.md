@@ -10,7 +10,7 @@ With a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2
 One common misconception of the <u>Long Step</u> is that it’s a back step; they are 2 different concepts, so the passer shouldn’t be facing towards the ceiling after the <u>Long Step</u>.
 
 To execute a <u>Long Step</u>:
-- Grab a collar and pant grip (gi) or head and ankle (no-gi). [Link](https://www.youtube.com/watch?v=2FIBw6DJgAw&t=7s)
+- Grab a collar and pant grip (gi). [Link](https://www.youtube.com/watch?v=2FIBw6DJgAw&t=7s)
 - With those grips, shift back to semi disengage.
 - Drop the knee and elbow to the mat.
 - Drop the hip to the mat, while stepping the leg out.
