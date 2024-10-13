@@ -1,7 +1,7 @@
 # Overview
 The <u>Shin Pin</u> is when the passer presses their shin into the guard playerâ€™s shin, effectively pinning it.
-# Entry/Setup
-# Passing
+# Entry
+The passer can set up a Shin Pin while lateral passing.
 # Retention/Keys
 # Attacking/Transitioning
 # Escape/Defense/Counter
@@ -11,6 +11,8 @@ The <u>Shin Pin</u> is when the passer presses their shin into the guard playerâ
 ## Guards
 ## Passes
 ## Positions
+- [[Knee On Belly]]
+- [[Side Control]]
 ## Takedowns
 ## Transitions
 ## Submissions

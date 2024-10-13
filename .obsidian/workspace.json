@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Leg Trap.md",
+                "file": "Guard Passes/X-pass.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/Leg Trap.md"
+                "file": "Guard Passes/X-pass.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/Leg Trap.md",
+                "file": "Guard Passes/X-pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/Leg Trap.md",
+                "file": "Guard Passes/X-pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,16 +219,16 @@
   },
   "active": "6a4573205fa51012",
   "lastOpenFiles": [
+    "Guard Passes/Shin Pin.md",
+    "Guard Passes/Leg Weave.md",
+    "Guard Passes/Leg Trap.md",
     "Guard Passes/Leg Drag.md",
     "Guard Passes/Knee Cut.md",
     "Guard Passes/Circle Pass.md",
     "Guard Passes/Smash Pass.md",
     "Guard Passes/Long Step.md",
-    "Guard Passes/Leg Weave.md",
-    "Guard Passes/Leg Trap.md",
     "Grips/Cross Pant Grip.md",
     "Grips/Brabo Grip.md",
-    "Guard Passes/Shin Pin.md",
     "Guard Passes/Shin Slice.md",
     "Guard Passes/Sao Paulo Pass.md",
     "Escapes/Bridge & Roll Escape.md",
