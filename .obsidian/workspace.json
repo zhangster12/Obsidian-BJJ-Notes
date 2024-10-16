@@ -6,40 +6,28 @@
       {
         "id": "3c8d66f7cf01ff41",
         "type": "tabs",
+        "dimension": 54.86577181208053,
         "children": [
-          {
-            "id": "26e4ba9830aef451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escapes/Bridge & Roll Escape.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9ad64f9c2b724d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guard Passes/Shin Pin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
           {
             "id": "6a4573205fa51012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/X-pass.md",
+                "file": "Guards/Shin-on-Shin Guard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d1e89c1d4336dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stack Pass.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,11 +35,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8173bbdf40555274",
         "type": "tabs",
+        "dimension": 45.13422818791946,
         "children": [
           {
             "id": "6b902678885e7f7e",
@@ -143,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guard Passes/X-pass.md"
+                "file": "Stack Pass.md"
               }
             }
           },
@@ -165,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guard Passes/X-pass.md",
+                "file": "Stack Pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guard Passes/X-pass.md",
+                "file": "Stack Pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +206,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a4573205fa51012",
+  "active": "5d1e89c1d4336dca",
   "lastOpenFiles": [
+    "Guards/Shin-on-Shin Guard.md",
+    "Stack Pass.md",
+    "Guards/Seated Guard.md",
+    "Template/Template.md",
+    "Guards/K-guard.md",
+    "Guards/Lapel Guard.md",
+    "Guards/Ashi Garami.md",
+    "Positions/Headquarters.md",
+    "Guard Passes/Circle Pass.md",
+    "Guard Passes/X-pass.md",
     "Guard Passes/Shin Pin.md",
     "Guard Passes/Leg Weave.md",
     "Guard Passes/Leg Trap.md",
     "Guard Passes/Leg Drag.md",
     "Guard Passes/Knee Cut.md",
-    "Guard Passes/Circle Pass.md",
     "Guard Passes/Smash Pass.md",
     "Guard Passes/Long Step.md",
     "Grips/Cross Pant Grip.md",
@@ -236,18 +234,9 @@
     "Escapes/Back Door Escape.md",
     "Positions/Arm Saddle.md",
     "Positions/Back.md",
-    "Escapes/Kipping Escape.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Template/Template.md",
-    "Positions/High Mount.md",
-    "Positions/Mount.md",
-    "Competitions - Copy/2024-04-28 - Brewjitsu 2.md",
     "Competitions - Copy",
-    "Competitions/2024-04-28 - Brewjitsu 2.md",
     "Competitions",
     "New Text Document.txt",
-    "Positions/Technical Mount.md",
-    "Positions/S-mount.md",
     "Untitled",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
