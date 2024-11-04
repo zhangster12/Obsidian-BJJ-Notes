@@ -8,7 +8,9 @@ The <u>Knee Cut</u>, or knee slice, is a pass in which the passer uses their nea
 # Keys
 The <u>Knee Cut</u>, seemingly simple, has multiple moving parts and small details.
 ## Posture
-The passer should maintain a low posture to pressure the guard player as much as possible. 
+The passer should maintain a low posture to pressure the guard player as much as possible.
+
+Lucas Lepri is upright, because he has beaten the knee shield.
 ## Hand Position
 - Lucas Lepri grabs onto the same side lapel and pulls it towards him (gi).
 - The passer can place their hand on the rib (no-gi). The passer can then bring their shoulder to their hand, then underhook to block the knee shield.
@@ -21,14 +23,14 @@ When the guard player frames or reinforces their knee, the passer can:
 - Lucas Lepri pulls on the guard player’s elbow and pushes on their chest (while maintaining lapel grip), repositions his knee in the middle of their legs, and finally wedges his elbow between himself and their knee. [Link](https://youtu.be/3IqCi1GXmOg?si=oqSGg4PyTXnBmQzT&t=304)
 - Punching out the knee. [Link](https://www.youtube.com/shorts/Hy0XYZMV0vo)
 ## Finishing the <u>Knee Cut</u>
-- Lucas Lepri points the knee towards the floor and along the rib and pivots the outside leg (with the knee turned in) around the inside knee. This goes around the knee shield. [Link](https://youtu.be/3IqCi1GXmOg?si=MCDGWSUvhwUWIHMJ&t=262)
+- Lucas Lepri points the knee towards the floor and along the rib and pivots the outside leg (with the knee turned in) around the inside knee. This goes around the knee shield and applies more pressure to the guard player. [Link](https://youtu.be/3IqCi1GXmOg?si=MCDGWSUvhwUWIHMJ&t=262)
 - The passer can point the knee at the stomach so when the guard player redirects it when during the <u>Knee Cut</u>, it goes to the floor.
 - Once the pass is complete, if the bottom player tries to escape, the top player can follow them by walking the hips back.
 ## RDLR Hook
 - Popping the RDLR hook out then shin slice.
 - Donkey kicking.
 # Attacking
-When the guard player attempts to sit up for an underhook, the passer can counter with a [Loop Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FLoop%20Choke). [Link](https://www.youtube.com/watch?v=7ZNd3w5m1xs)
+When the guard player attempts to sit up for an underhook, the passer can counter with a [Loop Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FLoop%20Choke). [Link](https://www.youtube.com/watch?v=7ZNd3w5m1xs) The passer can also back step in a Reverse Half Guard (as long as they’re controlling the far side underhook, and freeing the knee line by getting the knee to the mat). [Link](https://www.youtube.com/watch?v=pnnJGKrDKWU) 
 # Defense
 ## Frames
 - Reinforcing the knee with the arm (with a RDLR hook).

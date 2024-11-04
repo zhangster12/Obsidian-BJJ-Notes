@@ -1,4 +1,5 @@
 # Overview
+<u>Shallow Lasso Guard</u> is a variation of [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) in which the guard player frames with their foot on the shoulder instead of hook at the armpit.
 # Entry/Setup
 # Passing
 # Retention/Keys

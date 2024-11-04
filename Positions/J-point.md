@@ -13,6 +13,8 @@ The passer can enter the <u>J-point</u> after a Circle Pass
 - Stepping past the hip line.
 - Controlling the knee while keeping the legs out of range of the hands.
 - Maintaining heavy pressure on the ribs or hip.
+# Escape
+- If the guard player is unable to pummel their outside leg and frame at the shoulder, they can bring their knees by pummeling underneath the passer’s armpit.
 # Links
 ## Escapes
 ## Guards

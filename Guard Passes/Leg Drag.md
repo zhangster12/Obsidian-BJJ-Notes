@@ -15,7 +15,7 @@ In [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Gu
 - Pinching into the bottom player’s hip with the outside knee.
 - Gripping onto the lapel (inside) and horse collar (outside) (gi).
 # Transitioning
-If the bottom player is on their side, this is ideal for taking the [Back](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FBack).
+If the bottom player is on their side or tries to [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTurtle%20Guard), this is ideal for taking the [Back](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FBack).
 
 If the guard player is framing at the shoulder, the passer can move the frame to one side and block with the chest/shoulder.
 # Defense

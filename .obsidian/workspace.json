@@ -6,7 +6,6 @@
       {
         "id": "3c8d66f7cf01ff41",
         "type": "tabs",
-        "dimension": 54.86577181208053,
         "children": [
           {
             "id": "6a4573205fa51012",
@@ -14,33 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guards/Shin-on-Shin Guard.md",
+                "file": "Guard Passes/Stack Pass.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Stack Pass"
             }
           },
           {
             "id": "5d1e89c1d4336dca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stack Pass.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "8173bbdf40555274",
+        "id": "019d8c5b0f8e83fc",
         "type": "tabs",
-        "dimension": 45.13422818791946,
         "children": [
           {
             "id": "6b902678885e7f7e",
@@ -52,7 +48,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Template"
             }
           }
         ]
@@ -75,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -90,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -98,14 +100,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "582ff28650872adf",
@@ -123,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack Pass.md"
-              }
+                "file": "Guard Passes/Leg Trap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Leg Trap"
             }
           },
           {
@@ -145,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -154,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack Pass.md",
+                "file": "Guard Passes/Leg Trap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Leg Trap"
             }
           },
           {
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack Pass.md",
+                "file": "Guard Passes/Leg Trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Leg Trap"
             }
           },
           {
@@ -182,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -206,34 +223,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5d1e89c1d4336dca",
+  "active": "6a4573205fa51012",
   "lastOpenFiles": [
     "Guards/Shin-on-Shin Guard.md",
-    "Stack Pass.md",
-    "Guards/Seated Guard.md",
+    "Guards/Supine Guard.md",
     "Template/Template.md",
+    "Guard Passes/Smash Pass.md",
+    "Guard Passes/Stack Pass.md",
+    "Guards/X-guard.md",
+    "Guards/Lasso Guard.md",
+    "Guards/Lasso-DLR Guard.md",
     "Guards/K-guard.md",
-    "Guards/Lapel Guard.md",
-    "Guards/Ashi Garami.md",
-    "Positions/Headquarters.md",
-    "Guard Passes/Circle Pass.md",
-    "Guard Passes/X-pass.md",
+    "Guard Passes/Sao Paulo Pass.md",
     "Guard Passes/Shin Pin.md",
+    "Guard Passes/Toreando.md",
+    "Guard Passes/Shin Slice.md",
+    "Guard Passes/Long Step.md",
     "Guard Passes/Leg Weave.md",
     "Guard Passes/Leg Trap.md",
     "Guard Passes/Leg Drag.md",
     "Guard Passes/Knee Cut.md",
-    "Guard Passes/Smash Pass.md",
-    "Guard Passes/Long Step.md",
-    "Grips/Cross Pant Grip.md",
-    "Grips/Brabo Grip.md",
-    "Guard Passes/Shin Slice.md",
-    "Guard Passes/Sao Paulo Pass.md",
-    "Escapes/Bridge & Roll Escape.md",
+    "Guard Passes/Circle Pass.md",
+    "Guard Passes/X-pass.md",
     "Escapes/Ghost Escape.md",
+    "Escapes/Bridge & Roll Escape.md",
     "Escapes/Back Door Escape.md",
-    "Positions/Arm Saddle.md",
-    "Positions/Back.md",
+    "Positions/J-point.md",
+    "Sweeps/Split Sweep.md",
+    "Guards/Shallow Lasso Guard.md",
     "Competitions - Copy",
     "Competitions",
     "New Text Document.txt",

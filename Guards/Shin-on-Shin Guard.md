@@ -4,7 +4,8 @@
 # Entry/Setup
 From [Seated Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSeated%20Guard), if the passer steps towards the guard player, the guard player can grab their leg.
 # Passing
-# Retention/Keys
+# Retention
+
 # Attacking
 You want to get both legs, you can scoot back to force them to step back.
 
