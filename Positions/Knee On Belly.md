@@ -13,6 +13,7 @@ Typically, you can progress to **KOB** from [Side Control](obsidian://open?vault
 The keys to **KOB** are:
 - 
 # Attacking
+If far arm pushs, get underhook. then step over the head for kimura or armbar
 
 # Escape
 

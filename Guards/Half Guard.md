@@ -59,6 +59,7 @@ Shake to escape from bottom
 - [[Butterfly Guard]]
 - [[Closed Guard]]
 - [[Half Guard]] (Lever Sweep into top Half Guard)
+	- [[Butterfly-Half Guard]]
 	- [[Deep Half Guard]]
 	- [[Reverse Half Guard]]
 ### Passes
@@ -75,6 +76,6 @@ Shake to escape from bottom
 - [[Lever Sweep]] (If their weight is loaded on top)
 - [[Rollover Sweep]] (If they whizzer when you underhook)
 ### Transitions
-- [[Taking the Back]] (If they don’t whizzer or lose it on a sweep attempt)
+- [[Arm Drag]] (If the top player attempts a punch-out, then the elbow is exposed)
 # Tags
 #gi #nogi #guard #halfguard 

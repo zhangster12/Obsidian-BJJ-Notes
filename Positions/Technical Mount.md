@@ -7,8 +7,11 @@ You can enter Technical Mount from Side Control using a few methods:
 - You can also walk around by 
 ## [[Side Control]]
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/YF4PDZB2w_4?si=ytrsdAYFehz8mxeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-## Additional Details
+
+Sometimes the bottom player will leave space between the arm and leg, then the top player can insert the knee in
 # Links
+# Positions
+- [[Back]]
 ## Submissions
 - [[Bow & Arrow Choke]]
 - [[Single Wing]]

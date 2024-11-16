@@ -16,6 +16,7 @@
 ## Positions
 ## Takedowns
 ## Transitions
+- [[Wrestle-up]]
 ## Submissions
 ## Sweeps
 # References

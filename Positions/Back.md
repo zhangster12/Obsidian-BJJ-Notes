@@ -1,28 +1,32 @@
 # Overview
-The Back is 1 of the most dominant positions, because while your opponent has very few attacks, you can attack them while controlling them.
+The <u>Back</u> is 1 of the most dominant positions, because while the opponent has very few attacks, the player on the <u>Back</u> can attack them while controlling them.
 
 ![Back](https://evolve-mma.com/wp-content/uploads/2022/03/back-mount.jpg)
 # Entry
-There are multiple ways to take the **Back**:
-- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), once the opponent is off balanced, you can take the hooked leg and turn it down to force them to their knees and turn them away from you. From there you can control the hips and gradually climb the back.
-- In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), taking the Back can happen from an Arm Drag.
-- In Technical Mount, you can take the back from a chair sit, by .
-- In Turtle Guard,
+Taking the <u>Back</u>:
+- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), once the opponent is off balanced, the guard player can take the hooked leg and turn it down to force the passer to their knees and turn them away. The guard player can control the hips and gradually climb the <u>Back</u>.
+- In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), taking the <u>Back</u> can happen from an Arm Drag.
+- In [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount), the top player can chair sit to the <u>Back</u>.
+- In Turtle Guard, the top player can slide the knee into the knee-elbow space OR breaking the bottom player down to the side to take the back.
+
+In the gi, using far side collar and lapel armpit grip is similar to a power half Nelson.
 # Retention
+Maintaining the <u>Back</u> requires crossbody control.
 ## Upper Body
 ### Seatbelt
 When initially taking the back, this is good, but you can switch to better options. Ideally, you should be glued to your opponent’s back. Having a good seatbelt is important, because if they escape the legs, you can crunch them, slide the knee up their hip, and retake the back
 
 Keys to having a good seatbelt:
-- Pinching your elbows
-- Placing your forearm on their beck
-- Placing your head next to their head
+- Pinching the elbows.
+- Placing the forearm on their beck.
+- Placing the head next to their head.
 ### Gift Wrap
 This can be used to control the arm as well as the back.
 ### Cross Collar Grip (Gi)
 This is advantageous because this can lead to collar chokes and is more powerful than the regular seatbelt in the gi. If they pull down on your sleeve, you won’t be able to finish the choke, so you can switch to RNC.
-## Lower Body
 
+If the opponent manages to use a baseball bat grip on the arm, bringing the gi to the hand instead of the hand to the gi will be much easier. Although the opponent has 2-on-1 grip, the one on the back can climb, like an inchworm, up the lapel.
+## Lower Body
 ### Body Triangle
 The body triangle has the greatest degree of control, but only if your legs are long enough to wrap around their body. You have to be careful of a Straight Ankle Lock.
 ### Hooks

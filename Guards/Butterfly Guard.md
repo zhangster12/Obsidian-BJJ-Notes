@@ -41,5 +41,7 @@ If the opponent is able to force you to your back or body locks you:
 - [[Mount]]
 ## Passes
 - [[Smash Pass]]
+## Transitions
+- [[Arm Drag]]
 # Tags
 #nogi #guard 

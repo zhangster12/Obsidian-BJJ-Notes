@@ -1,4 +1,7 @@
-# Instructions
+# Overview
+The <u>Collar Sleeve Guard</u> is characterized by collar and sleeve control. This allows the guard player to control the upper body of the passer, making it easier to use kuzushi by pulling the gi towards them.
+
+![Collar Sleeve Guard](https://sf.ezoiccdn.com/ezoimgfmt/grapplinginsider.com/wp-content/uploads/2020/07/collar_sleeve_Lachlan-595xh.png?ezimgfmt=ng:webp/ngcb2)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xEUf8kxcuBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Left foot to your opponent’s right hip
 - Right foot to their left shoulder or bicep (grip the sleeve or shoulder with the toes)
@@ -16,8 +19,8 @@
 - [[De La Riva]] (If they step forward)
 - [[Lasso Guard]]
 - [[Spider Guard]]
-## Transitions
-- [[Back Take]]
+## Positions
+- [[Back]]
 ## Submissions
 - [[Omoplata]]
 - [[Triangle Choke]]

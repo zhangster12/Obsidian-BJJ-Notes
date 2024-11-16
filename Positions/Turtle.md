@@ -3,10 +3,10 @@
 ![Turtle Guard](https://evolve-mma.com/wp-content/uploads/2021/12/rodrigo-and-thales-turtle-guard.jpg)
 # Attacking
 There are 2 types of <u>Turtle</u>: wide and inside, which is characterized by the width of the base and the size of the knee-elbow space.
+- In a wide <u>Turtle</u>, the top player can simply insert their knee inside the space.
+- In an inside <u>Turtle</u>, the top player can roll the bottom player onto their side. This Turtle is much more common.
 
-In a wide <u>Turtle</u>, the top player can simply insert their knee inside the space.
-
-In an inside <u>Turtle</u>, the top player can roll the bottom player onto their side.
+The top player should control the hips no mater what. Even of the bototm player rolls, the top player will remain on top.
 
 Control the hips first, then climb to the rest of the body, then get hooks.
 

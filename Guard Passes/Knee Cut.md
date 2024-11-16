@@ -44,6 +44,7 @@ The frames will prevent the passer from advancing and force them to switch to a 
 # Links
 ### Guards
 - [[Half Guard]]
+- [[Reverse DLR]]
 ### Passes
 - [[Long Step]]
 - [[Leg Weave]]

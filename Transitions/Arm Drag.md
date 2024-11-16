@@ -9,6 +9,8 @@ An Arm Drag is a movement in which you hook 1 of the opponent’s arms as to dra
 	- 1 hand at armpit, other at triceps
 	- 1 hand at triceps other at wrist
 - Bring your chest to their triceps
+# Keys
+As competitors have gotten more aware of <u>Arm Drags</u>, they’ve gotten better at keeping their elbows tight. To separate the elbow from the body, the guard player should use their outside hand to turn the knuckles of the passer down, thereby internally rotating the shoulder. This exposes the armpit, allowing the guard player to drag the passer across quickly to complete the <u>Arm Drag</u>. Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the outside foot out so that they’re perpendicular to the passer as they’re dragging the arm. Additionally, Arm Drags can be executed on either side: for example, if the passer keeps their elbow tight after an attempt, the guard player can drag the opposite arm.
 # Links
 
 ## Guards

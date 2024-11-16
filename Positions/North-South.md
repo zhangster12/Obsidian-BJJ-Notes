@@ -9,6 +9,7 @@ Tripod onto your head and feet will have a lot of pressure on your opponent.
 # Attacking
 # Escape/Defense
 # Variations
+Kneeling NS
 # Links
 ## Escapes
 ## Guards

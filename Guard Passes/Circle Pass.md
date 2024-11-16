@@ -26,5 +26,6 @@ First, the guard player should be framing at the shoulders and hip; these frames
 ## Positions
 - [[J-point]]
 - [[Side Control]]
+- [[Turtle]]
 # Tags
 #gi #nogi #guardpass #loosepassing

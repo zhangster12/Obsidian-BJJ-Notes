@@ -19,10 +19,12 @@ If the bottom player is on their side or tries to [Turtle](obsidian://open?vault
 
 If the guard player is framing at the shoulder, the passer can move the frame to one side and block with the chest/shoulder.
 # Defense
+The guard player needs to get their legs back in front.
 # Links
 ## Positions
 - [[Back]] (If the bottom player [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTurtle%20Guard))
 - [[Scarf Hold]]
 - [[Side Control]]
+- [[Turtle]]
 # Tags
 #gi #guardpass #hqsystem 
