@@ -11,7 +11,7 @@ Taking the <u>Back</u>:
 
 In the gi, using far side collar and lapel armpit grip is similar to a power half Nelson.
 # Retention
-Maintaining the <u>Back</u> requires crossbody control.
+Maintaining the <u>Back</u> requires cross body control.
 ## Upper Body
 ### Seatbelt
 When initially taking the back, this is good, but you can switch to better options. Ideally, you should be glued to your opponent’s back. Having a good seatbelt is important, because if they escape the legs, you can crunch them, slide the knee up their hip, and retake the back
@@ -22,6 +22,8 @@ Keys to having a good seatbelt:
 - Placing the head next to their head.
 ### Gift Wrap
 This can be used to control the arm as well as the back.
+### Half Nelson
+This is used to prevent the player being controlled from rotating their upper body. This should only be down on the side that’s facing up.
 ### Cross Collar Grip (Gi)
 This is advantageous because this can lead to collar chokes and is more powerful than the regular seatbelt in the gi. If they pull down on your sleeve, you won’t be able to finish the choke, so you can switch to RNC.
 

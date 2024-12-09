@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Knee Cut.md",
+                "file": "Positions/High Mount.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knee Cut"
+              "title": "High Mount"
+            }
+          },
+          {
+            "id": "6a6cc1805a78877e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sweeps/Lever Sweep.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lever Sweep"
             }
           },
           {
@@ -32,7 +47,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "019d8c5b0f8e83fc",
@@ -222,34 +238,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a4573205fa51012",
+  "active": "6a6cc1805a78877e",
   "lastOpenFiles": [
-    "Guards/Reverse DLR.md",
-    "Guards/Ashi Garami.md",
-    "Guard Passes/Leg Drag.md",
-    "Transitions/Wrestle-up.md",
-    "Guards/Seated Guard.md",
-    "Guards/Shin-on-Shin Guard.md",
-    "Guards/Sit Up Guard.md",
-    "Guards/Butterfly-Half Guard.md",
-    "Positions/North-South.md",
-    "Positions/Knee On Belly.md",
-    "Transitions/Arm Drag.md",
-    "Guards/Half Guard.md",
-    "Transitions/Taking the Back.md",
     "Guards/Butterfly Guard.md",
     "Positions/Back.md",
-    "Guards/Collar Sleeve Guard.md",
-    "Guard Passes/Shin Slice.md",
-    "Positions/Turtle.md",
-    "Guard Passes/Circle Pass.md",
-    "Positions/Technical Mount.md",
-    "Guard Passes/Stack Pass.md",
-    "Guards/Supine Guard.md",
+    "Guards/K-guard.md",
+    "Guards/Closed Guard.md",
+    "Guards/Clamp Guard.md",
+    "Submissions/Smother Choke.md",
     "Template/Template.md",
-    "Guard Passes/Smash Pass.md",
-    "Guards/X-guard.md",
-    "Guards/Lasso Guard.md",
+    "Submissions/Triangle Choke.md",
+    "Submissions/Americana.md",
+    "Positions/Mount.md",
+    "Submissions/Anaconda Choke.md",
+    "Submissions/Kimura.md",
+    "Submissions/D'arce Choke.md",
+    "Submissions/Brabo Choke.md",
+    "Submissions/Ezekiel Choke.md",
+    "Submissions/Guillotine.md",
+    "Submissions/Loop Choke.md",
+    "Submissions/Straight Ankle Lock.md",
+    "Guard Passes/Leg Trap.md",
+    "Guard Passes/Knee Cut.md",
+    "Guard Passes/Circle Pass.md",
+    "Submissions/Omoplata.md",
+    "Submissions/Baseball Bat Choke.md",
+    "Transitions/Taking the Back.md",
+    "Transitions/Gator Roll.md",
+    "Transitions/Arm Drag.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Competitions - Copy",
     "Competitions",
     "New Text Document.txt",
@@ -265,7 +283,6 @@
     "Pasted image 20240501103457.png",
     "Pasted image 20240325124807.png",
     "Pasted image 20240325124812.png",
-    "Untitled.canvas",
     "Paul Schreiner Seminar",
     "Template",
     "Grips",

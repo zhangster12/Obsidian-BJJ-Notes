@@ -1,5 +1,5 @@
 # Overview
-The **Triangle Choke** is a chokehold that encircles the opponent's neck and 1 arm with the legs in a configuration similar to the shape of a triangle. It is 1 of the basic submissions that’s learning when starting BJJ.
+The <u>Triangle Choke</u> is a choke that encircles the passer's neck and 1 arm with the legs in a configuration similar to a triangle.
 
 ![Triangle Choke](https://gumacliftonnj.com/wp-content/uploads/2023/06/Mastering-the-Triangle-Choke-Essential-Tips-and-Variations.png)
 # Entry
