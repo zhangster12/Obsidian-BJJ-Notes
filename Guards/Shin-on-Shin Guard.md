@@ -20,8 +20,9 @@ You can Ankle Pick or entry x or ashi.
 ## Passes
 ## Positions
 ## Takedowns
--
+- [[Ankle Pick]]
 ## Transitions
+
 ## Submissions
 ## Sweeps
 - [[Tripod Sweep]]

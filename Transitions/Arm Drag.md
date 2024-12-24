@@ -1,5 +1,5 @@
 # Overview
-An Arm Drag is a movement in which you hook 1 of the opponent’s arms as to drag it across your body.
+An <u>Arm Drag</u> is a movement in which the guard player hooks one of the passer’s arms and dragging it across their body.
 
 # Setup
 ## [[Closed Guard]]
@@ -23,6 +23,7 @@ As competitors have gotten more aware of <u>Arm Drags</u>, they’ve gotten bett
 ## Sweeps
 - [[Pendulum Sweep]] (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
 - [[Scissor Sweep]]
-- 
+## Transitions
+- [[Wrestle-up]] (From [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) after an <u>Arm Drag</u>)
 # Tags
 #gi #nogi #transition #closedguardsystem

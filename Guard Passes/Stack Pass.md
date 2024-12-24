@@ -7,7 +7,7 @@ The <u>Stack Pass</u> is a pressure pass in which the passer stacks the guard pl
 # Retention/Keys
 # Attacking/Transitioning
 # Defense
-To prevent being stacked,  the guard player should:
+To prevent being stacked, the guard player should:
 - Put their head on the mat.
 - Frame at their opponent’s shoulder.
 - Shoulder walk back to create space.
