@@ -20,12 +20,10 @@ If you wish to remain standing, make sure to *turn the outside knee in* and *pin
 - After doing so, strip the outside leg and then the inside hook. Lock out the arms. Once you’ve pushed on the inside leg. You can step back if they push back and into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
 # Retention
 - Lifting the hips will maximize control.
-The most important part of <u>Ashi</u> is controlling the ankle, because if the opponent tries to pass to mount, there’s still enough space to re-guard.
-
-Inside hook is on far hip.
-
-If the guard player keeps the passer’s ankle off the mat, they won’t be able to crowd the guard player. Turn yourself into a ball.
-## Attacking
+- Controlling the ankle. If the passer tries to sit to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), there will still be enough space to re-guard.
+- Hooking the inside foot on the far hip. This controls the passer’s hips better than if the foot was hooked on the near hip, like in single-leg X.
+- Keeping the passer’s ankle off the mat. The passer won’t be able to crowd the guard player and this turns the guard player into a ball.
+# Attacking
 To sweep, try to grab the far sleeve/arm, so they aren’t able to base or grab both pants/ankles.
 
 When you sweep you have to raise your hips explosively.
