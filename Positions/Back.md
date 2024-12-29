@@ -52,7 +52,7 @@ To escape the **Back**, you must do the following:
 - Get past the hips.
 # Links
 ## Position
-- [[Spiderweb]]
+- [[Spider Web]]
 - [[Mount]] (If you them escaping the **Back**)
 ## Submissions
 - [[Armbar]]

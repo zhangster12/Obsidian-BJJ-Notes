@@ -30,7 +30,7 @@ When you sweep you have to raise your hips explosively.
 # Links
 ## Guards
 - [[Half Guard]] (When the passer has stripped the hooks)
-- [[X-guard]] (If the passer strips the outside foot)
+- [[X-guard]] (When the passer strips the outside foot)
 ## Positions
 - [[Mount]]
 - [[Side Control]]

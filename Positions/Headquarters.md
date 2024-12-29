@@ -29,7 +29,7 @@ Bring your outside knee turned in at their thigh in this case. This is similar t
 Sometimes they will grab your ankle/pants to establish a [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva) hook. You have to address this first by reaching inside the hook and stripping their ankle/pant grip.
 # Defense
 The guard player has to defend by getting their feet back in front and getting the pinned leg out:
-- The outside leg can be used to frame on the shoulder with a sleeve grip. The guard player can then use a same side collar grip to push the passer away and recovery their pinned leg. With the legs freed, the guard player can re-guard into [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) or [Shallow Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard).
+- The outside leg can as a [Shallow Lasso](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard) frame on the shoulder. The guard player can then use a same side collar grip to push the passer away and recovery their pinned leg. With the legs freed, the guard player can re-guard into [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) or [Shallow Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard).
 
 The guard player can use counter grips (double collar grip, outside DLR pant grip) to prevent the passer from advancing.
 # Variations
