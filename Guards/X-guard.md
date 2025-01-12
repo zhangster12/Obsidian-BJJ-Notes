@@ -3,12 +3,12 @@ The <u>X-guard</u> is a guard in which the guard player’s legs are controlling
 
 ![X-Guard](https://www.grapplearts.com/wp-content/uploads/2013/03/What-is-the-X-Guard.png)
 # Entry
-From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), the guard player can enter <u>X-guard</u> when the opponent strips the top foot.
+From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), you can enter <u>X-guard</u> when the opponent strips the top foot.
 # Passing
-The passer must break down the hooks.
+You have to break down the hooks.
 # Retention
 # Attacking
-The guard player should keep the passer’s hands on the mat or away by off balancing them.
+You should keep the passer’s hands on the mat or away by off balancing them.
 ## Sweeps
 - If the guard player has 1 hook at the hip and lower the other hook to the foot, they can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
 - After getting the passer’s hands to the mat, the guard player can grab 2 pant grips and [Wrestle up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up).

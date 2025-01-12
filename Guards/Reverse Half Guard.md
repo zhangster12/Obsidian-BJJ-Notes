@@ -1,5 +1,5 @@
 # Overview
-The <u>Reverse Half Guard</u> is the variation of [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) where the top player is facing the legs.
+The <u>Reverse Half Guard</u> is the variation of [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) where the passer is facing the legs.
 
 ![Reverse Half Guard](https://evolve-mma.com/wp-content/uploads/2023/08/reverse-half-guard-edited.jpg)
 # Entry
@@ -11,13 +11,12 @@ In <u>Reverse Half Guard</u>, if the top player can isolate the near side arm fo
 
 Additionally, the top player can free their leg by wedging their bottom leg into the bottom player’s hip. [Link](https://www.youtube.com/shorts/h15KxpW-fBA) 
 # Retention
-The top player can retain <u>Reverse Half Guard</u> by:
-- Staying on the toes.
-- Driving all pressure into the bottom player’s chest and shoulders. As long as the pressure is the chest and shoulders, then it will be very hard for the bottom player to sweep.
+- Stay on your toes.
+- Drive all pressure into the guard player’s chest and shoulders. As long as the pressure is their chest and shoulders, then it will be very hard for them to sweep.
 # Attacking
 In <u>Reverse Half Guard</u>, the top player can isolate an arm and attack a [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura).
 # Defense
-Although crossing the legs would slow down the top player, the bottom player needs to get their legs back in front.
+Although crossing the legs would slow down the passer, you need to get your legs back in front.
 # Variations
 # Links
 ## Positions

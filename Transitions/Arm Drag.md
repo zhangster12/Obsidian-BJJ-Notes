@@ -21,6 +21,7 @@ As competitors have gotten more aware of <u>Arm Drags</u>, they’ve gotten bett
 ## Submissions
 - [[Armbar]]
 ## Sweeps
+- [[Butterfly Sweep]]
 - [[Pendulum Sweep]] (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
 - [[Scissor Sweep]]
 ## Transitions

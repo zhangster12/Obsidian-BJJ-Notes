@@ -1,5 +1,5 @@
 # Overview
-
+North-South is a pinning position where the top player is 180 degrees to the bottom player.
 
 ![North South](https://www.attacktheback.com/wp-content/uploads/2016/09/North-South-Jiu-Jitsu-Postition-2.jpg)
 # Entry/Initiation

@@ -1,4 +1,7 @@
-# Entries
+# Overview
+
+![Smash Pass](https://evolve-mma.com/wp-content/uploads/2022/05/smash-pass.jpg)
+# Entry
 ## [[Butterfly Guard]]
 - Keep as tight as possible to the hips and chest
 - Press 1 knee past your centerline and press all of your weight onto their legs, while you step forward (maintain chest contact with the legs)

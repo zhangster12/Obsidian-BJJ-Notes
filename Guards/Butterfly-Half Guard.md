@@ -22,6 +22,7 @@ The guard player can enter Ashi, by grabbing the outside knee and collar pulling
 - [[Arm Drag]]
 ## Submissions
 ## Sweeps
+- [[Butterfly Sweep]]
 # References
 # Tags
 #gi #guard #halfguard #butterflyguard

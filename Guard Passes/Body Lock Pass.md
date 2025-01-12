@@ -7,7 +7,7 @@ The <u>Body Lock Pass</u> is a pressure pass in which the passer controls the gu
 # Keys
 # Attacking/Transitioning
 # Defense
-The guard player should frame on the neck; this pushes the passer’s head away enough so that the guard player can get their legs in front.
+Frame on the neck; this pushes the passer’s head away enough so that you can get your legs in front.
 # Variations
 # Links
 ## Escapes

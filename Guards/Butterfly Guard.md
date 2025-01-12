@@ -1,5 +1,5 @@
 # Overview
-The <u>Butterfly Guard</u> is 1 of the simplest, yet most effective open guard and can be used against opponents of any size as it utilizes the strongest part of our body-the legs, to pull, lift, and off-balance the opponent.
+The <u>Butterfly Guard</u> is one of the simplest, yet most effective open guard and can be used against opponents of any size as it utilizes the strongest part of our body-the legs, to pull, lift, and off-balance the opponent.
 
 ![Butterfly Guard](https://cdn.fugu.com/lc-59/images/curriculum/ls_00000657_01.jpg)
 # Entry
@@ -43,12 +43,12 @@ Knees to chest
 
 # Links
 ## Guards
-- [[Ashi Garami]] (If they tripod)
 - [[Half Guard]] (After stuffing a leg)
-## Positions
-- [[Mount]]
 ## Passes
+- [[Body Lock Pass]]
 - [[Smash Pass]]
+## Sweeps
+- [[Butterfly Sweep]]
 ## Transitions
 - [[Arm Drag]]
 # Tags

@@ -6,6 +6,7 @@
       {
         "id": "3c8d66f7cf01ff41",
         "type": "tabs",
+        "dimension": 65.26845637583892,
         "children": [
           {
             "id": "ad4d72f4993e7114",
@@ -13,23 +14,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Positions/Spider Web.md",
+                "file": "Submissions/Cross Choke.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spider Web"
+              "title": "Cross Choke"
+            }
+          },
+          {
+            "id": "96d911676d6143b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Punch Choke.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Punch Choke"
+            }
+          },
+          {
+            "id": "ac598772b154d1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grips/Baseball Bat Grip.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baseball Bat Grip"
+            }
+          },
+          {
+            "id": "d24bfa21671063b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grips/Cross Collar Grip.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross Collar Grip"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "019d8c5b0f8e83fc",
+        "id": "4de9923cdbb21672",
         "type": "tabs",
+        "dimension": 34.73154362416108,
         "children": [
           {
-            "id": "6b902678885e7f7e",
+            "id": "869962514a1cf98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +122,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spider",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -212,40 +260,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad4d72f4993e7114",
+  "active": "d24bfa21671063b4",
   "lastOpenFiles": [
-    "Positions/Arm Saddle.md",
-    "Positions/Spider Web.md",
-    "Guards/De La Riva.md",
-    "Guards/Reverse DLR.md",
-    "Positions/Headquarters.md",
-    "Guards/Shallow Lasso Guard.md",
-    "Guards/Ashi Garami.md",
-    "Guards/Shin-on-Shin Guard.md",
-    "Sweeps/Dummy Sweep.md",
-    "Guard Passes/Toreando.md",
-    "Guard Passes/Stack Pass.md",
-    "Guard Passes/Knee Cut.md",
-    "Guard Passes/Circle Pass.md",
-    "Guard Passes/Body Lock Pass.md",
+    "Grips/Brabo Grip.md",
+    "Grips/Cross Collar Grip.md",
+    "Grips/Baseball Bat Grip.md",
+    "Submissions/Cross Choke.md",
+    "Guards/Clamp Guard.md",
+    "Punch Choke.md",
+    "Punch Choke",
     "Template/Template.md",
-    "Positions/Scarf Hold.md",
-    "Transitions/Berimbolo.md",
-    "Positions/Turtle.md",
-    "Sweeps/Split Sweep.md",
-    "Transitions/Wrestle-up.md",
-    "Positions/Top Lock.md",
-    "Sweeps/G-Roll Sweep.md",
-    "Positions/Dogfight.md",
+    "Escapes/Bridge & Roll Escape.md",
+    "Guards/Closed Guard.md",
+    "Sweeps/Scissor Sweep.md",
+    "Guards/Open Guard.md",
+    "Guards/Double Sleeve Guard.md",
     "Transitions/Arm Drag.md",
+    "Submissions/Wrist Lock.md",
+    "Sweeps/Butterfly Sweep.md",
+    "Guards/Butterfly-Half Guard.md",
     "Guards/Butterfly Guard.md",
-    "Sweeps/Lever Sweep.md",
+    "Sweeps/Balloon Sweep.md",
+    "Escapes/Ghost Escape.md",
+    "Escapes/Back Door Escape.md",
+    "Guard Passes/Sao Paulo Pass.md",
+    "Guard Passes/Shin Slice.md",
+    "Guard Passes/Long Step.md",
+    "Positions/North-South.md",
+    "Guards/Sit Up Guard.md",
+    "Guards/Lapel Lasso Guard.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Competitions - Copy",
     "Competitions",
     "New Text Document.txt",
-    "Untitled",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",

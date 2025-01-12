@@ -44,7 +44,7 @@ The **Grapevine**, a technique where the legs wrap around the opponent’s legs 
 - [[Technical Mount]]
 ## Submission
 - [[Armbar]]
-- [[Cross Collar Choke]]
+- [[Cross Choke]]
 - [[Ezekiel Choke]]
 - [[Smother Choke]]
 - [[Mounted Triangle]]

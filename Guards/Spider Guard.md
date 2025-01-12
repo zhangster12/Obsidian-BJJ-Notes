@@ -1,5 +1,5 @@
 # Overview
-**Spider Guard** is a guard in which you control both of the opponent’s sleeves and both of your feet are on their biceps.
+<u>Spider Guard</u> is a guard in which the guard player controls both of the passer’s sleeves.
 
 ![Spider Guard](https://cdn.evolve-mma.com/wp-content/uploads/2021/12/rodrigo-and-thales-bjj-lasso-guard.jpg)
 # Entry
