@@ -11,19 +11,19 @@ While a <u>Cross Choke</u> can be applied in different positions, the main ideas
 - Tucking the elbows and bringing the opponent close to you.
 - Performing ulnar deviation of the wrist.
 ## Specifics
-- In [Clamp Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard), you won’t be able to grab a deep first grip, so the second one has to be deep.
-- In [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard), kick the passer’s legs out, so they won’t be able to escape.
-- In [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard), use your head on the mat as base to avoid being swept. Walk the second hand to the other side, press your elbow into their neck, and get the second grip.
+- [Clamp Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard). You won’t be able to grab a deep first grip, so the second one has to be deep.
+- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard). Kick the passer’s legs out, so they won’t be able to escape.
+- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard). Use your head on the mat as base to avoid being swept. Walk the second hand to the other side, press your elbow into their neck, and get the second grip.
 # Defense
 In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), you have to keep good posture by stiff arming the guard player, then breaking the grips.
 
 In [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), you can [Bridge & Roll](obsidian://open?vault=Obsidian-BJJ-Notes&file=Escapes%2FBridge%20%26%20Roll%20Escape) to make the top player release the grip or escape to top [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), which may make it easier to grip the grips.
 # Variations
 There are multiple configurations of grips for the <u>Cross Choke</u>:
-- Palm up/palm down. This is the most common variation. The second arm goes over the first arm, but you need to cut an angle to reach the fabric of the gi.
-- Palm up/palm up. The second hand reaches underneath the first hand, which makes it easier to reach for the collar.
-- [Brabo Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FCross%20Collar%20Grip). This is similar to the palm up/palm down grip, but using the lapel over their back.
-- [Baseball Bat Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FBaseball%20Bat%20Grip). You pull the passer in as you bring the top hand over their head and to the other side of their neck. You will finish with palm up/palm down configuration. [Link](https://www.youtube.com/watch?v=930LolYQ-hI)
+- **Palm up/palm down**: This is the most common variation. The second arm goes over the first arm, but you need to cut an angle to reach the fabric of the gi.
+- **Palm up/palm up**: The second hand reaches underneath the first hand, which makes it easier to reach for the collar.
+- [Brabo Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FCross%20Collar%20Grip): This is similar to the palm up/palm down grip, but using the lapel over their back.
+- [Baseball Bat Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FBaseball%20Bat%20Grip): You pull the passer in as you bring the top hand over their head and to the other side of their neck. You will finish with palm up/palm down configuration. [Link](https://www.youtube.com/watch?v=930LolYQ-hI)
 # Links
 ## Escapes
 - [[Bridge & Roll Escape]] (If you’re in bottom Mount)

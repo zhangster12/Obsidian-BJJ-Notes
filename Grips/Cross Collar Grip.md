@@ -2,7 +2,8 @@
 A <u>Cross Collar Grip</u> is a grip on the opponent’s opposite collar (i.e. your right hand on their left collar).
 
 ![Cross Collar Grip](https://keenanonline.com/wp-content/uploads/2018/12/Cross-Grip-on-the-Collar-01.jpg)
-# Entry/Setup
+# Setup
+
 # Passing
 # Retention/Keys
 # Transitioning

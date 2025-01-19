@@ -1,5 +1,5 @@
 # Overview
-In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), you shift your hips to the outside of the passer to create an angle, so this guard is a continuation of that principle with the overhook. Similar to [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), this guard is an isolation of one arm.
+<u>Clamp Guard</u> is similar to [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), but with an overhook. Similar to [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), this guard is an isolation of one arm.
 
 ![Clamp Guard](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F387f6fb2-f5e8-4033-bba0-41f9f6c20e5d_1980x1178.png)
 # Entry
@@ -31,6 +31,7 @@ The bottom leg can also be placed at the near side neck with the foot hooking at
 - [[Armbar]]
 - [[Cross Choke]]
 - [[Omoplata]] (If the passer bends their arm back to defend an [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar))
+- [[Punch Choke]]
 - [[Triangle Choke]] (If the passer postures up)
 - [[Wrist Lock]]
 # Tags

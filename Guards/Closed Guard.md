@@ -72,9 +72,11 @@ Top Lock
 ## Weight
 # Links
 ## Grips
+- [[Baseball Bat Grip]]
 - [[Brabo Grip]]
+- [[Cross Collar Grip]]
 ## Guards
-- [[Clamp Guard]] (If the top player place their hand in your pocket)
+- [[Clamp Guard]] (If the passer places their hand in your pocket)
 - [[Open Guard]] (Once you’ve escaped the guard)
 - [[K-guard]] (After you bring them forward)
 ## Passes
@@ -89,11 +91,11 @@ Top Lock
 - [[Triangle Choke]]
 ## Sweeps
 - [[Hip Bump Sweep]]
-- [[Muscle Sweep]] (If they stand up)
+- [[Muscle Sweep]] (If the passer stands up)
 - [[Pendulum Sweep]]
-- [[Scissor Sweep]] (If there’s a narrow base)
+- [[Scissor Sweep]] (If the passer has a narrow base)
 ## Transitions
-- [[Arm Drag]] (If their elbow crosses the midline)
+- [[Arm Drag]] (If the passer’s elbow crosses the midline)
 # References
 - [Weekly White Belt Advice: Closed Guard Sweeps](https://www.bjjee.com/articles/weekly-white-belt-advice-closed-guard-sweeps/)
 # Tags

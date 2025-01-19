@@ -5,13 +5,14 @@ The <u>Kipping Escape</u> is an escape that displaces the top player from top pi
 # Setup
 If the top player is crossing their feet in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), this escape is a good option to use.
 # Keys
-The bottom player first bridges to create space, then as they lower their hips, keeps their arms on the hips as frames. Finally, they use a jackknife motion create momentum to bring their legs back in front. [Link](https://www.youtube.com/watch?v=j9QZ2cad6k8)
-
-When creating space, the bottom player takes the top player overhead rather than straight up.
+- Bridging to create space.
+- Taking the top player overhead with your arms rather than straight up.
+- As you lower your hips, keeping your arms on their hips as frames.
+- Finally, using a jackknife motion create momentum to bring your legs back in front. [Link](https://www.youtube.com/watch?v=j9QZ2cad6k8)
 # Transitioning
-If the top player posts on 1 leg, the bottom player can enter [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).
+If the top player posts on one leg, you can enter [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).
 # Counter
-An [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke) will anchor the top to bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), when they attempt this escape.
+An [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke) will anchor yourself to the bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
 # Links
 ## Guards
 - [[Ashi Garami]]

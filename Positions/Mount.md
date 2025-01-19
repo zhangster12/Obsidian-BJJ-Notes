@@ -19,12 +19,8 @@ You have to separate their elbows from their body to advance in position. This c
 # Escape
 In the early stages, you have to use your elbows to block them from advancing.
 # Variations
-There are variations to how you maintain/control the mount.
-## [S-mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FS-mount)
-This variation is typically used to set up arm bars.
-
-![https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg](https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg)
-## [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount)
+-  [S-mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FS-mount): Used to set up arm bars.
+- [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount): Used to take the Back.
 
 
 ![Technical Mount](https://www.bjjee.com/wp-content/uploads/2022/12/Technical-Mount-Paul-Schreiner.jpg)

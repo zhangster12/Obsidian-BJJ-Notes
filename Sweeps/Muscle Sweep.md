@@ -1,5 +1,5 @@
 # Overview
-The <u>Muscle Sweep</u> is a sweep that can be used when the opponent stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
+The <u>Muscle Sweep</u> is a sweep that can be used when the passer stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
 
 ![Muscle Sweep](https://www.bjjee.com/wp-content/uploads/2019/08/Kurt-Osiander.jpg)
 # Setup
@@ -11,7 +11,7 @@ Even when the top player stands, the bottom player should keep their hips up.
 
 The bottom player can also gable grip their hands at the ankle.
 
-When the sweep is complete, the bottom player should keep control of the leg.
+When the sweep is complete, you should keep control of the leg so the bottom player can’t stand up.
 
 The point of no return is when the top player manages to collapse the bottom player’s hips. At that point, the bottom player should switch to another guard.
 # Defense
