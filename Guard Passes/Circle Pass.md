@@ -16,7 +16,7 @@ When moving laterally, the passer should be on the toes unless they’re droppin
 - If the guard player begins to track the passer with their feet, they’ve opened themselves to a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut).
 - The top player can also drop into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) to reserve energy.
 # Defense
-First, the guard player should be framing at the shoulders and hip; these frames are temporary and should be replaced by legs.
+Frame at the shoulders and hip, then use your legs.
 # Links
 ## Guards
 - [[Half Guard]]
@@ -25,6 +25,7 @@ First, the guard player should be framing at the shoulders and hip; these frames
 - [[Knee Cut]]
 ## Positions
 - [[J-point]]
+- [[North-South]]
 - [[Side Control]]
 - [[Turtle]]
 # Tags

@@ -5,6 +5,7 @@ The <u>Butterfly Guard</u> is one of the simplest, yet most effective open guard
 # Entry
 If the passer is on their knees, then the guard player can simply insert 2 hooks in the passer’s thighs.
 # Passing
+- Tripod Pass
 There are multiple ways to pass
 Tripod up
 Under hook a side
@@ -40,6 +41,7 @@ Sticky hooks
 
 Knees to chest
 # Variations
+- Butterfly-Half:
 
 # Links
 ## Guards

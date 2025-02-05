@@ -3,9 +3,9 @@ The <u>Bridge & Roll</u>, or <u>Trap & Roll</u>, is a [Mount](obsidian://open?va
 # Setup
 The <u>Bridge & Roll</u> can be used when the opponent is still in regular [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount); if they’ve progressed to [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), then this escape won’t be as effective.
 # Keys
-- Bumping the top player forward so they’re on their hands.
-- Trapping an arm.
-- Bridging and rolling towards the trapped arm.
+- Bump the top player forward so they’re on their hands.
+- Trapp an arm.
+- Bridg and roll towards the trapped arm.
 # Counter
 You can free your arm and post, use your head as a post, or grapevine their legs to anchor yourself to the bottom player.
 # Links

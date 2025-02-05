@@ -22,6 +22,8 @@ If far arm pushs, get underhook. then step over the head for kimura or armbar
 
 ## Escapes
 
+## Grips
+- [[Brabo Grip]]
 ## Guards
 
 ## Passes

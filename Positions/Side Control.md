@@ -85,6 +85,8 @@ Hip switch
 # Links
 ## Escapes
 - [[Ghost Escape]]
+## Grips
+- [[Brabo Grip]]
 ## Guards
 - [[Butterfly Guard]]
 - [[Clamp Guard]]

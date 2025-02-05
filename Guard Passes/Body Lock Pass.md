@@ -1,23 +1,27 @@
 # Overview
-The <u>Body Lock Pass</u> is a pressure pass in which the passer controls the guard player's torso by wrapping their arms around the waist as they pass the guard.
+The <u>Body Lock Pass</u> is a pressure pass in which you control the guard player's torso by wrapping their arms around the waist as they pass the guard.
 
 ![Body Lock Pass](https://www.bjjee.com/wp-content/uploads/2021/09/bodylock-pass-1.jpg)
-# Entry/Setup
-# Passing
+# Setup
+You can setup the <u>Body Lock</u> from [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) or anytime the guard player’s knees and elbows are separated.
 # Keys
-# Attacking/Transitioning
+# Transitioning
+
+
 # Defense
-Frame on the neck; this pushes the passer’s head away enough so that you can get your legs in front.
+- Sit up from your back, because the passer wants to flatten you out.
+- Push their legs away with your legs as you set up.
+- Frame on the neck; this pushes the passer’s head out of alignment so you can get your legs in front.
 # Variations
+- **Front**: This variation is the most basic, where you’re square with the guard player.
+- **Side**: You can tripod when the guard player is in Butterfly Guard, then push their knees to one side as you lock your hands underneath them.
+- **High**: This variation is essentially double underhooks and connecting your hands behind the guard player’s neck.
 # Links
-## Escapes
 ## Guards
-## Passes
+- [[Butterfly Guard]]
 ## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+- [[Back]]
+- [[Mount]]
 # References
 # Tags
-#gi #nogi #guardpass 
+#gi #nogi #guardpass #pressurepass 

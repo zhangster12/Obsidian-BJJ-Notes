@@ -44,6 +44,7 @@ If you off balance them away from the hooked leg: ^fb9732
 - You can also [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke), since you can isolate a head and arm. [Link](https://www.youtube.com/watch?v=uEGGBDJRTaw)
 - Lastly you can take the Back either AOJ style or Crab Ride.
 # Variations
+- **Reverse DLR**:
 ## Reverse DLR
 In Reverse DLR, 
 ## Deep DLR-X
@@ -53,6 +54,8 @@ The 1 downside is that it locks you into sweeping.
 
 Keep frame on near side arm.
 ## Grip Variations
+- Pant grip (gi):
+- Underhook:
 ### Pant Grip (Gi)
 This variation only works in the gi. You grab the pants.
 ### Underhook

@@ -3,7 +3,7 @@ The <u>J-point</u> is a position in which the opponent’s guard is in jeopardy 
 
 ![J-point](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e3e2011-8ffa-46b1-9b07-9ab519c1a41f_1920x1355.png)
 # Entry
-The passer can enter the <u>J-point</u> after a Circle Pass
+You can enter the <u>J-point</u> after a Circle Pass.
 # Passing
 - If the guard player tries to track with the bottom foot, the passer can [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
 - If the guard player is framing, the passer can [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag).
@@ -14,19 +14,13 @@ The passer can enter the <u>J-point</u> after a Circle Pass
 - Controlling the knee while keeping the legs out of range of the hands.
 - Maintaining heavy pressure on the ribs or hip.
 # Escape
-- If the guard player is unable to pummel their outside leg and frame at the shoulder, they can bring their knees by pummeling underneath the passer’s armpit.
+- If you can’t pummel your outside leg and frame at the shoulder, you can bring your knees in by pummeling underneath the passer’s armpit.
 # Links
-## Escapes
-## Guards
 ## Passes
 - [[Knee Cut]]
 - [[Leg Drag]]
 ## Positions
 - [[Knee On Belly]]
-- [[Side Control]] (If they don’t frame you can drop your shoulder, or if they)
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+- [[Side Control]] (If the guard player doesn't frame you can drop your shoulder)
 # Tags
 #gi #nogi #position 

@@ -21,7 +21,7 @@ In the gi, there is a cross choke
 
 
 # Variations
-The bottom leg can also be placed at the near side neck with the foot hooking at the armpit.
+- **Knee in front of the face**: You can place your bottom leg in front of the passer’s near side neck with your foot hooking at the armpit.
 # Links
 ## Positions
 - [[Turtle]]

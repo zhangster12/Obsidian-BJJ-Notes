@@ -63,6 +63,7 @@ Shake to escape from bottom
 	- [[Deep Half Guard]]
 	- [[Reverse Half Guard]]
 ### Passes
+- [[Body Lock Pass]]
 - [[Leg Drag]]
 - [[Leg Weave]] (If they collapse their knees)
 ### Positions

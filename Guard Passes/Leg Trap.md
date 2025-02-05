@@ -14,8 +14,6 @@ The passer can enter the <u>Leg Trap</u> from [Half Guard](obsidian://open?vault
 # Counter
 # Variations
 # Links
-## Escapes
-## Guards
 ## Passes
 - [[Leg Drag]]
 ## Positions

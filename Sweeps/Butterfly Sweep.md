@@ -7,15 +7,20 @@
 - Keep the knee that’s hooked on the thigh pointed towards the ceiling and retracted towards your shoulder.
 - Stay on the toes on the bottom hook. Bring the foot to the butt.
 - Tuck the trapped arm deeply and grab at the elbow.
+- Bring the passer’s head below their hips.
 # Transitioning
-In an ideal scenario, you would sweep into top position, such as [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) or [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard), but if the passer posts onto one leg, there are a few options depending on the location of their leg:
+Ideally, you’d sweep into top position([Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) or [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard)), but if the passer posts onto one leg, there are a few options:
 - If their leg is very close, you can underhook it and enter [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard) or [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).
 - If their leg is within leg’s reach, then you can plant your bottom foot on their shin or knee and drive off of that to complete the sweep like a [Scissor Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FScissor%20Sweep). If they continue to hop away, reverse shrimp to follow them.
-- You can enter [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), since the passer’s elbow and knees are separated.
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): since the passer’s elbow and knees are separated.
 # Defense
-You can post on the leg on the side you are being swept.
+Post on the leg of the side you are being swept.
 # Variations
-There are variations on the grips used to sweep the passer.
+There are variations on the grips used to sweep the passer:
+- Over/under:
+- Sleeve/belt (gi):
+- Shoulder crunch:
+- Head & arm:
 ## Over/Under
 ## Sleeve/Belt (Gi)
 ## Shoulder Crunch

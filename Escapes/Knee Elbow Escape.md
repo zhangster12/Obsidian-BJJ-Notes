@@ -5,11 +5,11 @@ The <u>Knee Elbow Escape</u> is an escape from [Mount](obsidian://open?vault=Obs
 # Setup
 This is most effective when the top player is in regular [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount). If they’ve advanced to [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), then this escape is ineffective.
 # Keys
-- Bumping the top player forward.
-- Keeping the elbows tight, which prevents them from advancing into [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar), or [Mounted Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FMounted%20Triangle).
-- Being on the side.
-- Pushing their knee out and collecting their leg.
-- Framing their opposite biceps.
+- Bump the top player forward.
+- Keep the elbows tight, which prevents them from advancing into [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar), or [Mounted Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FMounted%20Triangle).
+- Be on your side.
+- Push their knee out and collect their leg.
+- Frame their opposite biceps.
 
 You can then re-guard into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) or [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
 # Transitioning

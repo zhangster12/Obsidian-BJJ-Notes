@@ -1,5 +1,5 @@
 # Overview
-The Lasso Hook Sweep, or the Merigali Sweep, is a sweep that uses the Lasso Guard to sweep to the side. [Link](https://www.youtube.com/watch?v=lcVfa-KE3Ks)
+The <u>Lasso Hook Sweep</u>, or the Merigali Sweep, is a sweep that uses the Lasso Guard to sweep to the side. [Link](https://www.youtube.com/watch?v=lcVfa-KE3Ks)
 # Initiation
 This sweep starts in Lasso Guard.
 # Keys

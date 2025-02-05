@@ -9,7 +9,6 @@ Your goal is to maintain top position.
 # Defense
 You can avoid a <u>Scramble</u> whether you’re on the top or bottom position by controlling your opponent well, as <u>Scrambles</u> use a lot of energy.
 # Links
-## Escapes
 ## Guards
 
 ## Passes
@@ -20,4 +19,4 @@ You can avoid a <u>Scramble</u> whether you’re on the top or bottom position b
 ## Sweeps
 # References
 # Tags
-Insert tags #hide
+#gi #nogi #transition 

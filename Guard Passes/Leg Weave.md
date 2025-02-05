@@ -19,4 +19,4 @@ In no-gi, the passer would punch their fist to the mat and pressing down and gra
 # References
 - [How To Perform The Leg Weave Pass In BJJ](https://evolve-mma.com/blog/how-to-perform-the-leg-weave-pass-in-bjj/)
 # Tags
-#gi #guardpass #hqsystem 
+#gi #guardpass #hqsystem #pressurepass 

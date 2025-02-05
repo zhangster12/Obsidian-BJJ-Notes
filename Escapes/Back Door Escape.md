@@ -3,11 +3,9 @@ The <u>Back Door Escape</u> is a [Mount](obsidian://open?vault=Obsidian-BJJ-Note
 # Setup
 You use this escape when the top player has progressed to [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), where it’s hard for you to bridge and use your hips.
 # Keys
-- Backwards rolling and planting your feet in the top player’s armpits.
+- Backwards roll and plant your feet in the top player’s armpits.
 # Transitioning
 You can enter [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami) or if there’s a lot of space, a [Scramble](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FScramble).
-# Counter
-# Variations
 # Links
 ## Guards
 - [[Ashi Garami]]

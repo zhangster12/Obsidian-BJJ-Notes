@@ -1,12 +1,12 @@
 # Overview
-The <u>Knee Cut</u>, or knee slice, is a pass in which the passer uses their near leg’s knee to pin and slice through the opponent’s leg while the other leg bases on the mat.
+The <u>Knee Cut</u>, or <u>Knee Slice</u>, is a pass where you uses your near leg’s knee to pin and slice through the guard player’s leg while the other leg bases on the mat.
 
 ![Knee Cut](https://cdn.evolve-mma.com/wp-content/uploads/2022/08/knee-slice-pass-bjj.jpg)
 # Entry
-- From [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHeadquarters), the passer can <u>Knee Cut</u> if the center knee falls towards the passer’s outside knee.
-- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), the passer can enter a <u>Knee Cut</u> after striping hooks and frames. [Link](https://www.youtube.com/watch?v=3IqCi1GXmOg)
+- From [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHeadquarters), you can <u>Knee Cut</u> if the center knee falls towards the passer’s outside knee.
+- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), you can  <u>Knee Cut</u> after striping hooks and frames. [Link](https://www.youtube.com/watch?v=3IqCi1GXmOg)
 # Keys
-The <u>Knee Cut</u>, seemingly simple, has multiple moving parts and small details.
+The <u>Knee Cut</u> has multiple moving parts and small details.
 ## Posture
 The passer should maintain a low posture to pressure the guard player as much as possible.
 

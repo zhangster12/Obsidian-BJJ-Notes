@@ -5,9 +5,9 @@ The <u>Ghost Escape</u> is an [Back Door](obsidian://open?vault=Obsidian-BJJ-Not
 # Setup
 You use this escape when the top player has established [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control) and you have your arm underneath them.
 # Keys
-- Getting your shoulders to the mat.
-- Getting your inside arm to the own hip.
-- Bumping the top player overhead.
+- Get your shoulders to the mat.
+- Get your inside arm to the own hip.
+- Bump the top player overhead.
 # Transitioning
 After entering [Front Headlock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FFront%20Headlock), you can start your [Front Headlock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FFront%20Headlock) attacks.
 # Links

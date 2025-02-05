@@ -16,4 +16,4 @@
 ## Positions
 - [[Mount]] (If they open their knee-elbow space)
 # Tags
-#nogi #guardpass #hqsystem 
+#nogi #guardpass #hqsystem #pressurepass 
