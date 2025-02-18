@@ -1,4 +1,6 @@
 # Overview
+
+![North-South Choke](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/North%E2%80%93south_choke_blue.JPG/375px-North%E2%80%93south_choke_blue.JPG)
 # Entry/Setup
 # Passing
 # Retention/Keys
@@ -9,9 +11,7 @@
 ## Escapes
 ## Grips
 ## Guards
-- [[Butterfly Guard]]
 ## Passes
-- [[Side Body Lock Pass]]
 ## Positions
 ## Takedowns
 ## Transitions
@@ -19,4 +19,4 @@
 ## Sweeps
 # References
 # Tags
-Insert tags #hide
+#gi #nogi #submission 

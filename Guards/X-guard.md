@@ -9,9 +9,11 @@ You have to break down the hooks.
 # Retention
 # Attacking
 You should keep the passer’s hands on the mat or away by off balancing them.
+
+Sweep in the direction they’re going towards
 ## Sweeps
 - If the guard player has 1 hook at the hip and lower the other hook to the foot, they can perform a [Tripod Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FTripod%20Sweep). [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
-- After getting the passer’s hands to the mat, the guard player can grab 2 pant grips and [Wrestle up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up).
+- After getting the passer’s hands to the mat, the guard player can grab 2 pant grips and [Wrestle up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up): Get their hand’s to the mat, grab 2 pants
 - The guard player can bring their knees to the chest and push the passer onto their back.
 # Variations
 ## Modified

@@ -9,14 +9,14 @@
 ## Escapes
 ## Grips
 ## Guards
-- [[Butterfly Guard]]
 ## Passes
-- [[Side Body Lock Pass]]
 ## Positions
+- [[Back]]
+- [[Mount]]
 ## Takedowns
 ## Transitions
 ## Submissions
 ## Sweeps
 # References
 # Tags
-Insert tags #hide
+#nogi #guardpass #bodylock

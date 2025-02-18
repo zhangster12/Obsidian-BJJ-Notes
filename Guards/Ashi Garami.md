@@ -37,4 +37,4 @@ When you sweep you have to raise your hips explosively.
 ## Submissions
 - [[Straight Ankle Lock]]
 # Tags
-#gi #nogi #guard 
+#gi #nogi #guard #openguard 

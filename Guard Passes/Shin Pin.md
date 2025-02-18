@@ -1,7 +1,7 @@
 # Overview
 The <u>Shin Pin</u> is when the passer presses their shin into the guard player’s shin, effectively pinning it.
 # Entry
-The passer can set up a Shin Pin while lateral passing such as the [Circle Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FCircle%20Pass).
+The passer can set up a <u>Shin Pin</u> while lateral passing such as the [Circle Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FCircle%20Pass).
 # Keys
 The key to this pass is leaning forward and pressing the shin against the guard player’s shin.
 # Transitioning

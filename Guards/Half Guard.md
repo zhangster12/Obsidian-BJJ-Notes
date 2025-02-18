@@ -33,6 +33,7 @@ If they manage to grab your collar and, you can block their outside knee and off
 # Attacking
 
 # Variations
+- [Butterfly-Half](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly-Half%20Guard):
 ## Butterfly Half Guard
 
 This variation uses a butterfly hook on the outside. This makes it easy to transition to Butterfly Guard.
@@ -60,7 +61,9 @@ Shake to escape from bottom
 - [[Closed Guard]]
 - [[Half Guard]] (Lever Sweep into top Half Guard)
 	- [[Butterfly-Half Guard]]
+	- [[Chest-to-Chest Half Guard]]
 	- [[Deep Half Guard]]
+	- [[Dogfight]]
 	- [[Reverse Half Guard]]
 ### Passes
 - [[Body Lock Pass]]

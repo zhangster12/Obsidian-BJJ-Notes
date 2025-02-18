@@ -19,6 +19,7 @@ Kneeling NS
 ## Takedowns
 ## Transitions
 ## Submissions
+- [[North-South Choke]]
 ## Sweeps
 # References
 # Tags

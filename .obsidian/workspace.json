@@ -6,7 +6,7 @@
       {
         "id": "3c8d66f7cf01ff41",
         "type": "tabs",
-        "dimension": 65.26845637583892,
+        "dimension": 66.61073825503355,
         "children": [
           {
             "id": "ad4d72f4993e7114",
@@ -14,28 +14,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guards/Butterfly Guard.md",
+                "file": "Guards/Chest-to-Chest Half Guard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Butterfly Guard"
+              "title": "Chest-to-Chest Half Guard"
             }
           },
           {
-            "id": "33718c5c20871e90",
+            "id": "04bacccaacdb5416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guards/Butterfly-Half Guard.md",
+                "file": "Guards/Collar Sleeve Guard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Butterfly-Half Guard"
+              "title": "Collar Sleeve Guard"
+            }
+          },
+          {
+            "id": "600f408f0ef64c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Submissions/North-South Choke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "North-South Choke"
+            }
+          },
+          {
+            "id": "fb0c80b180129443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guard Passes/Body Lock Pass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Body Lock Pass"
             }
           },
           {
@@ -84,12 +114,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4de9923cdbb21672",
         "type": "tabs",
-        "dimension": 34.73154362416108,
+        "dimension": 33.38926174496644,
         "children": [
           {
             "id": "869962514a1cf98a",
@@ -138,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "top lock",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,34 +306,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33718c5c20871e90",
+  "active": "600f408f0ef64c62",
   "lastOpenFiles": [
-    "Sweeps/Butterfly Sweep.md",
-    "Guards/Butterfly-Half Guard.md",
-    "Guard Passes/Tripod Pass.md",
-    "Guards/Butterfly Guard.md",
-    "Guard Passes/Body Lock Pass.md",
-    "Guards/Half Guard.md",
-    "Submissions/Cross Choke.md",
-    "Escapes/Back Door Escape.md",
-    "Sweeps/Scissor Sweep.md",
-    "Positions/Mount.md",
+    "Positions/North-South.md",
     "Guard Passes/Circle Pass.md",
-    "Guard Passes/Leg Drag.md",
-    "Grips/Baseball Bat Grip.md",
-    "Guards/Dogfight.md",
+    "Submissions/North-South Choke.md",
+    "Guards/Collar Sleeve Guard.md",
+    "Guards/Closed Guard.md",
+    "Guards/Double Sleeve Guard.md",
+    "Guards/Half Guard.md",
+    "Guards/Lasso Guard.md",
+    "Guards/Ashi Garami.md",
+    "Guards/Chest-to-Chest Half Guard.md",
+    "Guards/X-guard.md",
+    "Guards/Lapel Lasso Guard.md",
     "Guard Passes/Shin Pin.md",
-    "Guard Passes/Long Step.md",
-    "Guard Passes/Leg Weave.md",
-    "Grips/Brabo Grip.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Escapes/Kipping Escape.md",
-    "Escapes/Ghost Escape.md",
-    "Escapes/Bridge & Roll Escape.md",
-    "Guard Passes/Sao Paulo Pass.md",
-    "Guard Passes/Leg Trap.md",
-    "Positions/J-point.md",
+    "Grips/Cross Pant Grip.md",
+    "Guard Passes/Stack Pass.md",
     "Guard Passes/Smash Pass.md",
+    "Guard Passes/Side Body Lock Pass.md",
+    "Guard Passes/Body Lock Pass.md",
+    "Cow Catcher.md",
+    "Guard Passes/Tripod Pass.md",
+    "Guard Passes/X-pass.md",
+    "Guards/Butterfly Guard.md",
+    "Sweeps/Lever Sweep.md",
+    "Guards/Butterfly-Half Guard.md",
+    "Sweeps/Butterfly Sweep.md",
+    "Positions/Turtle.md",
     "Pasted image 20250113140713.png",
     "Punch Choke",
     "Untitled 1.canvas",

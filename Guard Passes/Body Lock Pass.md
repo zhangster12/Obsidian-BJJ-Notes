@@ -20,8 +20,6 @@ You can setup the <u>Body Lock</u> from [Butterfly Guard](obsidian://open?vault=
 ## Guards
 - [[Butterfly Guard]]
 ## Positions
-- [[Back]]
-- [[Mount]]
 # References
 # Tags
-#gi #nogi #guardpass #pressurepass 
+#gi #nogi #guardpass #bodylock #pressurepass 

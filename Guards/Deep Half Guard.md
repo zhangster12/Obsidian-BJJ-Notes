@@ -24,4 +24,4 @@
 # References
 - [BJJ 101: Deep Half Guard](https://evolve-mma.com/blog/bjj-101-deep-half-guard/)
 # Tags
-#gi #guard 
+#gi #guard #halfguard 
