@@ -1,32 +1,27 @@
 # Overview
-The <u>Circle Pass</u> is a pass in which the passer circles around the guard player’s legs. [Link](https://www.youtube.com/watch?v=VnieVr0cVnY)
+The <u>Circle Pass</u> is a pass where you circle around the guard player’s legs. [Link](https://www.youtube.com/watch?v=VnieVr0cVnY)
 # Setup
-In the standing vs. supine case, the passer begins by controlling the ankles, then laterally moves to control the knee and hip in the [J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point).
+In standing vs. supine, begin by controlling the ankles, then laterally moving to control the knee and hip in the [J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point).
 # Keys
-At the beginning, when the passer is controlling the ankles:
-- Being on the toes.
-- Turning the knees in.
-- Locking out the arms and bringing the guard player’s ankles to their thighs.
-	- At the [Nick and Danny Seminar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Seminars%2FNick%20and%20Danny's%20Seminar%20(4-30%20-%205-3-2024)), they taught T. rex arms, so keeping the elbows tight to the body and using the forearms.
-
-When moving laterally, the passer should be on the toes unless they’re dropping down into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard), and they shouldn’t be within arms length of the guard player.
+- Be on your toes.
+- Turn your knees in.
+- Lock out your arms and bringing the guard player’s ankles to their thighs. You may also keep your elbows tight ([Nick and Danny Seminar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Seminars%2FNick%20and%20Danny's%20Seminar%20(4-30%20-%205-3-2024))).
+- Stay away from their hands when moving laterally.
 # Transitioning
-- If there are no frames, the passer can simply drop their weight into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control).
-- If the there are frames, the passer can walk to the other side for a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag). The passer can also camp the position to make the guard player more fatigued ([J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point)).
-- If the guard player begins to track the passer with their feet, they’ve opened themselves to a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut).
-- The top player can also drop into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) to reserve energy.
-# Defense
-Frame at the shoulders and hip, then use your legs.
-# Links
 ## Guards
-- [[Half Guard]]
+- [[Half Guard]]: Drop into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) to reserve energy.
 ## Passes
-- [[Leg Drag]]
-- [[Knee Cut]]
+- [[Leg Drag]]: If there are frames, walk to the other side.
+- [[Knee Cut]]: If the guard player tracks you with their feet, pin their leg and enter a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut).
 ## Positions
-- [[J-point]]
-- [[North-South]]
-- [[Side Control]]
-- [[Turtle]]
+- [[J-point]]: Instead of a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag), you can camp the position to fatigue the guard player.
+- [[North-South]]:
+- [[Side Control]]: If there are no frames, drop your weight.
+- [[Turtle]]: If they feel danger, they may roll into [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle.).
+# Defense
+## Guards
+- [[Open Guard]]: Frame at the shoulders and hip, then use your legs to square yourself back up.
+## Positions
+- [[Turtle]]: If you’re in danger of being passed, roll into [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle.).
 # Tags
 #gi #nogi #guardpass #loosepassing

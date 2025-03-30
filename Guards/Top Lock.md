@@ -14,7 +14,17 @@ To complete the **Top Lock**, push off their far hip as well as kicking them ove
 Alternatively, you can throw your legs over their shoulder very quickly.
 # Retention
 In the beginning, grabbing the highest possible grip on their collar will have the greatest amount of control. The leg that’s in line with the spine is on the bottom, otherwise there will be too much space between their back and your legs, and they will be able to posture up. The toes should be pointed toe to engage the hamstrings. Additionally, you can grab onto their leg to help reinforce the control.
-# Attacking
+# Transitioning
+## Guards
+- [[K-guard]]:  Under hook one of the passer’s legs.
+## Positions
+
+## Submissions
+
+## Transitions
+- [[Arm Drag]]: If the passer drives into you, switch to a 2-on-1 on the far arm, then control the far armpit or lapel, and climb the Back.
+
+
 There are multiple *arm* locks in the **Top Lock**:
 - The [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar) is the most typical submission you will find, as you can simply bring the far arm to the hip bone. Alternatively, you can go to a traditional [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar) with the legs pressing down on their head. Lastly, by covering the hand of the far arm using your own elbow, the opponent will [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar) themselves by driving their shoulder in.
 - The reverse [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar) is a variation that can be setup by bringing the wrist of their far arm between your shoulder and neck. The keys to a good inverted [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar): *pointing their thumbs down* and *gable gripping at the elbow*.

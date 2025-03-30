@@ -5,8 +5,11 @@ The <u>X-guard</u> is a guard in which the guard player’s legs are controlling
 # Entry
 From [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami), you can enter <u>X-guard</u> when the opponent strips the top foot.
 # Passing
-You have to break down the hooks.
+- **Pull up on the sleeve**: Don’t pull on the sleeve that’s controlling your ankle.
+- **Break down the hooks**: Push down on the guard player’s legs so they aren’t hooked.
 # Retention
+- Constantly off-balance the passer:
+- Keep sticky hooks:
 # Attacking
 You should keep the passer’s hands on the mat or away by off balancing them.
 

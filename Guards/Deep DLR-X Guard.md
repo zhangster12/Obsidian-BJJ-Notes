@@ -1,8 +1,10 @@
 # Overview
+
 # Entry/Setup
 # Passing
 # Retention/Keys
-# Attacking/Transitioning
+# Transitioning
+- Ankle Pick: If the passer is kneeling on the far leg, you can reach for the ankle of that leg, then perform a technical stand up.
 # Escape/Defense/Counter
 # Variations
 # Links
@@ -18,4 +20,4 @@
 
 # References
 # Tags
-Insert tags #hide
+#nogi #guard #delariva #xguard

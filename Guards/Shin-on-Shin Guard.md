@@ -7,23 +7,18 @@ From [Seated Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSeate
 # Retention
 
 # Attacking
-You want to get both legs, you can scoot back to force them to step back.
-
-You can Ankle Pick or entry x or ashi.
+Scoot back to make the passer step forward:
+- [Ankle Pick](obsidian://open?vault=Obsidian-BJJ-Notes&file=Takedowns%2FAnkle%20Pick): Capture the other ankle as you drive your head into the side of their knee.
+- [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami): Roll towards between their legs.
+- [Ankle Pick]
 # Escape/Defense
 # Variations
 # Links
-## Escapes
 ## Guards
 - [[Ashi Garami]]
 - [[X-guard]]
-## Passes
-## Positions
 ## Takedowns
 - [[Ankle Pick]]
-## Transitions
-
-## Submissions
 ## Sweeps
 - [[Tripod Sweep]]
 # References

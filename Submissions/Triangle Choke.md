@@ -38,4 +38,4 @@ If you can bring your other arm inside, they won’t be able to **Triangle** you
 - [[Armbar]]
 - [[Omoplata]] (If the top player places their arm behind you)
 # Tags
-#gi #nogi #submission 
+#gi #nogi #submission #ibjjfwhitebelt

@@ -14,7 +14,10 @@ Cross face
 Stuff 1 leg
 # Attacking
 - [Butterfly Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FButterfly%20Sweep): Your foot is already on the outside, which makes it easier to begin the sweep. Drive your head into their chin, pull them onto you, and turn their body.
-- [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle): If you pull down on their head and technical stand up, you force them 
+
+Break their posture down, to load them up
+
+- [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle): If you pull down on their head and technical stand up, you force them to Turtle
 - **Backwards sweep**: If they have their weight back, it will be difficult to complete the [Butterfly Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FButterfly%20Sweep); therefore you can sweep them backwards by technical standing up, as you push forwards.
 
 Most commonly, Butterfly Guard is used to sweep or off balance.
@@ -34,6 +37,10 @@ To set up sweep:
 
 If they stand up and plant on foot when sweeping, either push knee/foot away, plant foot on knee/foot and use it as leverage when sweeping, or if their leg is too close, go to ashi or x guard
 # Retention
+- **Forward shift**: When the passer flattens you out, forward shift by extending your hooks (not too far out), as you sit up.
+- Sticky hooks.
+- Knees to chest.
+
 Force them onto their back.
 
 If the opponent is able to force you to your back or body locks you:
@@ -46,16 +53,20 @@ Sticky hooks
 Knees to chest
 # Variations
 - **2 hooks**: This is the most common configuration, where both feet are hooked onto the passer’s thighs.
-- 1 hook, 1 foot outside: In this configuration, one hook is hooked on their thigh, while the other is outside their knee. The advantage is that the outside foot is already in sweeping position.
+- **1 hook, 1 foot outside**: In this configuration, one hook is hooked on their thigh, while the other is outside their knee. The advantage is that the outside foot is already in sweeping position.
 - Butterfly-Half:
 
 # Links
+## Grips
+- [[Cross Collar Grip]]
 ## Guards
 - [[Butterfly-Half Guard]]
 - [[Half Guard]] (After stuffing a leg)
 ## Passes
 - [[Body Lock Pass]]
 - [[Smash Pass]]
+## Submissions
+- [[Cross Choke]]
 ## Sweeps
 - [[Butterfly Sweep]]
 ## Transitions

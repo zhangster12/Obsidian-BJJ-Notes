@@ -3,11 +3,9 @@ A <u>Cross Pant Grip</u> is a pant grip in which the top player reaches across a
 
 ![Cross Pant Grip](https://www.bjjee.com/wp-content/uploads/2021/11/dom-bell.jpg)
 # Setup
-In standing position, the top player can simply reach across and grab the <u>Cross Pant Grip</u>.
-# Attacking
-An option is to stuff the bottom player’s leg into the back pocket to set up a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FLeg%20Drag).
-# Links
+- When standing, reach across and grab the <u>Cross Pant Grip</u>.
+# Transitioning
 ## Passes
-- [[Leg Drag]]
+- [[Leg Drag]]: Stuff the guard player’s leg into the back pocket.
 # Tags
 #gi #grip

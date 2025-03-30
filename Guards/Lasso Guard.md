@@ -6,17 +6,17 @@ The <u>Lasso Guard</u> is an open guard in that uses leg and sleeve control to i
 # Entry
 You can enter Lasso Guard from Spider Guard:
 - When you shift your hips, the top leg (side of the hip facing up) will be the lasso leg.
+# Retention
+- 
+# Passing
+- [[Knee Cut]]:
 # Variations
-## Shallow Lasso
-## Lasso DLR
-
-# Links
-## Escapes
-## Passes
-- [[Knee Cut]]
-## Submissions
+- Lapel-Lasso:
+- [[Lasso-DLR Guard]]:
+- Lasso-50-50
+- Shallow Lasso:
+# Attacking
 - [[Triangle Choke]]
-## Sweeps
 # References
 - 
 # Tags

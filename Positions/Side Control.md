@@ -63,6 +63,9 @@ Lapel chokes
 
 
 # Escape
+If it’s diffilcute to get the frames in, bridge and use ur bicep to drive them overhead.
+
+
 To escape **Side Control**, you need to:
 - Elbow frame at the hip.
 - Get the shoulder to the mat.
@@ -94,6 +97,7 @@ Hip switch
 - [[Half Guard]]
 ## Positions
 - [[Mount]]
+	- [[S-mount]]
 - [[North-South]]
 - [[Knee On Belly]]
 - [[Side Control]]

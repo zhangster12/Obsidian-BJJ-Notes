@@ -3,59 +3,31 @@
 
 ![Spider Guard](https://cdn.evolve-mma.com/wp-content/uploads/2021/12/rodrigo-and-thales-bjj-lasso-guard.jpg)
 # Entry
-Entering Spider Guard usually happens when you can control of both of the opponent’s sleeves. This can happen in the following ways:
-- In [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard), if they reach for your pants, you can grab their sleeves.
-- In Closed Guard, the guard player can control both sleeves, then bring the feet to the hips and flare the knees out. Then plant the feet on the biceps.
+Control of both of the passer’s sleeves:
+- [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard): If they reach for your pants, grab their sleeves.
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Control both sleeves, then bring the feet to the hips and flare the knees out. Then plant the feet on the biceps.
 # Passing
 # Retention
-You need to be on 1 hip and have 1 leg extended.
-
-Plant 1 foot on mat arms to face
-→ X guard
-
-
-If they squat down with 1 knee up and the other back:
-
-Deep DLR X
-
-If theirs no space under the knee: shin on shin
-extend and enter ashi, triangle, or closed guard
-# Attacking
-From bruce spider guard workshop
-Sweeps
-- Bring the other foot to the knee.
-- Steer them to the knee side for the sweep.
-- Lasso option
-    - From the lasso, bring the opposite leg on the same side and let go of the opposite arm.
-    - When they try to go into side control, grab their pants. Flare the lasso knee out and simultaneously throw them over.
-Submissions
-- If they bring their leg up, bridge up to go into a triangle.
-- For when the lasso option doesn’t work:
-    - Triangle the arm, and pull the arm over the chest.
-    - Pull down on the biceps (with 2 hands on either side), and press the calf into the bicep.
-Back Take
-- If the bicep slicer doesn’t work:
-    - Throw the arms and kick over, and take the back.
-# Variations
-
-# Links
-
-## Escapes
-
+- Keep one leg extended, and one leg pulled towards you.
+- Be on one hip.
+# Transitioning
 ## Guards
 - [[Ashi Garami]]
 - [[Closed Guard]]
 - [[De La Riva]]
-- [[X-guard]]
+- [[Deep DLR-X Guard]]: If the passer keeps the front knee up and the back knee down.
 - [[Lasso Guard]]
-## Passes
-
+- [[X-guard]]
 ## Positions
-
-## Transitions
-
+- [Bicep Slicer](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FBicep%20Slicer) → [[Back]]: If the [Bicep Slicer](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FBicep%20Slicer) from bottom fails, throw the passer’s arm over and kick over.
 ## Submissions
-- [[Triangle Choke]]
+- [Lasso-Lever Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FLasso-Lever%20Sweep) → [[Bicep Slicer]]: You can [Bicep Slice](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FBicep%20Slicer) if the sweep succeeds. Otherwise, triangle your legs, use two hands to pull their arm to your chest, and press your shin to their bicep. [Link](https://www.youtube.com/watch?v=_KewfhqETXI), [Link 2](https://www.youtube.com/watch?v=Kqp6HusyuQ4)
+- [[Triangle Choke]]: If the passer brings their leg up, bridge into a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke).
 ## Sweeps
+- [Spider-Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Spider-Lasso%20Guard) → [[Lasso-Lever Sweep]]: Bring the opposite leg outside the passer’s hip. When they try to pass, grab their pants, flare the [Lasso](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) hook out, and throw them over.
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Scissor Sweep]]: Since the passer is kneeling, pull their bottom arm, while extending their top arm. Block the outside of their knee as you turn him over. [Link](https://www.instagram.com/p/DHHV668BoiL/?hl=en)
+# Variations
+- [[Shin-on-Shin Spider Guard]]: [Link](https://www.youtube.com/shorts/sZ9DndYaNUk)
+- [[Spider-Lasso Guard]]: While still controlling a bicep, hook your other leg at the passer’s armpit.
 # Tags
 #gi #guard 

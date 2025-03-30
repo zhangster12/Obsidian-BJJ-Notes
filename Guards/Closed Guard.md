@@ -1,5 +1,5 @@
 # Overview
-The <u>Closed Guard</u> is a guard where the passer is locked between the guard player’s legs, preventing the passer from moving away.
+The <u>Closed Guard</u> is when the passer is locked between your legs, preventing them from moving away.
 
 ![Closed guard](https://cdn.evolve-mma.com/wp-content/uploads/2021/04/bjj-full-guard.jpg)
 # Entry
@@ -8,6 +8,7 @@ After pulling guard, if the passer leaves their knee-elbow space open, you can s
 
 The top player can also be swept from [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) into <u>Closed Guard</u>.
 # Passing
+## Opening Closed Guard
 Your objective is to avoid being put into <u>Closed Guard</u>, as it’s a difficult position to be put in. There are few attacks from the top, as they will open you to the guard player’s attacks.
 
 Opening the guard is passing [Open Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FOpen%20Guard) in reverse: you have to escape the hips, knees, and ankles, then pass the ankles, knees, and hips. Here are some main ideas:
@@ -15,10 +16,13 @@ Opening the guard is passing [Open Guard](obsidian://open?vault=Obsidian-BJJ-Not
 - Blading your stance or your leg will be in the way when you push the guard player’s leg down.
 - Bringing one arm inside their legs to throw a leg over.
 - Pushing the leg down is easier from standing, because they’re essentially hanging on by their feet.
+## Preventing & Passing Closed Guard
+Once the guard is open, use a combat base (one knee up, one knee down) to prevent the guard player from re-closing their legs.
 ## Passes
 Kneeling (one or both knees are on the mat):
 - Pinning the hips and blading the stance to wedge one knee into the guard player’s butt. [Link](https://www.youtube.com/watch?v=Yhy-QVscGq8)
 - Pinning an arm to the mat and [Sao Paolo Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FSao%20Paulo%20Pass).
+- 
 
 Standing:
 - Wedging one knee into the butt with the arms in the armpits or gi. [Link](https://youtu.be/FChiT98_Cgg?si=Q61MCzsMIr4SQNZY&t=214)
@@ -45,7 +49,18 @@ Controling posture:
 Climbing the back will allow you to have upper body control:
 - Climb the back 1 leg at a time while breaking their posture with a collar grip/collar tie.
 - You can also control an arm (triceps grip, wrist grip). Once you control an arm, if you open your legs just a little and bring them to you, you can have greater upper body control. You will hit their arms. Then the only way for them to escape is to drive forward, which makes the [Pendulum Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FPendulum%20Sweep) assessable.
-# Attacking
+# Transitioning
+## ## Guards
+- [[Clamp Guard]]: If you manage to get the passer’s hand to the mat.
+- [[Open Guard]]: Escape the guard (top).
+- [[K-guard]]: Bring their weight forward.
+- [[Spider Guard]]: Control both sleeves. [Link](https://www.instagram.com/reel/DHHV668BoiL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+## Sweeps
+- [[Hip Bump Sweep]]
+- [[Muscle Sweep]]: If the passer stands up with both of their feet square to you, you can grab their feet and push on the hips or [Muscle Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FMuscle%20Sweep).
+- [[Pendulum Sweep]]
+- [[Scissor Sweep]] (If the passer has a narrow base)
+
 On the bottom, you should be constantly attacking.
 
 In the <u>Closed Guard</u>, attacking is based on the passer’s elbow, hand, and posture positions:
@@ -57,8 +72,6 @@ Additionally, if you break their posture, the opponent will want to posture up, 
 You can begin a setup for everything with a [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke), as they will need to defend it. They will naturally use an arm on your chest to prevent you from reaching for a collar.
 
 For an arm bar, the top player will keep them close to prvent to be able to bend their arm.
-
-If they stand up with both of their legs near you, you can grab them and sweep. By pushing on the hips or Muscle Sweep.
 
 ## Hand Position
 Hands on the mat:
@@ -75,10 +88,6 @@ Top Lock
 - [[Baseball Bat Grip]]
 - [[Brabo Grip]]
 - [[Cross Collar Grip]]
-## Guards
-- [[Clamp Guard]] (If the passer places their hand in your pocket)
-- [[Open Guard]] (Once you’ve escaped the guard)
-- [[K-guard]] (After you bring them forward)
 ## Passes
 - [[Sao Paulo Pass]]
 ## Positions
@@ -89,11 +98,6 @@ Top Lock
 - [[Ezekiel Choke]]
 - [[Omoplata]]
 - [[Triangle Choke]]
-## Sweeps
-- [[Hip Bump Sweep]]
-- [[Muscle Sweep]] (If the passer stands up)
-- [[Pendulum Sweep]]
-- [[Scissor Sweep]] (If the passer has a narrow base)
 ## Transitions
 - [[Arm Drag]] (If the passer’s elbow crosses the midline)
 # References

@@ -3,21 +3,25 @@ A <u>Cross Collar Grip</u> is a grip on the opponent’s opposite collar (i.e. y
 
 ![Cross Collar Grip](https://keenanonline.com/wp-content/uploads/2018/12/Cross-Grip-on-the-Collar-01.jpg)
 # Setup
-From [Butterfly](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) or [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) or top position ([Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut)), you can grab the opposite side collar.
-# Transitioning
-In guard, the passer will strip this grip, because they recognize that a [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke) is coming. You can use the momentum of the grip break to bring their arm across your midline into an [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag) or [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock). The passer can stiff arm you to avoid having their posture broke. Grab the arm to control it to enter [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock) or [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar).  
-
-You can also use this set up from a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut) to [Loop Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FLoop%20Choke) when the guard player underhooks.
-# Defense
-You have to break the grip or intercept it before they can reach it.
-# Links
+- Grab the opposite side collar.
+## Guards
+- [Butterfly](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard)
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard)
+## Passes
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut)
 ## Positions
-- [[Top Lock]]
-## Takedowns
-- [[Arm Drag]]
+- [Mount]()
+# Transitioning
+## Positions
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Top Lock]]: If the passer recognizes a [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke), they will strip the grip. Use the momentum of the grip break to bring their arm across your midline into an [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag) or [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock).
 ## Submissions
-- [[Cross Choke]]
-- [[Loop Choke]]
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Armbar]]: If the passer tries to stiff arm you to avoid having their posture broken, grab their arm to control it to enter [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock) or [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar).
+- Mount, [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), Butterfly Guard → [[Cross Choke]]:
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut) → [[Loop Choke]]: When the guard player tries to underhook you, you can use this grip to [Loop Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FLoop%20Choke).
+## Transitions
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Arm Drag]]
+# Defense
+- Break the grip or intercept it before the opponent can reach it.
 # References
 # Tags
 #gi #grip 
