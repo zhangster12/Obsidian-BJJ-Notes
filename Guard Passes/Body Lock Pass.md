@@ -6,11 +6,10 @@ The <u>Body Lock Pass</u> is a pressure pass in which you control the guard play
 You can setup the <u>Body Lock</u> from [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) or anytime the guard player’s knees and elbows are separated.
 # Keys
 # Transitioning
+## Guards
+- [[Half Guard]]
 # Defense
-- [[Butterfly Guard]]: 
-- Sit up from your back, because the passer wants to flatten you out.
-- Push their legs away with your legs as you set up.
-- Frame on the neck; this pushes the passer’s head out of alignment so you can get your legs in front.
+- [[Butterfly Guard]]: Frame on the neck (misaligns the passer’s head) and push their legs away as you sit up (prevents you from being flattened).
 # Variations
 - **Front**: This variation is the most basic, where you’re square with the guard player.
 - **Side**: You can tripod when the guard player is in Butterfly Guard, then push their knees to one side as you lock your hands underneath them.
