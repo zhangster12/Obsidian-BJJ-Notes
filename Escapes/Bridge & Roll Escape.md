@@ -10,6 +10,8 @@ The <u>Bridge & Roll</u>, or <u>Trap & Roll</u>, is a [Mount](obsidian://open?va
 ## Guards
 - [[Closed Guard]]
 # Counter
-- Free your arm and post, use your head as a post, or grapevine your legs to anchor yourself to the bottom player.
+- Free your arm and post.
+- Use your head as a post.
+- Grapevine your legs to anchor yourself to the bottom player.
 # Tags
 #gi #nogi #escape 

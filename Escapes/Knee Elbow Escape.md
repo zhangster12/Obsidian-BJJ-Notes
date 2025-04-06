@@ -11,10 +11,10 @@ The <u>Knee Elbow Escape</u> is an escape from [Mount](obsidian://open?vault=Obs
 - Push their knee out and collect their leg.
 - Frame their opposite biceps.
 # Transitioning
-- [[Ashi Garami]]: Sometimes the top player will place all their weight onto one leg; the opposite leg is light, so you can shrimp out into [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami). [Link](https://www.youtube.com/watch?v=RBSxb-WJ1QE)
+- [[Ashi Garami]]: If the top player places their weight onto one leg, the opposite leg is light; shrimp into [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami). [Link](https://www.youtube.com/watch?v=RBSxb-WJ1QE)
 - [[Butterfly Guard]]
-- [[Closed Guard]]: After re-guarding.
-- [[Half Guard]]: After re-guarding.
+- [[Closed Guard]]
+- [[Half Guard]]
 # Counter
 ## Positions
 - [[Technical Mount]]: When the bottom player has shifted to their side, you can move with them. [Link](https://youtu.be/3sSLmjwOLmE?si=Laou-2LGzl-49mTP&t=84)

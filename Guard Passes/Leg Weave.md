@@ -3,15 +3,19 @@ The <u>Leg Weave</u> is a pressure pass that depends on properly pinning the gua
 
 ![Leg Weave No-gi](https://www.grapplearts.com/wp-content/uploads/2019/08/bjj-basics-leg-weave-pass-counter.jpg)
 # Entry
-When the guard player has a knee shield, such as in the [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut) or [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard), the <u>Leg Weave</u> can be used to pin the leg. 
+## Guards
+- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): If there’s a knee shield.
+## Passes
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut): If there’s a knee shield.
 # Keys
-- In the gi, grabbing a collar and pant grip.
-
+- Grab a collar and pant grip (gi).
+- Drive your shoulder into their knee.
 # Defense
-The guard player should frame across the neck of the passer and post onto their elbow to create space.
+- Frame across the passer’s neck.
+- Post your elbow to bridge and create space.
 # Variations
-In no-gi, the passer would punch their fist to the mat and pressing down and grabbing the neck.
-# Links
+- No-gi: Punch your fist to the mat. Press down and grab the neck.
+# Transitioning
 ## Passes
 - [[Leg Drag]]
 ## Positions

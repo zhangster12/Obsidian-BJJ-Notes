@@ -1,8 +1,11 @@
 # Overview
 # Entry/Setup
+- Lower the other knee to bait the passer into passing.
 # Passing
 # Retention/Keys
-# Attacking/Transitioning
+# Transitioning
+## Positions
+- [[Side Control]]
 # Escape/Defense/Counter
 # Variations
 - Leg outside the hip: This also works from standing. [Link 2](https://www.instagram.com/cameron.lepage/reel/C3nJeBWMoLq/)
@@ -20,4 +23,4 @@
 
 # References
 # Tags
-Insert tags #hide
+#gi #sweep 

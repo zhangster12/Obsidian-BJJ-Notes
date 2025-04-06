@@ -2,12 +2,16 @@
 
 ![Dummy Sweep](https://thebjjnotebook.wordpress.com/wp-content/uploads/2019/01/giphy.gif)
 # Entry
+- Seated Guard
+- Supine Guard
+
 When the passer is square with the guard player, the guard player can grab both of the passer’s feet and rotate the knees out.
 # Passing
 # Retention/Keys
-# Attacking/Transitioning
+# Transitioning
 # Defense
-To avoid a <u>Dummy Sweep</u>, the passer shouldn’t be stepping towards the guard player with both feet. If the guard player has already captured both of the passer’s feet and is initiating the sweep, the passer can lean forward. 
+- Don’t step towards the guard player with both feet.
+- Lean forward if they’ve captured both of your feet. 
 # Variations
 # Links
 ## Escapes

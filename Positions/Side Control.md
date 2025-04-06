@@ -1,14 +1,19 @@
 # Overview
-<u>Side Control</u> is a pinning position when you’re perpendicular to your opponent and are not entangled in their legs. Typically, but not always you’re chest-to-chest with your opponent. Points are not scored for <u>Side Control</u>, rather scored for passing the guard.
+<u>Side Control</u> is a pinning position when you’re perpendicular to the bottom player and not entangled in their legs. Typically, but not always, you’re chest-to-chest with your opponent. Points are not scored for <u>Side Control</u>, rather scored for passing the guard.
 
 ![Side Control](https://www.grapplearts.com/wp-content/uploads/2020/04/Side-Control-Pic-3.jpg)
 # Entry
-<u>Side Control</u> is a hub after you’ve passed the guard. This can be from open guard, half guard, closed guard, etc.
+- Pass the guard.
 # Keys
-The most basic <u>Side Control</u> consists of an under and overhook while having a good crossface, so your shoulder will be driving into their face. 1 knee should be under their near side shoulder and the other at their hip.
+- Underhook and overhook.
+- Drive the over hook into their face to turn it.
+- Keep one knee at the hip and the other under the near side shoulder.
 
 As with any other position, <u>Side Control</u> is **NOT** a static position because your opponent will be countering and trying to escape. You have to be dynamic when pinning your opponent. By switching from position to position, you can adapt to the energy he’s giving you and also create many opportunities to outmaneuver and set him up as he tries to recover his guard. Each variation allows you to adjust the point of pressure for your weight on your opponent while moving around their various attempts to escape, so you should become familiar with them all.
-# Attacking
+# Transitioning
+## Positions
+- [[North-South]]: Block the nearside hip and walk towards their head. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
+- [[Technical Mount]]:
 You can take the back by blocking the near side hip. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
 
 You can attack the far side arm with a [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura), then straight arm lock, then Americana.
@@ -63,6 +68,7 @@ Lapel chokes
 
 
 # Escape
+-  [[Ghost Escape]]
 If it’s diffilcute to get the frames in, bridge and use ur bicep to drive them overhead.
 
 
@@ -80,6 +86,8 @@ Sometimes the opponent has passed the guard but has not established a crossface:
 - Frame at the triceps (if the top player exposes the back of their triceps), lock out the arm, then shrimp out, and reengage the guard.
 - Kip up by using the legs, rather than simply sit up.
 # Variations
+- Underhook and crossface
+- 
 In side control there are variations on pinning your opponent.
 
 Stay near the hips

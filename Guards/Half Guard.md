@@ -75,7 +75,7 @@ Shake to escape from bottom
 ### Submissions
 - [[Kimura]]
 ### Sweeps
-- [[G-Roll Sweep]] (If their weight is back)
+- [[G-roll Sweep]] (If their weight is back)
 - [[Lever Sweep]] (If their weight is loaded on top)
 - [[Rollover Sweep]] (If they whizzer when you underhook)
 ### Transitions
