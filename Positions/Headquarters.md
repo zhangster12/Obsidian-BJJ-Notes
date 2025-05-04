@@ -1,5 +1,5 @@
 # Overview
-<u>HQ</u> is a position in which you have 1 leg out and the other leg in and is a very good passing hub.
+<u>HQ</u> is a position in which you have one leg out and one leg in and is a very good passing hub.
 
 ![HQ](https://preview.redd.it/x8uulmpupql51.png?width=966&format=png&auto=webp&s=5ec60de0ec8335177ee17b02409768c995b385d9)
 # Entry
@@ -10,9 +10,12 @@ This also happen when breaking out of a guard. For example:
 
 This can also happen in Open Guard where you step between their legs.
 # Passing
+- Float Pass
+- [[Knee Cut]]: 
+- [[Smash Pass]]: If their knee is pointed towards their outside knee.
 You mainly pass left, right, and above. The direction you pass is dictated by the direction of their knee:
 - If their knee is pointed in the direction of their outside knee, you can perform a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
-- If their knee is pointed in the opposite direction, you can perform a [Smash Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FSmash%20Pass) or another pass in that direction.
+
 
 When you pass to 1 side, post near the hip opposite of the direction you want to go, or on them, then post on far away on the far you’re passing towards:
 - If you want to pass to the *left*, post near the *right* hip, then the *left*.
@@ -33,7 +36,8 @@ The guard player has to defend by getting their feet back in front and getting t
 
 The guard player can use counter grips (double collar grip, outside DLR pant grip) to prevent the passer from advancing.
 # Variations
-There is a variation of HQ in which you pin their outside leg
+- Pinch inside knee.
+- Pin outside leg.
 # Links
 ## Guards
 - [[De La Riva]]

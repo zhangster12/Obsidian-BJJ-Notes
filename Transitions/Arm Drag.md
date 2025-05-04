@@ -1,30 +1,32 @@
 # Overview
-An <u>Arm Drag</u> is a movement in which the guard player hooks one of the passer’s arms and dragging it across their body.
+An <u>Arm Drag</u> is when drag one of the passer’s arms across their body.
 
+![Arm Drag](https://keenanonline.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-18-at-9.37.45-PM.png)
 # Setup
-## [[Closed Guard]]
-- Break their posture by dropping your hips and lifting your entire legs up
-## Additional Details
-- Use 2 on 1 grip
-	- 1 hand at armpit, other at triceps
-	- 1 hand at triceps other at wrist
-- Bring your chest to their triceps
+- Butterfly Guard: 
+- Closed Guard: Break the passer’s posture by dropping your hips.
 # Keys
-As competitors have gotten more aware of <u>Arm Drags</u>, they’ve gotten better at keeping their elbows tight. To separate the elbow from the body, the guard player should use their outside hand to turn the knuckles of the passer down, thereby internally rotating the shoulder. This exposes the armpit, allowing the guard player to drag the passer across quickly to complete the <u>Arm Drag</u>. Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the outside foot out so that they’re perpendicular to the passer as they’re dragging the arm. Additionally, Arm Drags can be executed on either side: for example, if the passer keeps their elbow tight after an attempt, the guard player can drag the opposite arm.
-# Links
-
-## Guards
-- [[Turtle]]
+- When they’re not square to you, cover their triceps with your chest.
+- 
+Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the outside foot out so that they’re perpendicular to the passer as they’re dragging the arm. Additionally, Arm Drags can be executed on either side: for example, if the passer keeps their elbow tight after an attempt, the guard player can drag the opposite arm.
+# Transitioning
 ## Positions
-- [[Back]]
-- [[Mount]]
+- [[Back]]: 
+- [[Mount]]:
 ## Submissions
-- [[Armbar]]
+- [[Armbar]]: If the bottom player reaches for your arm, roll over their head.
 ## Sweeps
 - [[Butterfly Sweep]]
-- [[Pendulum Sweep]] (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
+- [[Pendulum Sweep]]: (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
 - [[Scissor Sweep]]
 ## Transitions
-- [[Wrestle-up]] (From [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) after an <u>Arm Drag</u>)
+- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) → [[Wrestle-up]]: If the <u>Arm Drag</u> fails.
+# Defense
+- Keep your elbow tight.
+- Stay square to the guard player.
+- [[Turtle]]: 
+# Variations
+- **2-on-1 grip**: One hand controls the passer’s wrist and the other at their sleeve.
+- **Wrist/underhook grip**: One hand internally rotates their wrist, while the other hand underhooks their armpit, when they separate their elbow from their hips.
 # Tags
 #gi #nogi #transition #closedguardsystem

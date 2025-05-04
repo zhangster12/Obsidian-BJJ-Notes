@@ -2,8 +2,7 @@
 # Entry/Setup
 # Passing
 # Retention/Keys
-# Transitioning
-- [[Half Guard]]: You’ll sweep into top position.
+# Attacking/Transitioning
 # Escape/Defense/Counter
 # Variations
 # Links
@@ -19,4 +18,4 @@
 
 # References
 # Tags
-#gi #sweep 
+Insert tags #hide

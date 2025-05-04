@@ -19,6 +19,7 @@ Sweep in the direction they’re going towards
 - After getting the passer’s hands to the mat, the guard player can grab 2 pant grips and [Wrestle up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up): Get their hand’s to the mat, grab 2 pants
 - The guard player can bring their knees to the chest and push the passer onto their back.
 # Variations
+ 
 ## Modified
 In the modified **X-guard**, sometimes called the butterfly-x guard, the top leg is hooking at the near side hip for control. [Link](https://www.youtube.com/watch?v=5YiH8ggmM4I&t=11s)
 ## Single-leg X

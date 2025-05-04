@@ -1,5 +1,5 @@
 # Overview
-The <u>S-mount</u> is characterized by the “S” formation that you form using your legs as you sit on your opponent’s diaphragm.
+The <u>S-mount</u> is characterized by the “S” formation that you form using your legs as you sit on the bottom player’s diaphragm.
 
 ![https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg](https://cdn.evolve-mma.com/wp-content/uploads/2022/02/S-mount-bjj.jpg)
 # Entry

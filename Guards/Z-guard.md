@@ -3,7 +3,7 @@ The <u>Z-guard</u> is a variation of Half Guard, where your knee shield is at th
 # Entry/Setup
 # Passing
 - [[Leg Weave]]
-# Retention/Keys
+# Retention
 # Transitioning
 
 ## Sweeps

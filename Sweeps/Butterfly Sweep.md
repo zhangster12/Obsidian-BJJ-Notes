@@ -2,6 +2,7 @@
 
 ![Butterfly Sweep](https://www.bjjee.com/wp-content/uploads/2021/10/final_615f28a20827c4005ba3ec32_180848-1.png)
 # Setup
+- Butterfly Guard:
 
 # Keys
 - Keep the knee that’s hooked on the thigh pointed towards the ceiling and retracted towards your shoulder.
@@ -10,11 +11,18 @@
 - Bring the passer’s head below their hips.
 - Bring the passer’s shoulder to the head. This twists their upper body, making their spine out of alignment.
 - Come onto your knees if you’re having trouble completing the sweep.
+## Completing The Sweep
 # Transitioning
+## Guards
+- [[Ashi Garami]]: If the passer’s leg
+- [[Closed Guard]]: If the passer’s elbows and knees are separated.
+- [[Half Guard]]
+- [[X-guard]]
+## Positions
+- [[Mount]]
 Ideally, you’d sweep into top position ([Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) or [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard)), but if the passer posts onto one leg, there are a few options:
 - **Leg is too close**: Underhook and enter [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard) or [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).
 - **Leg is reachable**: Plant your bottom foot on their shin/knee and drive off of that to complete the sweep. This is similar to a chopping motion like a [Scissor Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FScissor%20Sweep). If they continue to hop away, reverse shrimp to follow them.
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Since the passer’s elbow and knees are separated.
 
 Other options: If they’re on knees
 - Kick knee out (Wide knees)

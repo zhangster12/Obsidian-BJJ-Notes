@@ -3,9 +3,11 @@ The <u>Back</u> is 1 of the most dominant positions, because while the opponent 
 
 ![Back](https://evolve-mma.com/wp-content/uploads/2022/03/back-mount.jpg)
 # Entry
-Taking the <u>Back</u>:
-- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), once the opponent is off balanced, the guard player can take the hooked leg and turn it down to force the passer to their knees and turn them away. The guard player can control the hips and gradually climb the <u>Back</u>.
-- In [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), taking the <u>Back</u> can happen from an Arm Drag.
+## Guards
+- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva): When the passer is off balanced, take your hooked leg and turn it down to force them to their knees and turn them away. Control the hips and gradually climb the <u>Back</u>.
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): From an Arm Drag.
+
+## Positions
 - In [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount), the top player can chair sit to the <u>Back</u>.
 - In Turtle Guard, the top player can slide the knee into the knee-elbow space OR breaking the bottom player down to the side to take the back.
 
@@ -13,6 +15,7 @@ In the gi, using far side collar and lapel armpit grip is similar to a power hal
 # Retention
 Maintaining the <u>Back</u> requires cross body control.
 ## Upper Body
+- Seatbelt: 
 ### Seatbelt
 When initially taking the back, this is good, but you can switch to better options. Ideally, you should be glued to your opponent’s back. Having a good seatbelt is important, because if they escape the legs, you can crunch them, slide the knee up their hip, and retake the back
 
@@ -37,13 +40,26 @@ Hooks are the weakest way to control the back, but if they’re in turtle, it mi
 This is similar to the body triangle, but the legs aren’t locked. This is good for people whose waists are wider than your legs.
 ### Single Hook
 This is good if you can’t get the other hook in. 1 leg is in, and the other leg is out. You can cross your feet behind their leg, or you can extend them out to get the other hook by pushing on their thigh with your shin and reinforcing with the other foot. [Link](https://www.youtube.com/watch?v=pUECcQ8JJeA)
-# Attacking
+# Transitioning
+## Position
+- 
+- [[Spider Web]]
+- [[Mount]]
+## Submissions
+- [[Armbar]]
+- [[Bow & Arrow Choke]]
+- [[Sliding Collar Choke]]
+- [[Single Wing]]
+- [[Straight Ankle Lock]]
+
 The opponent will likely be hand fighting you.
 
 The majority of these attacks from the **Back** are strangles, which are superior to joint breaks, because sometimes the opponent will endure the damage, whereas a strangle will cause them to pass out.
 
 Sometimes the opponent will have good **Back** defense. In this case, you can transition to the Armbar. [Here](https://youtu.be/xN0HUe8e2z0?si=lA9RZI6RCukJeAyK&t=1048) is an instance of Gordon Ryan doing this against Patrick Gaudio. You can extend your forearms to the 
 # Escape
+## Submissions
+- [[Straight Ankle Lock]]: If your opponent has a body triangle or mistakenly crossed their feet.
 The first thing you need to do to escape the **Back** is to fight the hands, because they are going to be trying to choke you.
 
 To escape the **Back**, you must do the following:
@@ -60,5 +76,7 @@ To escape the **Back**, you must do the following:
 - [[Sliding Collar Choke]]
 - [[Single Wing]]
 - [[Straight Ankle Lock]]
+# References
+- [Basic BJJ Positions: A Beginner’s Guide](https://jiujitsuthoughts.com/basic-bjj-positions-for-beginners/)
 # Tags
 #gi #position 
