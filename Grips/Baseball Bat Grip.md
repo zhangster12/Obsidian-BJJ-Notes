@@ -8,6 +8,7 @@ A <u>Baseball Bat Grip</u> is a grip that involves holding the opponent’s lape
 - You don’t need a deep grip if you’re breaking their posture.
 # Attacking
 ## Submissions
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Cross Choke]]: In addition to breaking posture, this grip can set up a [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke) by sliding your top hand over their head.
+- [[Cross Choke]]
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): In addition to breaking posture, this grip can set up a [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke) by sliding your top hand over their head.
 # Tags
 #gi #grip 

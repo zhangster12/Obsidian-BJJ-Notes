@@ -3,10 +3,11 @@ The <u>Leg Weave</u> is a pressure pass that depends on properly pinning the gua
 
 ![Leg Weave No-gi](https://www.grapplearts.com/wp-content/uploads/2019/08/bjj-basics-leg-weave-pass-counter.jpg)
 # Entry
+- If there’s a knee shield.
 ## Guards
-- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): If there’s a knee shield.
+- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard)
 ## Passes
-- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut): If there’s a knee shield.
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut)
 # Keys
 - Grab a collar and pant grip (gi).
 - Drive your shoulder into their knee.

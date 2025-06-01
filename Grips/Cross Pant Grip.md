@@ -3,7 +3,7 @@ A <u>Cross Pant Grip</u> is a grip where you reach across and grabs the opposite
 
 ![Cross Pant Grip](https://www.bjjee.com/wp-content/uploads/2021/11/dom-bell.jpg)
 # Setup
-- Supine Guard
+- [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard)
 # Transitioning
 ## Passes
 - [[Leg Drag]]: Stuff the guard player’s leg into the back pocket.

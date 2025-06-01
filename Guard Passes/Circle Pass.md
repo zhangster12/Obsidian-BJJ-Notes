@@ -1,7 +1,7 @@
 # Overview
 The <u>Circle Pass</u> is a pass where you circle around the guard player’s legs. [Link](https://www.youtube.com/watch?v=VnieVr0cVnY)
 # Setup
-In standing vs. supine, begin by controlling the ankles, then laterally moving to control the knee and hip in the [J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point).
+- Supine Guard: Controlling the ankles, then move laterally to control the knee and hip in the [J-point](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FJ-point).
 # Keys
 - Be on your toes.
 - Turn your knees in.
@@ -12,10 +12,10 @@ In standing vs. supine, begin by controlling the ankles, then laterally moving t
 - [[Half Guard]]: Drop into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard) to reserve energy.
 ## Passes
 - [[Leg Drag]]: If there are frames, walk to the other side.
-- [[Knee Cut]]: If the guard player tracks you with their feet, pin their leg and enter a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut).
+- [[Knee Cut]]: If the guard player tracks you with their feet, pin their leg.
 ## Positions
-- [[J-point]]: Instead of a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag), you can camp the position to fatigue the guard player.
-- [[North-South]]:
+- [[J-point]]: Instead of a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag), camp the position to fatigue the guard player.
+- [[North-South]]: Walk around, then drop your chest down.
 - [[Side Control]]: If there are no frames, drop your weight.
 - [[Turtle]]: If they feel danger, they may roll into [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle.).
 # Defense

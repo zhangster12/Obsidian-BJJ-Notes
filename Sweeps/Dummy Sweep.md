@@ -1,27 +1,21 @@
 # Overview
+The <u>Dummy Sweep</u>, or <u>Idiot Sweep</u>, involves catching both the passer’s legs at the back of the ankles with your feet, then pushing hard on their knees, causing them to fall.
 
 ![Dummy Sweep](https://thebjjnotebook.wordpress.com/wp-content/uploads/2019/01/giphy.gif)
-# Entry
+# Setup
+- Ashi Garami
 - Seated Guard
-- Supine Guard
-
-When the passer is square with the guard player, the guard player can grab both of the passer’s feet and rotate the knees out.
-# Passing
-# Retention/Keys
+- Supine Guard 
+# Keys
+- Grab both feet or pants.
 # Transitioning
+## Guards
+- [[Supine Guard]]
 # Defense
 - Don’t step towards the guard player with both feet.
 - Lean forward if they’ve captured both of your feet. 
 # Variations
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+
 # References
 # Tags
 Insert tags #hide

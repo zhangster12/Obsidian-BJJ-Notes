@@ -5,15 +5,15 @@ The <u>Toreando</u>, or the bull fighting pass, is an outside pass that involves
 # Setup
 - [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard): When the guard player is in an open guard.
 # Keys
-
 # Transitioning
 ## Passes
 - [[Leg Drag]]
 ## Positions
 - [[Knee On Belly]]
+- [[Side Control]]
 - [[North-South]]
 # Counter
-- [[Spider Guard]]: Grab onto the passer’s sleeves.
+- [[Spider Guard]]: Grab the passer’s sleeves.
 # References
 - [What Is The Toreando Pass In BJJ](https://evolve-mma.com/blog/what-is-the-toreando-pass-in-bjj/)
 # Tags

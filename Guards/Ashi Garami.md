@@ -3,68 +3,42 @@
 
 ![Ashi Garami](https://cdn.shopify.com/s/files/1/0363/5125/files/Ashi-Entry-1024x576_large.jpg)
 # Entry
-Off-balancing:
-- Butterfly Guard: Extend the passer overhead, so they’re on all 4 limbs.
-- DLR: Shoot your outside leg through their legs. 
-- Shin-on-Shin: Roll to the opposite side of the leg to off balance them and lift their foot up. [Link](https://www.youtube.com/watch?v=kQQTST4DySY)
-
+## Guards
+- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard): Extend the passer overhead, so they’re on all 4 limbs.
+- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva): Off balance them, then shoot your outside leg through their legs. 
+- [Shin-on-Shin](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShin-on-Shin%20Guard): Roll to the opposite side of the leg to off balance them and lift their foot up. [Link](https://www.youtube.com/watch?v=kQQTST4DySY)
 ## Positions
-Escaping from bad positions:
-- Back: After escaping the Back, block the top player’s hip to prevent them from entering Mount, then enter Ashi when they do.
-- Mount: When escaping the [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) using the [Knee Elbow Escape](obsidian://open?vault=Obsidian-BJJ-Notes&file=Escapes%2FKnee%20Elbow%20Escape), if the top player places their weight on one knee, shrimp to the opposite side to enter Ashi.
+- [Back](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FBack): After escaping, block the top player’s hip to prevent them from entering [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), then enter <u>Ashi</u> when they do.
+- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): After escaping with the [Knee Elbow Escape](obsidian://open?vault=Obsidian-BJJ-Notes&file=Escapes%2FKnee%20Elbow%20Escape), if the top player places their weight on one knee, shrimp to the opposite side to enter <u>Ashi</u>.
 # Passing
-Standing:
-
-fdsfsa
-
-- Forward/back step: 
-- Half Guard:
-- Mount:
-
-Control the heel using the inside arm, then use your outside arm to balance. As you press their heel to butt. they will push back. as they do push it outside your hip.
-
-
-
-Once an opponent enters <u>Ashi</u>, the passer can either **drop to one knee** or **remain standing**. Either way, the first step is to **peel and control the outside foot**; controlling the foot will prevent the guard player from entering other guards, such as [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard).
-
-The next step is to **control the inside hook**. Once both feet are controlled, the passer can advance towards a dominant position
-- If the guard player’s legs are not tight towards their chest, then the passer can simply push the inside leg back and sit into [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
-
-If you wish to remain standing, make sure to *turn the outside knee in* and *pinch the knees*, similar to [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva). Planting your knee in back of their thigh will make it very difficult for them to establish hooks.
-- After doing so, strip the outside leg and then the inside hook. Lock out the arms. Once you’ve pushed on the inside leg. You can step back if they push back and into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
-Push their head away as you sprawl back
+- **Pinch your knees**: When you’re standing, turning your knees in makes it harder for the guard player to establish hooks, similar to [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva). Specifically plant your knee behind their thigh.
+- **Strip the outside and inside hooks**: Leaning your body away from the outside hook and extending your arm makes it easier to peel it. Push down on the inside hook to prevent them from controlling you.
+- **Drop to your knees**: This makes it harder for them to off balance you.
+- **Forward/back step**: After controlling the ankles, taking a forward/back step allows you to move around their legs.
+## Guards
+- [Half Guard]: Control the inside heel using your inside arm. As you press their heel to butt, they will push back. As they do, push it outside your hip. Push their head back as you sprawl back to free your ankle.
+## Positions
+- [[Mount]]: Strip the ankle and push the knee back as you sit down.
+- [[Side Control]]: Take a forward/back step, then drop your weight down.
 # Retention
 - **Lifting the hips**: Maximizes control.
 - **Controlling the ankle**: If the passer tries to sit to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), there will still be enough space to re-guard.
-- **Hooking the inside foot on the far hip**: This controls their hips better than if the foot was hooked on the near hip, like in single-leg X.
-- **Keeping the passer’s ankle off the mat**: They won’t be able to crowd you and this turns you into a ball.
+- **Hooking the inside foot on the far hip**: This controls their hips better than if the foot was hooked on the near hip, like in <u>Single-leg X</u>.
+- **Keeping the ankle off the mat**: They won’t be able to crowd you and this turns you into a ball.
 # Transitioning
-- Tilt Sweep
-
-Bridge and knee them in the butt to get their to place hands on mat, then wrselt up or x-gaurd
-
-- Sweeping: 
-- Raise your hips up exploively
-To sweep, try to grab the far sleeve/arm, so they aren’t able to base or grab both pants/ankles.
-
-When you sweep you have to raise your hips explosively.
-
-- [Dummy Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FDummy%20Sweep): If you have both legs, you can pull the outside leg out.
-
-Knee tap if they place knee on matt
-# Variations
-- Outside Ashi
-- Butterfly Ashi
-# Links
 ## Guards
-- [[Half Guard]] (When the passer has stripped the hooks)
-- [[X-guard]] (When the passer strips the outside foot)
-## Positions
-- [[Mount]]
-- [[Side Control]]
+- [[X-guard]]: (1) If the passer strips your outside ankle, or (2) plant one foot on the mat, bridge, and knee the passer in the butt to get their to place hands on mat.
 ## Submissions
 - [[Straight Ankle Lock]]
 ## Sweeps
-- [[Dummy Sweep]]
+- [[Dummy Sweep]]: If you have both legs, pull the outside leg out.
+- [[Knee Tap Sweep]]: If the passer places their knee on the mat.
+- [[Tilt Sweep]]: Raise and turn your hips explosively. This helps if you have both legs or the far arm controlled.
+## Transitions
+- [[Wrestle-up]]: Plant one foot on the mat, bridge, and knee the passer in the butt to get their to place hands on mat.
+# Variations
+- Outside Ashi:
+- Butterfly Ashi:
+# References
 # Tags
 #gi #nogi #guard #openguard 

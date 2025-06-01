@@ -1,42 +1,29 @@
 # Overview
+<u>Chest-to-Chest Half Guard</u> is a variation of [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard), where you’re chest-to-chest with the guard player; this makes it easy to pin them without passing. 
+
 ![Chest-to-Chest Half Guard](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb361d885-ba08-4dd7-8ee1-0b81ddcbcab2_473x268.png)
 # Entry
-- As a passer, you can pommel your arms for underhooks.
+- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Pommel your arms for underhooks.
 # Passing
-- Tripod Pass: Flare the elbows, tripod up, use a butterfly hook to free your leg to pass into Side Control or Mount. When passing to Mount, separate the guard player’s knees and elbows, or they can sweep you.
-- **Passing to the side**: Walk yourself 45 deg away from them, then push their legs away as you drive forward.
-# Keys to Passing
-- Chest-to-chest is a very good position, because you can pin the opponent without passing. To pass:
-- Maintain a heavy crossface. Turn their head to one side.
-- Tripod up and use a shoelace.
-- Hook on the outside.
-
+## Grips
+- [[Brabo Grip]]: Use the grip to force the passer’s elbow open so you can underhook.
+## Guards
+- [[Reverse Half Guard]]:
+## Passes
+- [[Tripod Pass]]: (1) Flare the elbows, tripod up, use a hook to free your leg to pass into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control) or [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount). When passing to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), separate the guard player’s knees and elbows, or they can sweep you. (2) Walk yourself 45 deg away from them, then push their legs away as you drive forward.
 # Retention
-- You have to 
-# Transitioning
-
+- Frame across the passer’s neck.
 # Counter
-- Lever Sweep:
-- Butterfly-Half:
-- Butterfly Guard: If the pass has double underhooks and Tripods, then follow their knee until there’s enough space for Butterfly hooks.
+## Guards
+- [[Butterfly Guard]]: If the passer has double underhooks and uses the [Tripod Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FTripod%20Pass), follow their knee until there’s enough space for hooks.
+- [[Butterfly-Half Guard]]: Hook your outside foot on their thigh.
+## Sweeps
+- [[Lever Sweep]]: Trap the arm and push on the hip.
 # Variations
-There are different ways to control the upper body:
+## Upper Body
 - **Head & arm**: One arm is the underhook, while the other one is the crossface.
 - **Double underhooks**: Push the other arm down and swim your arm underneath.
 - **High Body Lock**: Connect your hands behind the guard player’s head while using double underhooks.
-# Links
-## Grips
-- [[Brabo Grip]] (For passing)
-## Guards
-- [[Half Guard]]
-- [[Butterfly Guard]]
-## Passes
-- [[Tripod Pass]]
-## Positions
-- [[Mount]]
-- [[Side Control]]
-## Sweeps
-- [[Lever Sweep]]
 # References
 # Tags
 #gi #nogi #guard #halfguard 

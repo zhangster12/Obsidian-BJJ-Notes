@@ -3,7 +3,7 @@ The <u>Kipping Escape</u> is an escape that displaces the top player from top pi
 
 ![Kipping Escape](https://evolve-mma.com/wp-content/uploads/2023/10/kipping-escape-edited.jpg)
 # Setup
-- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): This escape is good to use when the top player is crossing their feet beneath you.
+- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): When the top player is crossing their feet beneath you.
 # Keys
 - Bridge to create space.
 - Take the top player overhead with your arms rather than straight up.
@@ -16,7 +16,7 @@ The <u>Kipping Escape</u> is an escape that displaces the top player from top pi
 - [[Closed Guard]]
 # Counter
 ## Submissions
-- [[Ezekiel Choke]]: This will anchor yourself to the bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
+- [[Ezekiel Choke]]: This anchors yourself to the bottom player in [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
 # References
 - [What Is The Kipping Escape In BJJ?](https://evolve-mma.com/blog/what-is-the-kipping-escape-in-bjj/)
 # Tags

@@ -1,14 +1,25 @@
 # Overview
-Double Sleeve Guard is a guard in which you control both of their sleeves and both of your feet are on their hips.
-## Additional Details
-# Links
+<u>Double Sleeve Guard</u> is when you control both of the passer’s sleeves and both of your feet are on their hips.
+# Entry
+- [Spider Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSpider%20Guard)
+# Passing
+# Retention
+## Troubleshooting
+# Transitioning
 ## Guards
 - [[Collar Sleeve Guard]]
-- [[De La Riva]]
-- [[Spider Guard]]
+- [[De La Riva]]: If the passer step their feet forward.
+- [[Lasso Guard]]: 
+- [[Spider-Lasso Guard]]:
+- [[Spider Guard]]: Switch your feet to the biceps
 ## Submissions
 - [[Triangle Choke]]
 ## Sweeps
-- [[Tripod Sweep]]
+- [[Balloon Sweep]]: Load the passer onto your feet.
+- [[Dummy Sweep]]: If both feet are reachable.
+- [[Tripod Sweep]]:
+# Counter
+# Variations
+# References
 # Tags
 #gi #guard 

@@ -2,7 +2,6 @@
 # Entry/Setup
 # Passing
 # Retention/Keys
-## Troubleshooting
 # Attacking/Transitioning
 # Escape/Defense/Counter
 # Variations

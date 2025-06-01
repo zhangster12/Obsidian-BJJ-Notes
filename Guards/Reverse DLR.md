@@ -1,5 +1,5 @@
 # Overview
-The <u>Reverse De La Riva Guard</u>, or Spiral Guard, is a guard in which the guard player uses a leg hook to control the passer’s movement from the inside position.
+The <u>Reverse De La Riva Guard</u>, or <u>Spiral Guard</u>, is when you use a leg hook to control the passer’s movement from the inside position.
 
 ![Reverse DLR Gi](https://evolve-mma.com/wp-content/uploads/2022/01/reverse-de-la-riva-bjj.jpg)
 # Entry

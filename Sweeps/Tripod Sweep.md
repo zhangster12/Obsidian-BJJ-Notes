@@ -1,5 +1,5 @@
 # Overview
-The **Tripod Sweep** is basically a sweep where you typically control the opponent’s legs as you use kuzushi (off-balancing) to force them to the mat. There are several variations of the **Tripod Sweep** in BJJ, but the fundamental definition of gripping the opponent’s legs as you off-balance them remains the same.
+The <u>Tripod Sweep</u> is when you typically control the passer’s legs as you use kuzushi (off-balancing) to force them to the mat.
 
 ![Tripod Sweep](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dq0vkRBQee7RnyBShZHw)
 # Setup

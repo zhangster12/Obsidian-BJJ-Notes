@@ -12,4 +12,4 @@ The <u>Back Door Escape</u> is a [Mount](obsidian://open?vault=Obsidian-BJJ-Note
 # References
 - [Mastering The Backdoor Escape In BJJ](https://evolve-mma.com/blog/mastering-the-backdoor-escape-in-bjj/)
 # Tags
-#nogi #escape #backdoorescape
+#gi #nogi #escape #backdoorescape

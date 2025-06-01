@@ -22,8 +22,7 @@ Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the 
 ## Transitions
 - [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) → [[Wrestle-up]]: If the <u>Arm Drag</u> fails.
 # Defense
-- Keep your elbow tight.
-- Stay square to the guard player.
+- [[Closed Guard]]: When the guard player has your sleeve griped, keep your elbow tight and stay square.
 - [[Turtle]]: 
 # Variations
 - **2-on-1 grip**: One hand controls the passer’s wrist and the other at their sleeve.

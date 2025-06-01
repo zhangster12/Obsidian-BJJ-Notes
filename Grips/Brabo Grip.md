@@ -3,17 +3,28 @@ The <u>Brabo Grip</u> is a powerful grip in the gi, where you control the oppone
 
 ![Brabo Grip](https://evolve-mma.com/wp-content/uploads/2022/03/barbo-choke-bjj-.jpg)
 # Setup
+- Pull the lapel out, feed it under the armpit, and wrap in behind the opponent’s head to set up chokes.
+- Transfer the lapel back to other hand.
 ## Guards
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Breaking the passer’s posture while pulling their lapel out (if it’s not already free). Feed it under their armpit and across their back to the opposite hand. Lastly, transfer the lapel back to other hand. [Link](https://www.youtube.com/watch?v=DXE-FfK1j0E&t=45s)
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Breaking the passer’s posture while pulling their lapel out (if it’s not already free). [Link](https://www.youtube.com/watch?v=DXE-FfK1j0E&t=45s)
 ## Positions
-- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly), [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control): Pull the lapel out and wrap in behind the bottom player’s head to set up chokes.
+- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly)
+- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control)
 # Keys
 - To make this grip difficult to escape, pull the lapel **as tightly as possible** to the opponent’s neck (carotid artery) and keep your elbows tight.
-# Attacking
-- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly), [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control) → [[Baseball Bat Choke]]
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) → [[Brabo Choke]]
+# Transitioning
+## Submissions
+- [[Baseball Bat Choke]]
+	- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly) 
+	- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control)
+- [[Brabo Choke]]
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard)
 - [[Cross Choke]]
+## Positions
+- [[Side Control]]
+	- [Chest-to-Chest Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard)
 # Defense
+## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Before the lapel grip is passed back to the other hand, lower their head and push the grip off.
 # References
 - [BJJ 101: Brabo Choke](https://evolve-mma.com/blog/bjj-101-brabo-choke/)

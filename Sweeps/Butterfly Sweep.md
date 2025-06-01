@@ -6,15 +6,21 @@
 
 # Keys
 - Keep the knee that’s hooked on the thigh pointed towards the ceiling and retracted towards your shoulder.
-- Bring the bottom foot to the butt and drive off the toes.
+- Drive off the toes with the foot by your butt.
 - Tuck the trapped arm deeply and grab at the elbow.
 - Bring the passer’s head below their hips.
 - Bring the passer’s shoulder to the head. This twists their upper body, making their spine out of alignment.
 - Come onto your knees if you’re having trouble completing the sweep.
+
+To set up sweep:
+- over back grup on gi.
+- kick out their leg
+
+If they stand up and plant on foot when sweeping, either push knee/foot away, plant foot on knee/foot and use it as leverage when sweeping, or if their leg is too close, go to ashi or x guard
 ## Completing The Sweep
 # Transitioning
 ## Guards
-- [[Ashi Garami]]: If the passer’s leg
+- [[Ashi Garami]]: If the passer’s leg is posted.
 - [[Closed Guard]]: If the passer’s elbows and knees are separated.
 - [[Half Guard]]
 - [[X-guard]]
@@ -30,8 +36,9 @@ Other options: If they’re on knees
 
 Weight back, drive them forward
 # Defense
-Post on the leg of the side you are being swept.
+- Post on the leg of the side you are being swept.
 # Variations
+## Grips
 - 2 on 1: Instead of gripping outside the triceps, grip at the interior crux of the elbow. To reinforce this, grab your own wrist with the outside arm.
 - Double underhooks:
 - Over/under:
@@ -39,11 +46,6 @@ Post on the leg of the side you are being swept.
 - **Shoulder crunch**: While you can sweep towards the side of the trapped arm, you can also sweep to the opposite side, again, by bringing the opposite side shoulder to the mat.
 - Head & arm:
 # Links
-## Guards
-- [[Ashi Garami]]
-- [[Closed Guard]]
-- [[Half Guard]]
-- [[X-guard]]
 ## Passes
 - [[Tripod Pass]]
 ## Positions

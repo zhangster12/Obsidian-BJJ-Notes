@@ -9,6 +9,7 @@ The <u>Ghost Escape</u> is a [Back Door](obsidian://open?vault=Obsidian-BJJ-Note
 - Get your inside arm to the own hip.
 - Bump the top player overhead.
 # Transitioning
+## Positions
 - [[Front Headlock]]
 # Tags
 #gi #nogi  #escape #backdoorescape

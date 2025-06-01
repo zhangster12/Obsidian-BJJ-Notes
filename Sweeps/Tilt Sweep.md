@@ -1,20 +1,12 @@
 # Overview
-# Entry/Setup
+# Setup
 # Passing
 # Retention/Keys
-# Attacking/Transitioning
+# Transitioning
+## Submissions
+- [[Straight Arm Lock]]:
 # Escape/Defense/Counter
 # Variations
-# Links
-## Escapes
-## Grips
-## Guards
-## Passes
-## Positions
-## Submissions
-## Sweeps
-## Takedowns
-## Transitions
 
 # References
 # Tags

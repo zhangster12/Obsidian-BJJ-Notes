@@ -1,21 +1,11 @@
-# Instructions
-
-## Additional Details
-
-# Links
-
-## Escapes
-
+# Overview
+# Setup
+# Passing
+# Keys
+# Transitioning
 ## Guards
 - [[De La Riva]]
-
-## Passes
-
-## Transitions
-
-## Submissions
-
-## Sweeps
-
+# Counter
+# Variations
 # Tags
 #gi #guardpull 

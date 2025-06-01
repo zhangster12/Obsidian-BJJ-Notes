@@ -1,22 +1,10 @@
 # Overview
-# Entry/Setup
-# Passing
-# Retention/Keys
+# Setup
+# Keys
 # Transitioning
-- [[Half Guard]]: You’ll sweep into top position.
-# Escape/Defense/Counter
+- [[Half Guard]]: Sweep into top position.
+# Counter
 # Variations
-# Links
-## Escapes
-## Grips
-## Guards
-## Passes
-## Positions
-## Submissions
-## Sweeps
-## Takedowns
-## Transitions
-
 # References
 # Tags
 #gi #sweep 

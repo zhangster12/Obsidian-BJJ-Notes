@@ -1,16 +1,14 @@
 # Overview
-# Entry
-This can be done from DLR.
+# Setup
+- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva):
+# Keys
+- **Split the legs**: Use your legs to split the passer’s base, forcing them to fall into the sweep direction.
+## Troubleshooting
+# Transitioning
 
-- Plant your non-hooked foot
-- Hook your other foot at the ankle and plant your non-collared hand
-- Technical stand-up
-- **Details**
-	- Leave space between their ankle and your knee
-	- Sweep in the direction of their toes
-## Additional Details
-# Links
 ## Passes
-- [[Knee Cut]]
+- [[Knee Cut]]:
+# Variations
+# References
 # Tags
 #gi #sweep 

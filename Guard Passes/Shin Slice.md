@@ -1,21 +1,13 @@
 # Overview
-The <u>Shin Slice</u> is a pass in which the passer cuts across the shin instead of the across the thigh.
+The <u>Shin Slice</u> is a pass where you across the shin instead of the across the thigh.
 # Setup
-If during a Knee Cut, the guard player establishes a RDLR hook, then Shin Slicing is an suitable option.
-# Passing
-# Retention/Keys
-# Attacking/Transitioning
-# Escape/Defense/Counter
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut): If there’s a RDLR hook.
+# Keys
+- Press down on the knee.
+# Transitioning
+- [[Side Control]]
+# Counter
 # Variations
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
 # References
 # Tags
-Insert tags #hide
+#gi #nogi 

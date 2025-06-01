@@ -2,7 +2,8 @@
 
 # Entry/Setup
 # Passing
-# Retention/Keys
+# Retention
+- Frame on the near side arm.
 # Transitioning
 - Ankle Pick: If the passer is kneeling on the far leg, you can reach for the ankle of that leg, then perform a technical stand up.
 # Escape/Defense/Counter
