@@ -1,19 +1,19 @@
 # Overview
-# Entry/Setup
+# Setup
+- 
 # Passing
-# Retention/Keys
-# Attacking/Transitioning
-# Escape/Defense/Counter
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
+- 
+# Defense
+- 
 # Variations
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+- 
 # References
+- 
 # Tags
 #gi #nogi #submission 

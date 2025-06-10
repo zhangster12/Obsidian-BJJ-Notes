@@ -6,44 +6,60 @@
       {
         "id": "cd57511de64fc108",
         "type": "tabs",
-        "dimension": 64.09395973154362,
+        "dimension": 52.348993288590606,
         "children": [
           {
-            "id": "2d2455c29d0ef7b0",
+            "id": "6ba7d6fc3ae0e2a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guards/De La Riva.md",
+                "file": "Grips/Baseball Bat Grip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "De La Riva"
+              "title": "Baseball Bat Grip"
             }
           },
           {
-            "id": "c5a5fcadccb26556",
+            "id": "ad45a1705d94faba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guards/Collar Sleeve Guard.md",
+                "file": "Guards/Sit Up Guard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Collar Sleeve Guard"
+              "title": "Sit Up Guard"
+            }
+          },
+          {
+            "id": "80789e3dcea2d8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guard Passes/Leg Drag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Leg Drag"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e2354413bb2678a1",
         "type": "tabs",
-        "dimension": 35.90604026845637,
+        "dimension": 47.651006711409394,
         "children": [
           {
             "id": "eb323d43432fb072",
@@ -59,8 +75,46 @@
               "icon": "lucide-file",
               "title": "Template"
             }
+          },
+          {
+            "id": "d5b1fcbbf131584f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Guard Passes/Leg Drag.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Leg Drag"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +148,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -242,37 +296,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "2d2455c29d0ef7b0",
+  "active": "80789e3dcea2d8c3",
   "lastOpenFiles": [
-    "Seminars/Nick and Danny's Seminar (4-30 - 5-3-2024).md",
-    "Guards/De La Riva.md",
-    "Guards/Collar Sleeve Guard.md",
-    "Guards/Deep DLR-X Guard.md",
-    "Template/Template.md",
-    "Sweeps/Shaolin Sweep.md",
-    "Sweeps/Split Sweep.md",
-    "Sweeps/Tilt Sweep.md",
-    "Sweeps/Tripod Sweep.md",
-    "Sweeps/G-roll Sweep.md",
-    "Transitions/Collar Drag.md",
+    "Guards/Sit Up Guard.md",
+    "Grips/Baseball Bat Grip.md",
+    "Grips/Brabo Grip.md",
+    "Positions/Knee On Belly.md",
+    "Sweeps/Lasso Hook Sweep.md",
+    "Positions/Side Control.md",
+    "Guard Passes/Lucas Lepri Knee Cut.md",
     "Guards/Closed Guard.md",
-    "Guards/Clamp Guard.md",
-    "Grips/Cross Collar Grip.md",
-    "Escapes/Knee Elbow Escape.md",
-    "Escapes/Kipping Escape.md",
-    "Escapes/Ghost Escape.md",
-    "Escapes/Bridge & Roll Escape.md",
-    "Escapes/Back Door Escape.md",
-    "Guards/Ashi Garami.md",
-    "Guards/50-50.md",
-    "Guards/Chest-to-Chest Half Guard.md",
+    "Sweeps/Lever Sweep.md",
+    "Sweeps/Balloon Sweep.md",
+    "Sweeps/Dummy Sweep.md",
+    "Sweeps/Hip Bump Sweep.md",
+    "Positions/Reverse Triangle.md",
     "Positions/North-South.md",
-    "Sweeps/Pendulum Sweep.md",
+    "Positions/S-mount.md",
+    "Positions/Spider Web.md",
+    "Positions/Trap Triangle.md",
+    "Positions/Turtle.md",
     "Positions/Combat Base.md",
-    "Submissions/Americana.md",
+    "Guard Passes/Leg Weave.md",
+    "Guard Passes/Body Lock Pass.md",
+    "Positions/J-point.md",
+    "Positions/Front Headlock.md",
+    "Positions/Arm Saddle.md",
+    "Guards/Lasso-DLR Guard.md",
+    "Guards/Outside Ashi Garami.md",
     "Pasted image 20250113140713.png",
     "Punch Choke",
     "Untitled 1.canvas",

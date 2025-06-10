@@ -14,6 +14,8 @@ The <u>Knee Cut</u>, or <u>Knee Slice</u>, is a pass where you uses your near kn
 - Punch out the knee if there’s a knee shield. [Link](https://www.youtube.com/shorts/Hy0XYZMV0vo)
 - Point your knee at the stomach so when they redirect it, it goes to the floor.
 - Walk their hips back.
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
 - [[Reverse Half Guard]]: Free your knee line, underhook the top arm, then back step. [Link](https://www.youtube.com/watch?v=pnnJGKrDKWU) 
@@ -22,7 +24,7 @@ The <u>Knee Cut</u>, or <u>Knee Slice</u>, is a pass where you uses your near kn
 - [[Long Step]]:
 - [[Shin Slice]]: If the guard player has a [RDLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FReverse%20DLR) hook, pop the hook.
 ## Positions
-- [[Side Control]]
+- [[Side Control]]:
 ## Submissions
 - [[Loop Choke]]: If the guard player attempts to underhook. [Link](https://www.youtube.com/watch?v=7ZNd3w5m1xs)
 # Defense
@@ -35,5 +37,7 @@ The <u>Knee Cut</u>, or <u>Knee Slice</u>, is a pass where you uses your near kn
 - [[Wrestle-up]]: Underhook and sit up.
 # Variations
 - [Lucas Lepri Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLucas%20Lepri%20Knee%20Cut)
+# References
+- 
 # Tags
 #gi #nogi #guardpass #hqsystem 

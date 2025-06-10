@@ -1,21 +1,18 @@
 # Overview
-# Entry/Setup
-# Passing
+# Setup
+- 
 # Keys
-- Sweep the foot towards oneself.
+- Sweep the foot towards yourself.
 - Be perpendicular to the opponent.
-# Attacking/Transitioning
-# Escape/Defense/Counter
+## Troubleshooting
+- 
+# Transitioning
+- 
+# Counter
+- 
 # Variations
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+- 
 # References
+- 
 # Tags
-Insert tags #hide
+#gi #nogi #takedown 

@@ -1,34 +1,31 @@
 # Overview
-The <u>Muscle Sweep</u> is a sweep that can be used when the passer stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
+The <u>Muscle Sweep</u> is a sweep that can be used when the passer stands up in your [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard).
 
 ![Muscle Sweep](https://www.bjjee.com/wp-content/uploads/2019/08/Kurt-Osiander.jpg)
 # Setup
-The <u>Muscle Sweep</u> can be setup when the top player stands up in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with both feet at arms length.
-# Keys
-When the top player stands, the bottom player underhooks the foot at the elbow while their other hand is using a cross sleeve grip.
-
-Even when the top player stands, the bottom player should keep their hips up.
-
-The bottom player can also gable grip their hands at the ankle.
-
-When the sweep is complete, you should keep control of the leg so the bottom player can’t stand up.
-
-The point of no return is when the top player manages to collapse the bottom player’s hips. At that point, the bottom player should switch to another guard.
-# Defense
-The top player should push down on the knee or move 1 foot back.
-
-Sometimes before the bottom player can come up into Mount, the top player can sit up quickly.
-# Variations
-## Reverse Muscle Sweep
-If the top player steps over the arm, the bottom player can switch to sweeping at the other leg. [Link](https://www.youtube.com/watch?v=V0OX0VZN9Qw)
-# Links
 ## Guards
-- [[Closed Guard]] (If the top player defends)
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): If the passer stands up.
+# Keys
+- **Grips**: (1) Underhook then passer’s foot elbow deep and control their arm with a Cross Sleeve Grip. (2) Gable grip your hands at their ankle.
+- **Hip position**: Keep them up.
+## Troubleshooting
+- **Passer stands up**: Control their leg so they can’t stand up.
+- **Passer pushes your hips down**: Switch to another guard.
+# Transitioning
+## Guards
+- [[Closed Guard]]: If the passer defends.
 ## Positions
-- [[Mount]]
+- [[Mount]]:
 ## Submissions
-- [[Mounted Triangle]]
-- [[Triangle Choke]]
+- [[Mounted Triangle]]:
+- [[Triangle Choke]]:
+# Defense
+- Push down on the knee or hips.
+- Step one foot back.
+- If you fall down, sit back up quickly.
+# Variations
+- **Reverse Muscle Sweep**: If the passer steps over the arm, switch to sweeping at the other leg.
 # References
+- 
 # Tags
 #gi #sweep 

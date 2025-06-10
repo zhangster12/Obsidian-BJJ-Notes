@@ -1,10 +1,20 @@
-# Instructions
-- Cut the 
-## Additional Details
-# Links
+# Overview
+# Setup
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
 ## Positions
-- [[Back]]
+- [[Back]]:
 ## Takedowns
-- [[Knee Tap]]
+- [[Knee Tap]]:
+# Counter
+- 
+# Variations
+- 
+# References
+- 
 # Tags
 #nogi #takedown 

@@ -3,26 +3,27 @@ The <u>Reverse Half Guard</u> is the variation of [Half Guard](obsidian://open?v
 
 ![Reverse Half Guard](https://evolve-mma.com/wp-content/uploads/2023/08/reverse-half-guard-edited.jpg)
 # Entry
-The top player can switch their hips to enter <u>Reverse Half Guard</u> from [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard). [Link](https://www.youtube.com/shorts/h15KxpW-fBA)
-
-If the bottom player attempts an underhook (if the top player is past the knee), the top player must sit their heels to butt while keeping their elbow tight and framing at the bottom player’s neck. The bottom player’s will not be able to have a strong underhook and their hand will be at the top player’s armpit. From there, the top player will drop to their hip (like a [Long Step](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FLong%20Step)).
+## Guards
+- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): (1) Hip switch or (2) if the guard player attempts to underhook, sit back on your heels, frame at their neck, then hip switch. They won’t have a strong underhook and their hand will be in your armpit.
+## Passes
+- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut): Get your knee to the mat and back step.
 # Passing
-In <u>Reverse Half Guard</u>, if the top player can isolate the near side arm for a [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura), that can assist in passing.
-
-Additionally, the top player can free their leg by wedging their bottom leg into the bottom player’s hip. [Link](https://www.youtube.com/shorts/h15KxpW-fBA) 
-# Retention
-- Stay on your toes.
-- Drive all pressure into the guard player’s chest and shoulders. As long as the pressure is their chest and shoulders, then it will be very hard for them to sweep.
-# Attacking
-In <u>Reverse Half Guard</u>, the top player can isolate an arm and attack a [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura).
-# Defense
-Although crossing the legs would slow down the passer, you need to get your legs back in front.
-# Variations
-# Links
+- **Staying on your toes**: This drive all pressure into the guard player’s chest and shoulders, which makes it very hard for them to sweep.
+- **Use your knee**: Wedge your bottom leg into their hip. [Link](https://www.youtube.com/shorts/h15KxpW-fBA)
 ## Positions
-- [[Side Control]]
+- [[Side Control]]:
+- [[Mount]]:
 ## Submissions
-- [[Kimura]]
+- [[Kimura]]: If you don’t get the submission, use it to force the pass.
+# Retention
+- **Frames**: Crossing your feet is a temporary measure, but keep good frames and get your legs back in front.
+## Troubleshooting
+- 
+# Transitioning
+- 
+# Variations
+- **Trapped leg on top**:
+- **Trapped leg on bottom**:
 # References
 - [BJJ 101: Reverse Half Guard](https://evolve-mma.com/blog/bjj-101-reverse-half-guard/)
 # Tags

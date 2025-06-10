@@ -5,19 +5,21 @@ The <u>Smash Pass</u> is a pass where you force the guard player’s legs to sta
 # Entry
 ## Guards
 - [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard): Shift one knee past your centerline.
-# Positions
+## Positions
 - [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHeadquarters):
 # Keys
 - When shifting, post with the inside hand.
 - Press all your weight onto their legs and position your chest over their knees.
 - Staple their feet with your legs.
-- Wedge your outside hand between the mat and their back
+- Wedge your outside hand between the mat and their back.
+## Troubleshooting
+- 
 # Transitioning
 ## Passes
 - [[Leg Drag]]: If the guard player closes their knee-elbow space.
 ## Positions
 - [[Mount]]: If the guard player opens their knee-elbow space.
-- [[Side Control]]
+- [[Side Control]]:
 # Defense
 - Outside pant grip.
 # Variations
@@ -28,5 +30,7 @@ The <u>Smash Pass</u> is a pass where you force the guard player’s legs to sta
 ## Inside Leg
 - **Leg wedged between passer’s legs**.
 - **Leg stapling their legs**.
+# References
+- 
 # Tags
 #gi #nogi #guardpass #hqsystem #pressurepass 

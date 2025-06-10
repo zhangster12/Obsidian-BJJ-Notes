@@ -13,9 +13,11 @@ The <u> Lucas Lepri Knee Cut</u> is the variation of the [Knee Cut](obsidian://o
 - **Knee shield**: (1) Pull on their elbow and push on their chest, or (2) Reposition your knee in the middle of their legs and then wedge your elbow between yourself and their knee. [Link](https://youtu.be/3IqCi1GXmOg?si=oqSGg4PyTXnBmQzT&t=304)
 - Point your knee towards the floor and along the rib. Pivot the outside leg around your knee, which goes around the knee shield and applies more pressure. Stay upright when you beat the knee shield. [Link](https://youtu.be/3IqCi1GXmOg?si=MCDGWSUvhwUWIHMJ&t=262)
 - Walk their hips back.
+## Troubleshooting
+- 
 # Transitioning
 ## Positions
-- [[Side Control]]
+- [[Side Control]]:
 # Defense
 - Knee shield.
 - Outside pant grip (gi) or foot grip (no-gi).
@@ -24,5 +26,7 @@ The <u> Lucas Lepri Knee Cut</u> is the variation of the [Knee Cut](obsidian://o
 - [[Reverse DLR]]: Reinforce your knee with a hook and arm underneath it.
 ## Transitions
 - [[Wrestle-up]]: Underhook and sit up.
+# References
+- 
 # Tags
 #gi #guardpass #hqsystem 

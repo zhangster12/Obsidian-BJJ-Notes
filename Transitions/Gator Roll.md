@@ -1,23 +1,14 @@
-# Instructions
-
-## Additional Details
-
-# Links
-
-## Escapes
-
-## Guards
-
-## Passes
-
-## Positions
-
-## Transitions
-
+# Overview
+# Setup
+- 
+# Keys
+- 
+## Troubleshooting
+# Transitioning
 ## Submissions
-- [[Anaconda Choke]]
-
-## Sweeps
-
+- [[Anaconda Choke]]:
+# Counter
+- 
+# References
 # Tags
-#gi #transition 
+#gi #nogi #transition 

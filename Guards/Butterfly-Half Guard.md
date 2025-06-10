@@ -13,6 +13,8 @@
 - [[Tripod Pass]]: Pin in the non-hooked leg; if the guard player tries to elevate you, then it won’t be as effective, and they’re pushing you to pass in the pinned side.
 # Retention
 - Protect your collar or head by monitoring the far arm.
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
 - [[Ashi Garami]]: Grab the outside knee and collar, and pull them on top. Shoot the inside knee through, grab the pants/foot, and bring the elbow inside to elevate the foot (like a waiter).
@@ -20,9 +22,10 @@
 ## Sweeps
 - [[Butterfly Sweep]]: (1) Pull the inside foot out and bring it outside the knee. Drive your head into their chin, pull them onto you, and turn their body as you sweep. (2) With a Collar and Sleeve Grip, pull them onto you, post onto the elbow (Sleeve Grip). Upgrade to an Overback Grip (formerly Collar Grip) and Overhook (formerly Sleeve Grip). Pull the bottom leg out and sweep.
 ## Transitions
-- [[Arm Drag]]
+- [[Arm Drag]]:
 # Defense
 - If the passer tripods, grab their foot.
 # References
+- 
 # Tags
 #gi #guard #halfguard #butterflyguard

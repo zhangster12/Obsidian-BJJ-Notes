@@ -3,40 +3,32 @@ The <u>Lever Sweep</u> is a sweep from [Half Guard](obsidian://open?vault=Obsidi
 
 ![Lever Sweep](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98ad1d0e-4410-409d-b963-6cb9b1dfa58a_968x546.gif)
 # Setup
-- Half Guard: If the passer is Chest-to-Chest or threatening to control the head. You may not succeed, but it can off balance them for you to reestablish frames.
+## Guards
+- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): If the passer is [Chest-to-Chest](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard) or threatening head control.
 # Keys
 - Plant your feet on the outside of the passer’s knee and back-heel.
 - Pinch your knees.
 - Block their underhooked arm elbow to elbow.
 - Bridge and rotate yourself while pushing the opposite hip or pants.
+## Troubleshooting
+- 
 # Transitioning
-
+- **Passer posts arm/leg**: Transition to [Butterfly-Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard), [Butterfly Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FButterfly%20Sweep), [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
 ## Guards
-- [[Butterfly-Half Guard]]: If the passer posts their arm/leg.
+- [[Butterfly-Half Guard]]:
 - [[Chest-to-Chest Half Guard]]: Sweep into the top position.
-- [[Half Guard]]: Sweep into the top position.
+- [[Closed Guard]]: Extract your inside leg and wrap it around.
+- [[Half Guard]]: (1) Sweep into the top position or (2) reestablish frames.
 ## Positions
-- [[Mount]]: Grab the outside pants/leg and step over as you sweep. [Link](https://youtu.be/81OLg2IPSl4?si=HE83Wi27V9AYrOf9&t=15)
+- [[Mount]]: ([1](https://youtu.be/81OLg2IPSl4?si=HE83Wi27V9AYrOf9&t=15)) Grab the outside leg and step over as you sweep.
 ## Sweeps
 - [[Butterfly Sweep]]: Sweep to the other side after inserting the hook.
-
-If the passer posts their arm/leg:
-- [Butterfly Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FButterfly%20Sweep): Sweep to the other side after inserting the hook.
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): There’s enough space on the opposite side of sweeping to extract the inside leg and wrap around the passer.
-- [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Reestablish frames to recover.
 # Defense
-- Don’t load yourself onto the guard player, because it makes it easier for them to sweep you.
-- If they do sweep you, try and free your arm and post, but they’ll reestablish frames.
+- **Weight back**: Don’t load yourself onto the guard player.
+- **Arm post**: Free your arm and post.
 # Variations
 - [Chest-to-Chest](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard): Shoot your knees all the way through the passer’s legs.
-- [Regular](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Pinch your legs in front of their hip, because they’re upright.
-# Links
-## Guards
-- [[Chest-to-Chest Half Guard]] (If you complete the sweep)
-- [[Butterfly-Half Guard]]
-- [[Closed Guard]]
-## Positions
-- [[Half Guard]]
+- [Regular](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Pinch your legs in front of their hip since they’re upright.
 # References
 - [Week 11: The most important Half Guard Principle: Knee Lever for Kuzushi](https://bjjcoach.substack.com/p/week-11-the-most-important-half-guard)
 # Tags

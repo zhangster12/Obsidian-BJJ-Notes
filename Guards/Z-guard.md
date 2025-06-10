@@ -3,13 +3,14 @@ The <u>Z-guard</u> is a variation of [Half Guard](obsidian://open?vault=Obsidian
 
 ![Z-guard](https://i.ytimg.com/vi/NsRHHZk5Nx4/maxresdefault.jpg)
 # Entry
+## Guards
 - [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Lower your knee shield in front of the passer’s hip and lock your feet.
 # Passing
 - [[Leg Weave]]: Collapse the knee shield.
 ## Guards
 - [[Reverse Half Guard]]: Shift your hips so that you’re facing the guard player’s legs, then free your leg.
 # Retention
-- Keep the top knee in front of the passer’s hip.
+- **Frames**: Keep the top knee in front of the passer’s hip.
 # Transitioning
 ## Sweeps
 - [[G-roll Sweep]]: If the passer settles their weight back.

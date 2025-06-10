@@ -3,13 +3,20 @@ The <u>Ghost Escape</u> is a [Back Door](obsidian://open?vault=Obsidian-BJJ-Note
 
 ![Ghost Escape](https://www.bjjee.com/wp-content/uploads/2022/12/Ghost-Escape-from-Side-Control.jpg)
 # Setup
+## Positions
 - [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control): Get your arm underneath them.
 # Keys
 - Get your shoulders to the mat.
 - Get your inside arm to the own hip.
 - Bump the top player overhead.
+## Troubleshooting
+- 
 # Transitioning
 ## Positions
-- [[Front Headlock]]
+- [[Front Headlock]]:
+# Counter
+- 
+# References
+- 
 # Tags
 #gi #nogi  #escape #backdoorescape

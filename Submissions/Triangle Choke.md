@@ -1,41 +1,38 @@
 # Overview
-The <u>Triangle Choke</u> is a choke that encircles the passer's neck and 1 arm with the legs in a configuration similar to a triangle.
+The <u>Triangle Choke</u> is a choke that encircles the passer's neck and arm with the legs in a configuration similar to a triangle.
 
 ![Triangle Choke](https://gumacliftonnj.com/wp-content/uploads/2023/06/Mastering-the-Triangle-Choke-Essential-Tips-and-Variations.png)
 # Entry
-The **Triangle Choke** can be setup anytime there is an isolation of the head and arm.
-- From [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard), controlling the wrists and pushing 1 away to isolate the head and arm.
-- In Lasso Guard, control the triceps where the hook is and shoot the legs up into a **Triangle**/[Trap Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTrap%20Triangle). [Link](https://www.youtube.com/shorts/7XBWcjFlqh0)
-
-This can come after off balancing the opponent:
-- From [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), use the hips to push up to the **Triangle**.
-- From [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard), when the opponent tries to prevent you from [Wrestling-up](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FWrestle-up) by grabbing your collar, either scoop grip or pant grip, push off their hips to the **Triangle**. [Link](https://www.youtube.com/watch?v=CWt5-b4yack)
-- In the [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep), if they defend or you are unable to sweep, you can enter the **Triangle**.
+- **Head and arm isolation**.
+- **Off balance the passer**: From 
+## Guards
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Control the wrists and push one away to isolate.
+- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva):
+- Lasso Guard: Control the triceps where you hook is and shoot the legs up. [Link](https://www.youtube.com/shorts/7XBWcjFlqh0)
+- [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard): If they grab your collar, grab their pants and push off their hips.
 ## Sweeps
-### [[Hip Bump Sweep]]
-- If they post on their hand:
-	- Drive your hip into them
-	- Post on your left hand
-	- Throw your right leg over their head and shoulder so that all your weight is on them
-	- Bring your left leg over the right leg for a reverse triangle
-	- On the way down, switch to a triangle
-	- Controlling the head the whole time makes it easier to have a good bite
+- [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep): If they defend, or you can’t sweep.
 # Keys
-You can under hook the arm or leg to help cut a better angle. You can also use the kipping motion to block their shoulder. If you're having trouble bringing the arm across, bridge, then pull it across. Finally, when you’re finishing the choke, point the legs in the same direction and press your far quad into the neck.
-
-Sometimes the opponent will attempt to stack you. In this case, you can frame against your own leg while shoulder walking back before you cut an angle. [Link](https://www.youtube.com/watch?v=krq1YLXOZWs)
-
-When you’re kipping to cut an angle, make sure that the leg that’s on the head is tight. Do this by grabbing the head or shin.
-# Escape
-To defend and escape a **Triangle Choke**, frame on the hips, posture up as high as possible, and pop your shoulder out.
-
-If you can bring your other arm inside, they won’t be able to **Triangle** you.
-# Variations
-## Back Triangle
-## Mounted Triangle
-# Links
+- **Head control**.
+- **Arm position**: Pull their arm across your body.
+- **Circular control**: Always keep a closed loop around their head by grabbing your own shin.
+- **Cut the angle**: Underhook the leg or arm. 
+- **Block the shoulder**: Kip at their shoulder to pack it back. 
+- **Leg direction**: Point your legs in the same direction and press your far quad into their neck.
+## Troubleshooting
+- **Passer stacks you**: Frame against your own leg while shoulder walking back before you cut an angle. [Link](https://www.youtube.com/watch?v=krq1YLXOZWs)
+# Transitioning
 ## Submissions
-- [[Armbar]]
-- [[Omoplata]] (If the top player places their arm behind you)
+- [[Armbar]]:
+- [[Omoplata]]: If they place their arm behind you.
+# Escape
+- Frame on the hips and posture as high as possible to pop your shoulder out.
+## Guards
+- [[Closed Guard]]: Bring your other arm inside.
+# Variations
+- Back Triangle:
+- [[Mounted Triangle]]:
+# References
+- 
 # Tags
 #gi #nogi #submission #ibjjfwhitebelt

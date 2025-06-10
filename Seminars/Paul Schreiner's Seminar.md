@@ -8,18 +8,18 @@ In the gi, we can use a pant grip to better control it, but for both we have to 
 # Gi
 In the gi, we covered [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount) retention methods, the [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke), and his version of an [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke).
 
-For the [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount):
+[Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount):
 - You want to get to high [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
 - Plant the feet on the hips.
 - Grab the back of their triceps.
 - Lean back and slouch.
 
-For the [Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke):
+[Ezekiel Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke):
 - Use the [Ezekiel](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FEzekiel%20Choke) to separate their arms from their side.
 - If they’re tight, start low and slowly wedge your hips in between their arms.
 - Use the arm on the shoulder.
 
-For the [Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke):
+[Cross Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FCross%20Choke):
 - Grab a deep collar grip.
 # Concepts
 Some of the key concepts we covered were:

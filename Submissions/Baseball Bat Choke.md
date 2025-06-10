@@ -3,25 +3,20 @@ The <u>Baseball Choke</u> is a choke, similar to the [Cross Choke](obsidian://op
 
 ![Baseball Bat Choke](https://evolve-mma.com/wp-content/uploads/2022/09/baseball-choke.jpg)
 # Setup
-
-KOB
-Side control
-Brabo KOB
-Knee cut gard pass
+## Grips
+- Baseball Bat Grip:
+- Brabo Grip:
 # Keys
-- Ensure the forearms are under the chin.
-# Attacking/Transitioning
-# Escape/Defense/Counter
+- Place your forearms are under the chin.
+## Troubleshooting
+- 
+# Transitioning
+- 
+# Escape
+- 
 # Variations
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
-## Submissions
-## Sweeps
+- 
 # References
+- 
 # Tags
 #gi #submission 

@@ -2,11 +2,17 @@
 # Setup
 - Collar & Sleeve Grip:
 # Passing
+- 
 # Keys
+- 
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
-- [[Collar Sleeve Guard]]
-# Counter
+- [[Collar Sleeve Guard]]:
 # Variations
+- 
+# References
+- 
 # Tags
 #gi #guardpull 

@@ -3,6 +3,7 @@ The <u>Knee Elbow Escape</u> is an escape from [Mount](obsidian://open?vault=Obs
 
 ![Knee Elbow Escape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif79Ej8p9EiJ_m1QYzAclTY0HFiTBImQJ5IwR6nUeyLy3wjqxCTNzgQkHPHZ2c9Flax8C6kwpcPPVzHSOQTF3P47S1xTW2o2sKTuTb-Epbmi4mzULpSI9nfl13BrcahzWkxSGIAA/s1600/Foot+drag+mount+escape+%2528Roy+Dean%2529.JPG)
 # Setup
+## Positions
 - [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): If the top player has advanced to [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount), then this escape is ineffective.
 # Keys
 - Bump the top player forward.
@@ -10,14 +11,17 @@ The <u>Knee Elbow Escape</u> is an escape from [Mount](obsidian://open?vault=Obs
 - Be on your side.
 - Push their knee out and collect their leg.
 - Frame their opposite biceps.
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
 - [[Ashi Garami]]: If the top player places their weight onto one leg, the opposite leg is light; shrimp into [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami). [Link](https://www.youtube.com/watch?v=RBSxb-WJ1QE)
-- [[Butterfly Guard]]
-- [[Closed Guard]]
-- [[Half Guard]]
+- [[Butterfly Guard]]:
+- [[Closed Guard]]:
+- [[Half Guard]]:
 # Counter
 ## Positions
 - [[Technical Mount]]: When the bottom player has shifted to their side, you can move with them. [Link](https://youtu.be/3sSLmjwOLmE?si=Laou-2LGzl-49mTP&t=84)
+# References
 # Tags
 #gi #nogi #escape

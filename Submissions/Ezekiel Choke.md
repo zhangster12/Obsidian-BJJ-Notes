@@ -4,17 +4,23 @@ The <u>Ezekiel Choke</u> is a choke that involves applying pressure to an oppone
 ![Ezekiel Choke Gi](https://evolve-mma.com/wp-content/uploads/2021/10/bjj-ezekiel-choke.jpg)
 
 ![Ezekiel Choke No-gi](https://www.elitesports.com/cdn/shop/articles/ultimate-guide-to-set-up-the-ezekiel-choke.jpg?v=1719592963&width=1200)
-## [[Mount]]
-- With 1 arm behind their head, grab the sleeve of your other arm (turn their head, so they’re looking in your direction)
-- Bring the other arm over their neck and under their chin
-- Form the other hand into a blade and place it over the carotid artery
-- Extend your arms
-
-## [[Closed Guard]]
-
-## Additional Details
-
-# Links
+# Entry
+## Escapes
+- 
+## Guards
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
+## Positions
+- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): With a crossface, grab the opposite side sleeve, turn the bottom player’s head, bring your other arm over their neck and under their chin, and extend your arms.
+# Keys
+- **Carotid artery**: Make sure the blade of wrist is at the carotid artery.
+## Troubleshooting
+- 
+# Transitioning
+- 
+# Defense
+- 
+# Variations
+- 
 # References
 - [BJJ 101: Ezekiel Choke](https://evolve-mma.com/blog/bjj-101-ezekiel-choke/)
 # Tags

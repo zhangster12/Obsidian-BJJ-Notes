@@ -8,15 +8,18 @@
 ## Positions
 - [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control): If the top player is adamant about keeping an underhook, control that arm, then recover.
 # Passing
+- 
 # Retention
 - Be on one hip, not square to the passer.
 - Point your top leg down for downward pressure.
 - Flex your top foot at the far clavicle.
 - Keep the bottom leg tight.
 - Frame on the far bicep with the bottom arm underneath the bottom leg to prevent them from pushing the leg cut to [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
+## Troubleshooting
+- 
 # Transitioning
 ## Positions
-- [[Reverse Triangle]]
+- [[Reverse Triangle]]:
 - [[Trap Triangle]]: If the passer postures up.
 - [[Turtle]]: If they free their arm.
 ## Submissions
@@ -32,5 +35,7 @@
 - **Knee in front of the face**: Place your bottom leg in front of the passer’s near side neck with your foot hooking at the armpit.
 - **Overhook**:
 - **Cross collar grip**: With your overhook, grab the opposite collar.
+# References
+- 
 # Tags
 #gi #guard #closedguardsystem

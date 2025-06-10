@@ -1,0 +1,23 @@
+{
+  "randomInstances": [
+    {
+      "name": "Random Note",
+      "includePaths": "/, ",
+      "excludePaths": "Template, Seminars, Competitions, ",
+      "openOnStartup": false,
+      "useTags": false,
+      "tags": "",
+      "allTagsRequired": true,
+      "isTabOpen": true,
+      "commandID": "open-random-note-from-Random Note"
+    }
+  ],
+  "nextRandomNotesDay": "10/5/2025",
+  "timeToResetDailyRandomNotes": [
+    8,
+    0
+  ],
+  "previousCommandIDs": [
+    "open-random-note-from-Random Note"
+  ]
+}

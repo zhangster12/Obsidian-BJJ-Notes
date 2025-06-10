@@ -1,24 +1,19 @@
-# Instructions
-
-## Additional Details
-- To defend against, keep their hips far away
-# Links
-
-## Escapes
-
-## Guards
-
-## Passes
-
-## Positions
-
-## Takedowns
-
-## Transitions
-
-## Submissions
-
-## Sweeps
+# Overview
+# Setup
+- 
+# Passing
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
+# Defense
+- Keep the opponent’s hips far away.
+# Variations
+- 
+# References
+- 
 
 # Tags
-#nogi #submission 
+#gi #nogi #submission 

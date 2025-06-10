@@ -3,19 +3,23 @@ The <u>Dummy Sweep</u>, or <u>Idiot Sweep</u>, involves catching both the passer
 
 ![Dummy Sweep](https://thebjjnotebook.wordpress.com/wp-content/uploads/2019/01/giphy.gif)
 # Setup
-- Ashi Garami
-- Seated Guard
-- Supine Guard 
+## Guards
+- [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami):
+- [Seated Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSeated%20Guard):
+- [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard):
 # Keys
-- Grab both feet or pants.
+- **Feet control**: Grab both feet or pants.
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
-- [[Supine Guard]]
+- [[Supine Guard]]:
 # Defense
 - Don’t step towards the guard player with both feet.
 - Lean forward if they’ve captured both of your feet. 
 # Variations
-
+- 
 # References
+- 
 # Tags
-Insert tags #hide
+#gi #nogi #sweep 

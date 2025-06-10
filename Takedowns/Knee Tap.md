@@ -1,24 +1,18 @@
-# Instructions
-
-## Additional Details
-
-# Links
-
-## Escapes
-
+# Overview
+# Setup
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
 ## Guards
-- [[Supine Guard]]
-## Passes
-
-## Positions
-
-## Takedowns
-
-## Transitions
-
-## Submissions
-
-## Sweeps
-
+- [[Supine Guard]]:
+# Counter
+- 
+# Variations
+- 
+# References
+- 
 # Tags
-#nogi #takedown 
+#gi #nogi #takedown 

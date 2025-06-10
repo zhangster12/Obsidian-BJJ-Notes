@@ -1,9 +1,19 @@
-# Instructions
-
-## Additional Details
-
-# Links
+# Overview
+# Setup
+- 
+# Passing
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
 ## Positions
-- [[Mount]]
+- [[Mount]]:
+# Defense
+- 
+# Variations
+- 
+# References
 # Tags
 #gi #submission 

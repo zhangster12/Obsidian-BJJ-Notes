@@ -7,12 +7,16 @@ The <u>Balloon Sweep</u> is a sweep where you send the passer over your head.
 - Double Sleeve Guard:
 # Keys
 - 
+## Troubleshooting
+- 
 # Transitioning
 ## Positions
-- [[Mount]]: Roll into top [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount). If you’re being swept, tuck your chin. 
+- [[Mount]]: Roll into top position.
 # Defense
 - Tuck your chin.
 # Variations
+- 
 # References
+- 
 # Tags
 #gi #sweep 

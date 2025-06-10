@@ -1,81 +1,48 @@
 # Overview
-The <u>Back</u> is 1 of the most dominant positions, because while the opponent has very few attacks, the player on the <u>Back</u> can attack them while controlling them.
+The <u>Back</u> is the most dominant position, because while your opponent has very few attacks, you can attack them while controlling them.
 
 ![Back](https://evolve-mma.com/wp-content/uploads/2022/03/back-mount.jpg)
 # Entry
 ## Guards
 - [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva): When the passer is off balanced, take your hooked leg and turn it down to force them to their knees and turn them away. Control the hips and gradually climb the <u>Back</u>.
-- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): From an Arm Drag.
-
 ## Positions
-- In [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount), the top player can chair sit to the <u>Back</u>.
-- In Turtle Guard, the top player can slide the knee into the knee-elbow space OR breaking the bottom player down to the side to take the back.
-
-In the gi, using far side collar and lapel armpit grip is similar to a power half Nelson.
+- [Technical Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTechnical%20Mount): Chair sit.
+- [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle): (1) Slide your knee into the knee-elbow space or (2) break the bottom player down to the side.
+## Transitions
+- [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag):
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
 # Retention
-Maintaining the <u>Back</u> requires cross body control.
-## Upper Body
-- Seatbelt: 
-### Seatbelt
-When initially taking the back, this is good, but you can switch to better options. Ideally, you should be glued to your opponent’s back. Having a good seatbelt is important, because if they escape the legs, you can crunch them, slide the knee up their hip, and retake the back
-
-Keys to having a good seatbelt:
-- Pinching the elbows.
-- Placing the forearm on their beck.
-- Placing the head next to their head.
-### Gift Wrap
-This can be used to control the arm as well as the back.
-### Half Nelson
-This is used to prevent the player being controlled from rotating their upper body. This should only be down on the side that’s facing up.
-### Cross Collar Grip (Gi)
-This is advantageous because this can lead to collar chokes and is more powerful than the regular seatbelt in the gi. If they pull down on your sleeve, you won’t be able to finish the choke, so you can switch to RNC.
-
-If the opponent manages to use a baseball bat grip on the arm, bringing the gi to the hand instead of the hand to the gi will be much easier. Although the opponent has 2-on-1 grip, the one on the back can climb, like an inchworm, up the lapel.
-## Lower Body
-### Body Triangle
-The body triangle has the greatest degree of control, but only if your legs are long enough to wrap around their body. You have to be careful of a Straight Ankle Lock.
-### Hooks
-Hooks are the weakest way to control the back, but if they’re in turtle, it might be useful to kick their legs back to flatten them out. This is the only form of control that will score points in a match.
-### Feet on Hips
-This is similar to the body triangle, but the legs aren’t locked. This is good for people whose waists are wider than your legs.
-### Single Hook
-This is good if you can’t get the other hook in. 1 leg is in, and the other leg is out. You can cross your feet behind their leg, or you can extend them out to get the other hook by pushing on their thigh with your shin and reinforcing with the other foot. [Link](https://www.youtube.com/watch?v=pUECcQ8JJeA)
-# Transitioning
-## Position
+- **Cross body control**: Prevent your opponent from rotating their upper body.
+- **Leg control**: Prevent them from escaping your hips.
+- **Head position**: Place your head extremely close to their head and underneath their head to prevent them from escaping.
+- **Chest-to back connection**: Glue yourself to their back.
+### Upper Body
+- **Seatbelt**: Place your choking hand under your other arm. Pinch your elbows, glue your forearm to their chest. Switch to other forms of control if you can. If they escape the legs, crunch your opponent, slide the knee up their hip, and retake the back
+- **Gift wrap**: Use to control the arm as well.
+- **Half Nelson**: Use to prevent them from rotating their upper body. Use on the side facing up.
+- **Cross collar grip (gi)**: This can lead to collar chokes and is more powerful than the seatbelt in the gi. (1) If they pull down your sleeve, you won’t be able to finish the choke, so switch to RNC. (2) If they control your arm with 2-on-1 grip, bring their gi to your hand and climb their lapel like an inchworm.
+### Lower Body
+- **Body triangle**: This has the greatest degree of control. Wrap your legs around your opponent’s body in a triangle. Be careful of the Straight Ankle Lock.
+- **Feet on hips**: This is similar to the body triangle, but your legs aren’t locked. This is good for people whose waists are wider than your legs.
+- **Single hook**: If you can’t get your other hook in, (1) cross your feet behind their leg or (2) push down their thigh with your shin (reinforced by your foot) to get your other hook in. [Link](https://www.youtube.com/watch?v=pUECcQ8JJeA)
+- **Hooks**: This is the weakest way to control the back, but the only form that scores points in a match.
+## Troubleshooting
 - 
-- [[Spider Web]]
-- [[Mount]]
+# Transitioning
+- **Hand fight**: Put your opponent’s hands in a position where they can’t defend and threaten submissions.
+- **Submission options**: Strangles are superior to joint breaks, because they’re willing to let those break, whereas strangles will be them lose consciousness.
+## Positions
+- [[Mount]]: If your opponent escapes.
+- [[Spider Web]]: If they have good defense. [Link](https://youtu.be/xN0HUe8e2z0?si=lA9RZI6RCukJeAyK&t=1048)
 ## Submissions
-- [[Armbar]]
-- [[Bow & Arrow Choke]]
-- [[Sliding Collar Choke]]
-- [[Single Wing]]
-- [[Straight Ankle Lock]]
-
-The opponent will likely be hand fighting you.
-
-The majority of these attacks from the **Back** are strangles, which are superior to joint breaks, because sometimes the opponent will endure the damage, whereas a strangle will cause them to pass out.
-
-Sometimes the opponent will have good **Back** defense. In this case, you can transition to the Armbar. [Here](https://youtu.be/xN0HUe8e2z0?si=lA9RZI6RCukJeAyK&t=1048) is an instance of Gordon Ryan doing this against Patrick Gaudio. You can extend your forearms to the 
+- [[Bow & Arrow Choke]]:
+- [[Sliding Collar Choke]]:
+- [[Single Wing]]:
 # Escape
+- **Hand fighting**: Otherwise they’ll choke you.
+- **Position**: Get your shoulders to the mat, head below your opponent’s head, and past their hips.
 ## Submissions
 - [[Straight Ankle Lock]]: If your opponent has a body triangle or mistakenly crossed their feet.
-The first thing you need to do to escape the **Back** is to fight the hands, because they are going to be trying to choke you.
-
-To escape the **Back**, you must do the following:
-- Get the shoulders to the mat.
-- Get your head below their head.
-- Get past the hips.
-# Links
-## Position
-- [[Spider Web]]
-- [[Mount]] (If you them escaping the **Back**)
-## Submissions
-- [[Armbar]]
-- [[Bow & Arrow Choke]]
-- [[Sliding Collar Choke]]
-- [[Single Wing]]
-- [[Straight Ankle Lock]]
 # References
 - [Basic BJJ Positions: A Beginner’s Guide](https://jiujitsuthoughts.com/basic-bjj-positions-for-beginners/)
 # Tags

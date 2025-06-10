@@ -1,23 +1,17 @@
 # Overview
-The <u>Trap Triangle</u> is a position in which the bottom player has isolated the head and arm in the guard, but has not began submitting the top player.
+The <u>Trap Triangle</u> is when you’ve isolated the head and arm in the guard, but haven't begun submitting the passer.
+# Entry
+- 
 # Retention
-Squeezing the knees and turning the top knee down will prevent the opponent from posturing up.
-# Links
-
-## Escapes
-
-## Guards
-
-## Passes
-
-## Positions
-
-## Transitions
-
+- **Breaking posture**: Squeeze your knees and turn your top knee down.
+## Troubleshooting
+- 
+# Transitioning
 ## Submissions
-- [[Triangle Choke]]
-
-## Sweeps
-
+- [[Triangle Choke]]:
+# Escape
+- 
+# References
+- 
 # Tags
-#nogi #position 
+#gi #nogi #position 

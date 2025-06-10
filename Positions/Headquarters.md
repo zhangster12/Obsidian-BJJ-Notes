@@ -1,50 +1,40 @@
 # Overview
-<u>HQ</u> is a position in which you have one leg out and one leg in and is a very good passing hub.
+<u>HQ</u> is a position where you have one leg out and one leg in and is a very good passing hub.
 
 ![HQ](https://preview.redd.it/x8uulmpupql51.png?width=966&format=png&auto=webp&s=5ec60de0ec8335177ee17b02409768c995b385d9)
 # Entry
-This usually happens when you can get 1 leg between their legs and 1 leg outside theirs. 
-
-This also happen when breaking out of a guard. For example: 
-- In [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), after you’ve stripped their hooks and stuffed their framing leg, you can squat down into **HQ**.
-
-This can also happen in Open Guard where you step between their legs.
-# Passing
-- Float Pass
-- [[Knee Cut]]: 
-- [[Smash Pass]]: If their knee is pointed towards their outside knee.
-You mainly pass left, right, and above. The direction you pass is dictated by the direction of their knee:
-- If their knee is pointed in the direction of their outside knee, you can perform a [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut).
-
-
-When you pass to 1 side, post near the hip opposite of the direction you want to go, or on them, then post on far away on the far you’re passing towards:
-- If you want to pass to the *left*, post near the *right* hip, then the *left*.
-# Keys
-The keys to **HQ** are:
-- Pinching their leg or pinning their outside leg.
-- Sitting back on their foot.
-- Keeping the elbows and knees tight.
-- In the gi, pulling up on their collar.
-
-You can also be standing, as long as you keep your knees pinched
-Bring your outside knee turned in at their thigh in this case. This is similar to passing Ashi and [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), as they will be unable to establish any hooks.
-
-Sometimes they will grab your ankle/pants to establish a [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva) hook. You have to address this first by reaching inside the hook and stripping their ankle/pant grip.
-# Defense
-The guard player has to defend by getting their feet back in front and getting the pinned leg out:
-- The outside leg can as a [Shallow Lasso](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard) frame on the shoulder. The guard player can then use a same side collar grip to push the passer away and recovery their pinned leg. With the legs freed, the guard player can re-guard into [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) or [Shallow Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard).
-
-The guard player can use counter grips (double collar grip, outside DLR pant grip) to prevent the passer from advancing.
-# Variations
-- Pinch inside knee.
-- Pin outside leg.
-# Links
 ## Guards
-- [[De La Riva]]
+- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva): Strip the guard player’s hooks, stuff their leg, and squat down on it.
+- [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard): Step between their legs.
+# Passing
+- **Knee position**: The guard player’s knee position dictates the direction you pass.
+- **Hand post**: When you pass to a side, post near or on the hip opposite of the direction you want to go, then post on far away on the far you’re passing towards. If you want to pass left, post near the right hip, then the left.
 ## Passes
-- [[Long Step]]
-- [[Knee Cut]]
-- [[Smash Pass]]
-- [[X-pass]]
+- Float Pass:
+- [[Knee Cut]]: If the guard player’s knee is pointed towards your outside knee.
+- [[Long Step]]:
+- [[Smash Pass]]: If their knee is pointed towards your inside knee.
+- [[X-pass]]:
+# Keys
+- Pinch the guard player’s leg.
+- Squat on their foot.
+- Keep your elbows and knees tight.
+- Pull up on their collar (gi).
+## Troubleshooting
+- **[DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva) hook**: If the guard player grabs your ankle/pants, reach inside their hook and strip their grip.
+# Defense
+- **Counter grips**: Use double collar grip or outside pant grip to prevent the passer from advancing or push them away.
+- **Frames**: Use a [Shallow Lasso](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard) frame on the shoulder.
+- **Free your pinned leg**: Using your frames and grips, get your feet back in front.
+- **Re-guard**: Transition to [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard), or [Shallow Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FShallow%20Lasso%20Guard).
+## Guards
+- [[De La Riva]]:
+- [[Lasso Guard]]:
+- [[Shallow Lasso Guard]]:
+# Variations
+- **Standing**: Still pinch your knees and point your outside knee into the guard player’s thigh.
+- **Pin outside leg**:
+# References
+- 
 # Tags
 #gi #position #hqsystem

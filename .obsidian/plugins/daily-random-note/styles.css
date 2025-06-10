@@ -1,0 +1,59 @@
+.is-hovering-suggestion {
+	background-color: var(--background-modifier-hover);
+	/* Theme-compatible hover color */
+	color: var(--text-accent);
+	/* Theme-compatible text color */
+	cursor: pointer;
+}
+
+.my-scrollable-suggestions {
+	max-height: 200px;
+	/* Set a maximum height for vertical scrolling */
+	overflow-y: auto;
+	/* Enable vertical scrolling */
+	overflow-x: auto;
+	/* Enable horizontal scrolling */
+}
+
+.time-select-container {
+	display: flex;
+	gap: 8px;
+	margin-left: auto;
+}
+
+.add-instance-button {
+	margin-bottom: 48px;
+}
+
+.instance-container {
+	margin-bottom: 48px;
+}
+
+.collapsible-container-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 12px;
+}
+
+/* Display block when the tab is open */
+.instance-tab-open {
+	display: block;
+}
+
+/* Display none when the tab is closed */
+.instance-tab-closed {
+	display: none;
+}
+
+.instance-tags-open {
+	display: block;
+}
+
+.instance-tags-closed {
+	display: none;
+}
+
+.time-colon {
+	align-self: center;
+}

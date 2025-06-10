@@ -1,16 +1,13 @@
-- Never expose the triceps
-- Cook the position when it's optimal
-- Maintain 4 points of contact
-	- Conversely, deconstruct 4 points of contact
-- Keep knees to chest
-	- Don't overextend
-	- Toes point up
-- Framing isn't the same as pushing
-- Frame with elbow
-	- Frames come at short/med/long range
-	- They are temporary
-- Manage chest/back connections
-	- Don't expose both
-- If you panic, control the sleeve
+# Guard
+## Retention
+- Maintain four points of contact.
+- Keep your knees to chest with your toes pointed up, and don’t overextend.
+- Frames are temporary. You’re also not pushing. Frames can be short, medium, long range. Frame with your elbow.
+- If you panic, control the sleeve.
+## Passing
+- Cook the position when optimal to fatigue the guard player.
+# Other
+- Never expose the triceps; chest-to-triceps connection can lead to Back takes.
+- Mange chest and back connections and don’t expose both.
 # Tags
-#gi #position #hide
+#hide 

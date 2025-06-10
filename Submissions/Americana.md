@@ -3,16 +3,21 @@ The <u>Americana</u> is a shoulder lock characterized by grabbing the wrist of t
 
 ![Americana](https://evolve-mma.com/wp-content/uploads/2021/09/BJJ-Americana.jpg)
 # Setup
-- Mount
+## Positions
+- Mount:
 - Side Control
 # Keys
 - Bring the bottom player’s elbow to their side.
+## Troubleshooting
+- 
 # Transitioning
 ## Submissions
-- [[]]
+- 
 # Defense
 - Straighten your arm. This makes you susceptible to a Straight Arm Lock.
 # Variations
+- 
 # References
+- 
 # Tags
 #gi #submission 

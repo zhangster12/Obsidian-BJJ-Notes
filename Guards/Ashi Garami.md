@@ -25,11 +25,13 @@
 - **Controlling the ankle**: If the passer tries to sit to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), there will still be enough space to re-guard.
 - **Hooking the inside foot on the far hip**: This controls their hips better than if the foot was hooked on the near hip, like in <u>Single-leg X</u>.
 - **Keeping the ankle off the mat**: They won’t be able to crowd you and this turns you into a ball.
+## Troubleshooting
+- 
 # Transitioning
 ## Guards
 - [[X-guard]]: (1) If the passer strips your outside ankle, or (2) plant one foot on the mat, bridge, and knee the passer in the butt to get their to place hands on mat.
 ## Submissions
-- [[Straight Ankle Lock]]
+- [[Straight Ankle Lock]]:
 ## Sweeps
 - [[Dummy Sweep]]: If you have both legs, pull the outside leg out.
 - [[Knee Tap Sweep]]: If the passer places their knee on the mat.
@@ -37,8 +39,9 @@
 ## Transitions
 - [[Wrestle-up]]: Plant one foot on the mat, bridge, and knee the passer in the butt to get their to place hands on mat.
 # Variations
-- Outside Ashi:
+- [[Outside Ashi Garami]]:
 - Butterfly Ashi:
 # References
+- 
 # Tags
-#gi #nogi #guard #openguard 
+#gi #nogi #guard #openguard #ashigarami 

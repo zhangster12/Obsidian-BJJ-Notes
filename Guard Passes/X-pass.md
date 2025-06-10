@@ -6,10 +6,15 @@ The <u>X-pass</u> is named after the X configuration of your arms and legs durin
 ## Positions
 - [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHeadquarters): Start with a collar and pant grip.
 # Keys
+- 
+## Troubleshooting
+- 
 # Transitioning
 ## Positions
-- [[Knee On Belly]]
+- [[Knee On Belly]]:
 # Defense
 - Cross your feet.
+# References
+- 
 # Tags
 #gi #guardpass #hqsystem 

@@ -11,7 +11,7 @@ From the bottom, the guard player can Berimbolo from:
 # Keys
 When performing a Berimbolo:
 
-# Attacking/Transitioning
+# Transitioning
 # Escape/Defense/Counter
 # Variations
 # Links

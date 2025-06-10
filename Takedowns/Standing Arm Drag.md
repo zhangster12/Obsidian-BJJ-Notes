@@ -1,4 +1,8 @@
-# Instructions
+# Overview
+
+# Setup
+- 
+# Keys
 - Grab the same side sleeve and push it down to the ground.
 - Ground the frantic around the armpit and pull it toward you
 - Press your chest to their shoulder and look away from their head.
@@ -6,9 +10,16 @@
 - Position yourself opposite of your hands.
 - Torque your arms. Raise the long arm elbow and lower the short arm elbow.
 - Trap the foot in the side of the hands and sit back.
-## Additional Details
-# Links
+## Troubleshooting
+- 
+# Transitioning
 ## Takedowns
-- [[Standing Body Lock]]
+- [[Standing Body Lock]]:
+# Counter
+- 
+# Variations
+- 
+# References
+- 
 # Tags
 #gi #takedown

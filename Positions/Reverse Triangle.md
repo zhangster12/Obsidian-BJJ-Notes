@@ -1,16 +1,19 @@
 # Overview
-The **Reverse Triangle** is a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke), but the legs are locked on the other side, which 
-## Variations
-## Additional Details
-# Links
-## Escapes
-## Guards
-## Passes
-## Positions
-## Takedowns
-## Transitions
+The <u>Reverse Triangle</u> is a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke) with the legs are locked on the other shoulder. 
+# Entry
+- 
+# Passing
+- 
+# Keys
+- 
+## Troubleshooting
+- 
+# Transitioning
 ## Submissions
-- [[Triangle Choke]]
-## Sweeps
+- [[Triangle Choke]]:
+# Escape
+- 
+# References
+- 
 # Tags
-Insert tags #hide
+#gi #nogi #position #triangle

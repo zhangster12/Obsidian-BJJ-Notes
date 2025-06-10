@@ -8,21 +8,25 @@ The <u>Brabo Grip</u> is a powerful grip in the gi, where you control the oppone
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Breaking the passer’s posture while pulling their lapel out (if it’s not already free). [Link](https://www.youtube.com/watch?v=DXE-FfK1j0E&t=45s)
 ## Positions
-- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly)
-- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control)
+- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly):
+- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control):
 # Keys
 - To make this grip difficult to escape, pull the lapel **as tightly as possible** to the opponent’s neck (carotid artery) and keep your elbows tight.
+## Troubleshooting
+- 
 # Transitioning
+## Grips
+- [[Baseball Bat Grip]]:
+	- [KOB](- [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut):):
+	- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control):
 ## Submissions
-- [[Baseball Bat Choke]]
-	- [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly) 
-	- [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control)
-- [[Brabo Choke]]
-	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard)
-- [[Cross Choke]]
+- [[Brabo Choke]]:
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
+- [[Cross Choke]]:
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
 ## Positions
-- [[Side Control]]
-	- [Chest-to-Chest Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard)
+- [[Side Control]]:
+	- [Chest-to-Chest Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard):
 # Defense
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Before the lapel grip is passed back to the other hand, lower their head and push the grip off.

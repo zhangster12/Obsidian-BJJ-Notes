@@ -1,17 +1,18 @@
 # Overview
-The Mounted Triangle is when you have a head and arm isolated in the mount with your legs locked.
+The <u>Mounted Triangle</u> is when you have a head and arm isolated in the Mount with your legs locked.
 # Setup
-You have to step over 1 arm.
-
-You can either finish the choke from Mount or dismount into a traditional Triangle Choke.
+## Positions
+- Mount: Step over one arm.
 # Keys
-You have to lock your legs on the side of the arm. If you have trouble with locking it, you have to make that side light.
-# Attacking
-# Escape
-Sometimes you can escape from underneath them.
-# Variations
-# Links
+- Lock your legs on the side of their shoulder.
+## Troubleshooting
+- Trouble locking legs: Make the other side heavy so you can move your legs.
+# Transitioning
 ## Submissions
-- [[Triangle Choke]]
+- [[Triangle Choke]]: Discount onto guard.
+# Defense
+- Escape from underneath them.
+# References
+- 
 # Tags
 #gi #submission 

@@ -26,6 +26,6 @@ Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the 
 - [[Turtle]]: 
 # Variations
 - **2-on-1 grip**: One hand controls the passer’s wrist and the other at their sleeve.
-- **Wrist/underhook grip**: One hand internally rotates their wrist, while the other hand underhooks their armpit, when they separate their elbow from their hips.
+- **Wrist/underhook grip**: One hand internally rotates their wrist, while the other hand underhooks their armpit when they separate their elbow from their hips.
 # Tags
 #gi #nogi #transition #closedguardsystem
