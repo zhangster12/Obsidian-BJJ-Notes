@@ -32,6 +32,7 @@ The <u>Triangle Choke</u> is a choke that encircles the passer's neck and arm wi
 # Variations
 - Back Triangle:
 - [[Mounted Triangle]]:
+- [Side Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FSide%20Triangle%20Choke):
 # References
 - 
 # Tags

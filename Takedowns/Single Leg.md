@@ -1,6 +1,7 @@
 # Overview
 # Setup
-- 
+## Positions
+- [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle):
 # Keys
 - Press your head into their upper chest.
 ## Troubleshooting
@@ -17,8 +18,11 @@
 - Place your hands on their hips to prevent them from advancing.
 ## Positions
 - [[Turtle]]:
+## Submissions
+- [[Side Triangle Choke]]:
 # Variations
-- 
+- **Standing**:
+- [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle):
 # References
 - 
 # Tags
