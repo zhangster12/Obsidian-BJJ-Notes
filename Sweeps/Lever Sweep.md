@@ -8,8 +8,8 @@ The <u>Lever Sweep</u> is a sweep from [Half Guard](obsidian://open?vault=Obsidi
 # Keys
 - Plant your feet on the outside of the passer’s knee and back-heel.
 - Pinch your knees.
-- Block their underhooked arm elbow to elbow.
-- Bridge and rotate yourself while pushing the opposite hip or pants.
+- **Block their Post**: Trap their arm with that is underhooking you, elbow to elbow.
+- **Fulcrum**: Bridge and rotate yourself while pushing the opposite hip or pants.
 ## Troubleshooting
 - 
 # Transitioning
@@ -24,7 +24,7 @@ The <u>Lever Sweep</u> is a sweep from [Half Guard](obsidian://open?vault=Obsidi
 ## Sweeps
 - [[Butterfly Sweep]]: Sweep to the other side after inserting the hook.
 # Defense
-- **Weight back**: Don’t load yourself onto the guard player.
+- **Keep your weight back**: Don’t load yourself onto the guard player.
 - **Arm post**: Free your arm and post.
 # Variations
 - [Chest-to-Chest](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard): Shoot your knees all the way through the passer’s legs.

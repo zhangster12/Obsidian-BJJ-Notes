@@ -10,7 +10,10 @@
 ## Positions
 - [[S-mount]]:
 # Escape
-- 
+- **Scoot back**: Use your elbows as frames to move yourself back to regular [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
+- **Off-balance overhead**: Use your arms to off-balance the top player overhead.
+## Escapes
+- [[Back Door Escape]]:
 # References
 - 
 # Tags

@@ -20,7 +20,7 @@ The <u>Closed Guard</u> is when the passer is locked between your legs, preventi
 ## Guards
 - [[Supine Guard]]: When you open and escape the guard, then work to pass the ankles, knees, and hips.
 ## Passes
-- [[Sao Paulo Pass]]: Pin an arm to the mat.
+- [[São Paulo Pass]]: Pin an arm to the mat.
 ## Positions
 - [[Combat Base]]: Knee one knee up, one knee down to prevent the guard player from locking their legs.
 # Retention
@@ -30,7 +30,7 @@ The <u>Closed Guard</u> is when the passer is locked between your legs, preventi
 - **Control their posture**: ([1](https://www.youtube.com/shorts/oZ8o_STXl84)) Control inside position with a [Cross Collar Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FCross%20Collar%20Grip) under their arms. (2) Climb the back to control their upper body.
 - **Constantly be attacking**. Begin attacks with a [Cross Collar Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FCross%20Collar%20Grip).
 ## Troubleshooting
-- If the passer stiff arms your hips or chest to prevent their posture from being broken down, (1) use a [Baseball Bat Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FBaseball%20Bat%20Grip) on their collar and over their arm to bend their elbow, and as they stand up, pull them down using your legs and core. (2) When they blade their stance, lift your hips and shoulder walk to square back up with them.
+- **Passer stiff arms your hips or chest to prevent their posture from being broken down**: (1) Use a [Baseball Bat Grip](obsidian://open?vault=Obsidian-BJJ-Notes&file=Grips%2FBaseball%20Bat%20Grip) on their collar and over their arm to bend their elbow, and as they stand up, pull them down using your legs and core. (2) When they blade their stance, lift your hips and shoulder walk to square back up with them.
 # Transitioning
 - **Elbows, hands, and posture**: (1) If the passer’s hands are on your chest, you can move your legs freely. (2) If their hands are on the mat, attack [Clamp Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClamp%20Guard), [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura), [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep). (3) If their elbow is past your midline, attack [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag), [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar), [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock). (3) If they’re postured high, attack [Hip Bump Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FHip%20Bump%20Sweep). (4) If their weight is loaded on you, attack [Pendulum Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Sweeps%2FPendulum%20Sweep).
 - **Opposite actions**: They’ll do the opposite of what you do. For example, if you break their posture, they will do the opposite and posture up.

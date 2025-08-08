@@ -1,13 +1,16 @@
 # Overview
+The <u>Straight Ankle Lock</u>, or <u>Achilles Lock</u>, is a leg lock that targets the Achilles tendon by pressing it towards the foot.
+
+![Straight Ankle Lock](https://cdn.evolve-mma.com/wp-content/uploads/2021/09/BJJ-Ankle-Lock.jpg)
 # Setup
-- 
+- Ashi
 # Keys
 - Meet the blade of your wrist at the opponent’s Achilles.
-- Row your elbow back.
-# ## Troubleshooting
+- **Cover the toes**: Row your elbow back to prevent them from flexing their foot.
+# Troubleshooting
 - 
 # Transitioning
-- 
+- [[Supine Guard]]: (1) (2) Inexperienced opponents can sometimes grab your ankle. You’ll have a hard time finishing the <u>Straight Ankle Lock</u>, so stand up.
 # Defense
 - **Putting the boot on**: Put your weight onto that foot.
 # Variations
@@ -15,4 +18,4 @@
 # References
 - 
 # Tags
-#gi #submission 
+#gi #nogi #submission #leglock

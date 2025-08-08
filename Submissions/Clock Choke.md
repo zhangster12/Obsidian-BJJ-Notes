@@ -11,7 +11,7 @@
 - 
 # Escape/Defense/Counter
 - 
-# Other Variations
+# Variations
 - 
 # References
 - 

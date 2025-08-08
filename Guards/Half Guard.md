@@ -4,10 +4,10 @@
 ![Half Guard](https://www.artemisbjj.com/wp-content/uploads/2014/06/BJJ-Bristol-Artemis-Brazilian-Jiu-Jitsu-Half-Guard.jpg)
 # Entry
 ## Escapes
-- Knee Elbow Escape: After escaping Mount.
+- [Knee Elbow Escape](obsidian://open?vault=Obsidian-BJJ-Notes&file=Escapes%2FKnee%20Elbow%20Escape): After escaping Mount.
 ## Passes
 - [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut): Drop to your knees.
-- Sao Paulo:
+- [São Paulo Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FS%C3%A3o%20Paulo%20Pass): After opening Closed Guard.
 # Passing
 - Get chest-to-chest by getting past the top knee.
 - Get past the top knee by (1) shifting to [HQ](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut) then [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passing%2FKnee%20Cut) or (2) hip switch into [Reverse Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FReverse%20Half%20Guard) then pull the leg out.

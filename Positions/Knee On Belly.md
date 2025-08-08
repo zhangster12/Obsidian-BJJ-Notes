@@ -18,7 +18,7 @@ The <u>KOB</u>, or <u>Knee Ride</u>, is a floating pin where you use your knee t
 ## Grips
 - [[Brabo Grip]]:
 # Escape
-- 
+- Block the knee:
 # Variations
 - 
 # References

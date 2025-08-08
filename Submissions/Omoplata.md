@@ -12,10 +12,12 @@
 # Keys
 - 
 ## Troubleshooting
-- **Not enough space**: Use Shallow Lasso to create space to shoot your leg through.
+- **Not enough space**: Use a Shallow Lasso to create space to shoot your leg through.
 # Transitioning
 ## Positions
-- [[Side Control]]:
+- [[Side Control]]: If the bottom player rolls, you’ll be in top position.
+## Submissions
+- [[Wrist Lock]]:
 # Defense
 - Keep your hands in the middle not on the floor or across the midline.
 - Keep your posture high.

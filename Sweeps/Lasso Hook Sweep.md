@@ -2,9 +2,9 @@
 The <u>Lasso Hook Sweep</u>, or the Merigali Sweep, is a sweep that uses the Lasso hook on the leg to sweep to the side. [Link](https://www.youtube.com/watch?v=lcVfa-KE3Ks)
 # Setup
 ## Guards
-- Lasso Guard:
+- [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard): Hook your leg onto the passer’s opposite leg.
 # Keys
-- Pull the passer onto you.
+- **Load the passer**: Pull them onto you.
 - Use the collar grip to direct them overhead.
 # Transitioning
 ## Positions

@@ -6,23 +6,29 @@ An <u>Arm Drag</u> is when drag one of the passer’s arms across their body.
 - Butterfly Guard: 
 - Closed Guard: Break the passer’s posture by dropping your hips.
 # Keys
-- When they’re not square to you, cover their triceps with your chest.
-- 
-Lastly, in Butterfly and Butterfly-Half Guard, the guard player should pull the outside foot out so that they’re perpendicular to the passer as they’re dragging the arm. Additionally, Arm Drags can be executed on either side: for example, if the passer keeps their elbow tight after an attempt, the guard player can drag the opposite arm.
+- **Grips**:
+- **Hand position**: Point your knuckles down and punch it to the passer’s hip pocket; this activates your triceps.
+- **Chest position**: Cover their triceps with your chest.
+## Troubleshooting
+- **Passer keeps their elbow tight**: Drag the opposite arm.
+- **If you’re stuck in Butterfly or Butterfly-Half Guard**: Pull your outside leg out so you’re perpendicular to them as you’re dragging the arm.
 # Transitioning
+## Guards
+- [[Top Lock]]: If the passer squares back up.
 ## Positions
 - [[Back]]: 
 - [[Mount]]:
 ## Submissions
 - [[Armbar]]: If the bottom player reaches for your arm, roll over their head.
 ## Sweeps
-- [[Butterfly Sweep]]
-- [[Pendulum Sweep]]: (If they try to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across)
-- [[Scissor Sweep]]
+- [[Butterfly Sweep]]:
+- [[Pendulum Sweep]]: If the passer tries to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across.
+- [[Scissor Sweep]]:
 ## Transitions
-- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard) → [[Wrestle-up]]: If the <u>Arm Drag</u> fails.
+- [[Wrestle-up]]: If the <u>Arm Drag</u> fails.
+	- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard):
 # Defense
-- [[Closed Guard]]: When the guard player has your sleeve griped, keep your elbow tight and stay square.
+- [[Closed Guard]]: When the guard player has your sleeve gripped, keep your elbow tight and stay square.
 - [[Turtle]]: 
 # Variations
 - **2-on-1 grip**: One hand controls the passer’s wrist and the other at their sleeve.

@@ -3,16 +3,18 @@ The <u>Berimbolo</u>, performed by the passer or guard player, is a technique to
 
 ![Berimbolo](https://www.grapplearts.com/wp-content/uploads/2013/09/the-easiest-way-to-do-the-berimbolo.jpeg)
 # Setup
+
 From the top, the passer can Berimbolo from:
 - 3/4 Mount. 
 
 From the bottom, the guard player can Berimbolo from:
 - DLR. 
 # Keys
-When performing a Berimbolo:
+- **Lift your opponent’s hips**: Pinch their leg and stomp your feet down.
 
 # Transitioning
-# Escape/Defense/Counter
+- [[Back]]:
+# Counter
 # Variations
 # Links
 ## Escapes

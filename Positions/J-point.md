@@ -14,9 +14,10 @@ The <u>J-point</u> is a position in which the guard player is in jeopardy of get
 - [[Knee On Belly]]:
 - [[Side Control]]: (1) If the guard player doesn’t frame, drop into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control), or (2) if they collapse their top knee, press it to the mat and walk to the other side.
 # Keys
+- **Elbow position**: Slightly flare your elbow to prevent the guard player from re-pummeling their leg.
+- **Head position**: Immediately drive your head into their rib and tripod. Don’t wait.
 - Step past the hip line.
 - Control the knee while keeping the legs out of range of the hands.
-- Get your head to their rib immediately and tripod.
 - Heavy pressure on the ribs or hip.
 ## Troubleshooting
 - 

@@ -36,6 +36,7 @@ The <u>Back</u> is the most dominant position, because while your opponent has v
 - [[Spider Web]]: If they have good defense. [Link](https://youtu.be/xN0HUe8e2z0?si=lA9RZI6RCukJeAyK&t=1048)
 ## Submissions
 - [[Bow & Arrow Choke]]:
+- [[Rear Naked Choke]]:
 - [[Sliding Collar Choke]]:
 - [[Single Wing]]:
 # Escape

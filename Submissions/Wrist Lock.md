@@ -1,8 +1,8 @@
 # Overview
+
+![Wrist Lock](https://www.carlsongracieoc.com/wp-content/uploads/2019/10/wristlocks.jpg)
 # Setup
-- 
-# Passing
-- 
+-  
 # Keys
 - 
 ## Troubleshooting

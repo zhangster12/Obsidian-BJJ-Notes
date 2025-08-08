@@ -26,7 +26,7 @@
 - **Hooking the inside foot on the far hip**: This controls their hips better than if the foot was hooked on the near hip, like in <u>Single-leg X</u>.
 - **Keeping the ankle off the mat**: They won’t be able to crowd you and this turns you into a ball.
 ## Troubleshooting
-- 
+- **Passer is leaning forward or crouched**: Plant your outside foot on the mat; bridge as you kick them in the butt to force them onto their hands.
 # Transitioning
 ## Guards
 - [[X-guard]]: (1) If the passer strips your outside ankle, or (2) plant one foot on the mat, bridge, and knee the passer in the butt to get their to place hands on mat.

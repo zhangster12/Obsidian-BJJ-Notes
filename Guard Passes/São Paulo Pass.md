@@ -1,13 +1,12 @@
 # Overview
-The <u>São Paulo Pass</u>, also known as the <u>Tozi Pass</u> or hammerlock, is a pass that traps your guard player's hand so you can apply pressure to their shoulder and limit attacks while passing the guard.
+The <u>São Paulo Pass</u>, also known as the <u>Tozi Pass</u> or hammerlock, is a pass that traps the guard player's hand so you can apply pressure to their shoulder and limit attacks while passing the guard.
 
 ![Sao Paulo Pass](https://evolve-mma.com/wp-content/uploads/2022/05/bjj-sao-paulo-pass.jpg)
 # Setup
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): [Link](https://youtu.be/bs0IejiQ76Q?si=Pz8df0ArRqzGehA0&t=122)
 # Keys
-- Maintain pressure into the guard player’s head and chest the whole time.
-- Keep the chest and shoulders pinned while you cut an angle on their legs.
+- **Head pressure**: Maintain pressure into the guard player’s chest and shoulders to keep them pinned while you cut an angle on their legs.
 ## Troubleshooting
 - 
 # Transitioning
@@ -37,4 +36,4 @@ The <u>São Paulo Pass</u>, also known as the <u>Tozi Pass</u> or hammerlock, is
 - [Sao Paulo Guard Pass](https://www.bjjheroes.com/techniques/sao-paulo-guard-pass)
 - [What Is The Sao Paulo Pass In BJJ](https://evolve-mma.com/blog/what-is-the-sao-paulo-pass-in-bjj/)
 # Tags
-#gi #guardpass #pressurepass
+#gi #nogi #guardpass #pressurepass

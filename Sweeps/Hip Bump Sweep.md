@@ -1,4 +1,5 @@
 # Overview
+The <u>Hip Bump Sweep</u> is a technique that unbalances the passer towards a direction, typically backward, but can be applied from the sides as well.
 
 ![Hip Bump Sweep](https://evolve-mma.com/wp-content/uploads/2022/02/hip-bump.jpg)
 # Setup
@@ -12,11 +13,12 @@
 ## Troubleshooting
 - 
 # Transitioning
+- **Passer posts their arm**: Transition to [Reverse Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FReverse%20Triangle) or [Triangle Choke](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke).
 ## Positions
-- [[Mount]]:
+- [[Mount]]: If you complete the sweep.
 - [[Reverse Triangle]]:
 ## Submissions
-- [[Kimura]]:
+- [[Kimura]]: If the passer drives into you.
 - [[Triangle Choke]]:
 # Defense
 - 

@@ -14,10 +14,11 @@
 - [[High Body Lock Pass]]: Get two underhooks.
 - [[Tripod Pass]]: (1) Flare the elbows, tripod up, use a hook to free your leg to pass into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control) or [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount). When passing to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), separate the guard player’s knees and elbows, or they can sweep you. (2) Walk yourself 45 deg away from them, then push their legs away as you drive forward.
 # Retention
-- Frame across the passer’s neck.
+- 
 ## Troubleshooting
 - 
 # Counter
+- **Frames**: Frame across the passer’s neck and hip.
 ## Guards
 - [[Butterfly Guard]]: If the passer has double underhooks and uses the [Tripod Pass](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FTripod%20Pass), follow their knee until there’s enough space for hooks.
 - [[Butterfly-Half Guard]]: Hook your outside foot on their thigh.

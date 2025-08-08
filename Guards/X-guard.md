@@ -12,7 +12,7 @@ The <u>X-guard</u> is when your legs are controlling a passer’s leg like an X.
 - [[Leg Drag]]:
 # Retention
 - **Constantly off-balance the passer**: Keep the passer’s hands on the mat or away.
-- **Sticky hooks**:
+- **Sticky hooks**: Make it hard for them to peel your hooks.
 ## Troubleshooting
 - 
 # Transitioning

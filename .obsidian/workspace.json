@@ -9,43 +9,48 @@
         "dimension": 52.348993288590606,
         "children": [
           {
-            "id": "dd46a87dcd8f048e",
+            "id": "bc4697216db1e779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grips/Baseball Bat Grip.md",
+                "file": "Competitions/2024-04-28 - Brewjitsu 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Baseball Bat Grip"
+              "title": "2024-04-28 - Brewjitsu 2"
             }
           },
           {
-            "id": "128d856485e33035",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "23b797eb1cf6ce54",
+            "id": "eb323d43432fb072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guard Passes/Gator Roll Pass.md",
+                "file": "Submissions/Straight Ankle Lock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gator Roll Pass"
+              "title": "Straight Ankle Lock"
+            }
+          },
+          {
+            "id": "7866627b2bd9d7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sweeps/Scissor Sweep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scissor Sweep"
             }
           }
         ],
@@ -57,7 +62,7 @@
         "dimension": 47.651006711409394,
         "children": [
           {
-            "id": "eb323d43432fb072",
+            "id": "212a585ab4164d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,44 +77,16 @@
             }
           },
           {
-            "id": "d5b1fcbbf131584f",
+            "id": "422279bc6726cf53",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Guard Passes/Gator Roll Pass.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0534979423868316,
-                  "close": true
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of Gator Roll Pass"
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "c",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -295,34 +272,35 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "23b797eb1cf6ce54",
+  "active": "7866627b2bd9d7b9",
   "lastOpenFiles": [
-    "Guard Passes/Leg Weave.md",
-    "Guard Passes/Gator Roll Pass.md",
-    "Takedowns/Single Leg.md",
-    "Submissions/Side Triangle Choke.md",
-    "Grips/Baseball Bat Grip.md",
-    "Submissions/Triangle Choke.md",
-    "Positions/Turtle.md",
-    "Guards/Ashi Garami.md",
-    "Takedowns/Standing Arm Drag.md",
-    "Sweeps/Tripod Sweep.md",
-    "Guard Passes/Long Step.md",
-    "Guard Passes/Toreando.md",
-    "Submissions/Guillotine.md",
-    "Submissions/Kimura.md",
-    "Guard Passes/Circle Pass.md",
-    "Takedowns/Ankle Pick.md",
-    "Guard Passes/Leg Drag.md",
-    "Guards/Sit Up Guard.md",
-    "Grips/Brabo Grip.md",
     "Positions/Knee On Belly.md",
-    "Sweeps/Lasso Hook Sweep.md",
-    "Positions/Side Control.md",
-    "Guard Passes/Lucas Lepri Knee Cut.md",
-    "Guards/Closed Guard.md",
-    "Sweeps/Lever Sweep.md",
-    "Sweeps/Balloon Sweep.md",
+    "Submissions/Straight Ankle Lock.md",
+    "Transitions/Berimbolo.md",
+    "Transitions/Arm Drag.md",
+    "Template/Template.md",
+    "Guard Passes/Long Step.md",
+    "Grips/Baseball Bat Grip.md",
+    "Transitions/Gator Roll.md",
+    "Transitions/Gramby Roll.md",
+    "Submissions/Bow & Arrow Choke.md",
+    "Submissions/Guillotine.md",
+    "Submissions/Omoplata.md",
+    "Competitions/2024-04-28 - Brewjitsu 2.md",
+    "Submissions/Side Triangle Choke.md",
+    "Guard Passes/Toreando.md",
+    "Guards/Lasso-DLR Guard.md",
+    "Guards/Ashi Garami.md",
+    "Positions/Front Headlock.md",
+    "Submissions/Von Flue Choke.md",
+    "Guards/Half Guard.md",
+    "Guard Passes/Smash Pass.md",
+    "Guards/Supine Guard.md",
+    "Grips/Cross Pant Grip.md",
+    "Guard Passes/Shin Slice.md",
+    "Seminars/Paul Schreiner's Seminar.md",
+    "Seminars/Harry's Takedown Workshop.md",
+    "Pasted image 20250617002332.png",
     "Pasted image 20250113140713.png",
     "Punch Choke",
     "Untitled 1.canvas",
@@ -339,7 +317,6 @@
     "Pasted image 20240503114244.png",
     "Pasted image 20240501124457.png",
     "Pasted image 20240501103457.png",
-    "Pasted image 20240325124807.png",
     "Paul Schreiner Seminar",
     "Template",
     "Grips",

@@ -7,7 +7,7 @@ The <u>Supine Open Guard</u> is when you’re on your back. <u>Supine Guard</u> 
 # Passing
 - 
 # Retention
-- 
+- **Self-frames**: Place your hands underneath your knees to make it harder for the passer to pin your legs.
 ## Troubleshooting
 - 
 # Transitioning

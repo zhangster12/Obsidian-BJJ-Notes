@@ -14,7 +14,7 @@
 # Transitioning
 ## Guards
 - [[Half Guard]]: Use the outside foot to hook onto the passer’s shin and push them into [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard).
-- [[K-guard]]: If the passer is driving forward, deflect them with your legs and arms, plant the bottom foot, and invert while capturing the leg.
+- [[K-guard]]: If they’re driving forward, deflect them with your legs and arms, plant the bottom foot, and invert while capturing the leg.
 ## Sweeps
 - [[Tripod Sweep]]: Plant your feet at the passer’s hip and behind their foot and pushing them back.
 ## Transitions

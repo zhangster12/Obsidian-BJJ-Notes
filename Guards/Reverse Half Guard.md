@@ -8,7 +8,7 @@ The <u>Reverse Half Guard</u> is the variation of [Half Guard](obsidian://open?v
 ## Passes
 - [Knee Cut](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FKnee%20Cut): Get your knee to the mat and back step.
 # Passing
-- **Staying on your toes**: This drive all pressure into the guard player’s chest and shoulders, which makes it very hard for them to sweep.
+- **Stay on your toes**: Drive all pressure into the guard player’s chest and shoulders, which makes it very hard for them to sweep.
 - **Use your knee**: Wedge your bottom leg into their hip. [Link](https://www.youtube.com/shorts/h15KxpW-fBA)
 ## Positions
 - [[Side Control]]:

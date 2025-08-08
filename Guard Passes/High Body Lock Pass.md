@@ -4,7 +4,7 @@ The <u>High Body Lock</u> is a variation of the [Body Lock Pass](obsidian://open
 ## Guards
 - [Chest-to-Chest Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard): If you have an underhook on one side, fight for an underhook on the other side.
 # Keys
-- Push the guard player’s arms as high above their head as possible.
+- **Arm isolation**: Push the guard player’s arms as high above their head as possible.
 ## Troubleshooting
 - 
 # Transitioning
