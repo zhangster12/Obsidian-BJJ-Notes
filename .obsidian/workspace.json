@@ -6,87 +6,519 @@
       {
         "id": "cd57511de64fc108",
         "type": "tabs",
-        "dimension": 52.348993288590606,
         "children": [
           {
-            "id": "bc4697216db1e779",
+            "id": "efaa5850e734ab2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Competitions/2024-04-28 - Brewjitsu 2.md",
+                "file": "Inside Heel Hook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-28 - Brewjitsu 2"
+              "title": "Inside Heel Hook"
             }
           },
           {
-            "id": "eb323d43432fb072",
+            "id": "ce527d87d8fe22ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Submissions/Straight Ankle Lock.md",
+                "file": "Concepts/Spinal Alignment on the Back.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Straight Ankle Lock"
+              "title": "Spinal Alignment on the Back"
             }
           },
           {
-            "id": "7866627b2bd9d7b9",
+            "id": "3ae1afc39f71421f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sweeps/Scissor Sweep.md",
+                "file": "Nodes/Positions/Side Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scissor Sweep"
+              "title": "Side Control"
+            }
+          },
+          {
+            "id": "1ce7f1443bffe831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guard Passes/Gator Roll Pass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gator Roll Pass"
+            }
+          },
+          {
+            "id": "2d0aae592bf56544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guard Passes/Leg Trap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Leg Trap"
+            }
+          },
+          {
+            "id": "f08db491afec7f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Closed Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Closed Guard"
+            }
+          },
+          {
+            "id": "e4d72216a6029b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Sweeps/G-roll Sweep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "G-roll Sweep"
+            }
+          },
+          {
+            "id": "e8ab4778a3296f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Dogfight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dogfight"
+            }
+          },
+          {
+            "id": "38109c0305a7aa85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Gramby Roll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gramby Roll"
+            }
+          },
+          {
+            "id": "b1e21e8bff1ef434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Cow Catcher.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cow Catcher"
+            }
+          },
+          {
+            "id": "3ca5004fc69304fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/50-50.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "50-50"
+            }
+          },
+          {
+            "id": "f2215bf5b3f4b5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Positions/Knee On Belly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Knee On Belly"
+            }
+          },
+          {
+            "id": "c9b00366228289ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Lasso-DLR Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasso-DLR Guard"
+            }
+          },
+          {
+            "id": "afeb84c523fd287e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leg Lock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Leg Lock"
+            }
+          },
+          {
+            "id": "620305fbdf50f368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Sweeps/Pendulum Sweep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pendulum Sweep"
+            }
+          },
+          {
+            "id": "7efd993f24c89286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Head Trap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Head Trap"
+            }
+          },
+          {
+            "id": "22e3b1dac756d945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guard Passes/Body Lock Pass/Front Body Lock Pass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Front Body Lock Pass"
+            }
+          },
+          {
+            "id": "ff02cb799d373cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Gramby Roll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gramby Roll"
+            }
+          },
+          {
+            "id": "5a4a0c7f8040620d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Single Wing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Single Wing"
+            }
+          },
+          {
+            "id": "257288f658f9880a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Lasso-50-50 Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasso-50-50 Guard"
+            }
+          },
+          {
+            "id": "1c1c147632c8ed88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Gator Roll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gator Roll"
+            }
+          },
+          {
+            "id": "07c75b64b02ff3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Guillotine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Guillotine"
+            }
+          },
+          {
+            "id": "463d1d64dd4f0e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Guillotine/Arm-out Guillotine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Arm-out Guillotine"
+            }
+          },
+          {
+            "id": "7e40535c13459934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Baseball Bat Choke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Baseball Bat Choke"
+            }
+          },
+          {
+            "id": "8a039d3f5055c2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/50-50.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "50-50"
+            }
+          },
+          {
+            "id": "f04dc2abbf8c743d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Sit Up Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sit Up Guard"
+            }
+          },
+          {
+            "id": "44129e248262e9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/1-4 Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1-4 Guard"
+            }
+          },
+          {
+            "id": "4f1b1c03bc9150d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Positions/Inside Camp/High-Head Inside Camp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "High-Head Inside Camp"
+            }
+          },
+          {
+            "id": "4cf84286d1767672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Takedowns/Knee Tap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Knee Tap"
+            }
+          },
+          {
+            "id": "13f66c449a012009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminars/Nick and Danny's Seminar (4-30 - 5-3-2024).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nick and Danny's Seminar (4-30 - 5-3-2024)"
+            }
+          },
+          {
+            "id": "0c6a93594b51958e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Wrestle-up.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Wrestle-up"
+            }
+          },
+          {
+            "id": "44c74a90ed4f902d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Transitions/Wrestle-up.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Wrestle-up"
+            }
+          },
+          {
+            "id": "564f1b43d5c7cb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Takedowns/Osoto Gari.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Osoto Gari"
+            }
+          },
+          {
+            "id": "40059fae22b6fcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guard Passes/Body Lock Pass/High Body Lock Pass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "High Body Lock Pass"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "e2354413bb2678a1",
-        "type": "tabs",
-        "dimension": 47.651006711409394,
-        "children": [
-          {
-            "id": "212a585ab4164d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Template"
-            }
-          },
-          {
-            "id": "422279bc6726cf53",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -118,7 +550,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "head quarters",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -260,6 +692,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false,
@@ -272,55 +705,55 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "7866627b2bd9d7b9",
+  "active": "564f1b43d5c7cb38",
   "lastOpenFiles": [
-    "Positions/Knee On Belly.md",
-    "Submissions/Straight Ankle Lock.md",
-    "Transitions/Berimbolo.md",
-    "Transitions/Arm Drag.md",
-    "Template/Template.md",
-    "Guard Passes/Long Step.md",
-    "Grips/Baseball Bat Grip.md",
-    "Transitions/Gator Roll.md",
-    "Transitions/Gramby Roll.md",
-    "Submissions/Bow & Arrow Choke.md",
-    "Submissions/Guillotine.md",
-    "Submissions/Omoplata.md",
-    "Competitions/2024-04-28 - Brewjitsu 2.md",
-    "Submissions/Side Triangle Choke.md",
-    "Guard Passes/Toreando.md",
-    "Guards/Lasso-DLR Guard.md",
-    "Guards/Ashi Garami.md",
-    "Positions/Front Headlock.md",
-    "Submissions/Von Flue Choke.md",
-    "Guards/Half Guard.md",
-    "Guard Passes/Smash Pass.md",
-    "Guards/Supine Guard.md",
-    "Grips/Cross Pant Grip.md",
-    "Guard Passes/Shin Slice.md",
-    "Seminars/Paul Schreiner's Seminar.md",
-    "Seminars/Harry's Takedown Workshop.md",
+    "Nodes/Transitions/Wrestle-up.md",
+    "Seminars/Nick and Danny's Seminar (4-30 - 5-3-2024).md",
+    "Nodes/Takedowns/Knee Tap.md",
+    "Nodes/Positions/Inside Camp/High-Head Inside Camp.md",
+    "Nodes/Positions/Inside Camp/J-point.md",
+    "Nodes/Positions/Inside Camp",
+    "Nodes/Guards/1-4 Guard.md",
+    "Nodes/Guard Passes/X-pass.md",
+    "Untitled.base",
+    "Nodes/Positions/Headquarters.md",
+    "Nodes/Submissions/Heel Hook/Inside Heel Hook.md",
+    "Nodes/Submissions/Heel Hook/Heel Hook.md",
+    "Nodes/Guards/Sit Up Guard.md",
+    "Nodes/Guards/50-50.md",
+    "Nodes/Submissions/Baseball Bat Choke.md",
+    "Nodes/Submissions/Guillotine/Arm-out Guillotine.md",
+    "Nodes/Submissions/Guillotine/Guillotine.md",
+    "Nodes/Submissions/Guillotine/Arm-in Guillotine.md",
+    "Nodes/Submissions/Guillotine/desktop.ini",
+    "Nodes/Submissions/Guillotine",
+    "Nodes/Positions/Front Headlock.md",
+    "Nodes/Transitions/Gator Roll.md",
+    "Nodes/Guards/Lasso-50-50 Guard.md",
+    "Nodes/Submissions/Single Wing.md",
+    "Nodes/Transitions/Gramby Roll.md",
+    "Nodes/Guard Passes/Body Lock Pass/Front Body Lock Pass.md",
+    "Concepts/Head Trap.md",
+    "Nodes/Sweeps/Pendulum Sweep.md",
+    "Leg Lock.md",
+    "Systems/Straightjacket System.md",
+    "Nodes/Submissions/Heel Hook",
+    "Nodes/Guard Passes/Body Lock Pass/desktop.ini",
+    "Nodes/Guard Passes/Body Lock Pass",
+    "Concepts",
+    "Nodes",
+    "Systems",
     "Pasted image 20250617002332.png",
     "Pasted image 20250113140713.png",
-    "Punch Choke",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Competitions - Copy",
-    "Competitions",
-    "New Text Document.txt",
     "Pasted image 20240907002539.png",
     "Pasted image 20240602100909.png",
     "Pasted image 20240602100859.png",
     "Pasted image 20240507104318.png",
-    "Seminars",
     "Pasted image 20240503114256.png",
     "Pasted image 20240503114244.png",
     "Pasted image 20240501124457.png",
-    "Pasted image 20240501103457.png",
-    "Paul Schreiner Seminar",
-    "Template",
-    "Grips",
-    "Guard Pulls",
-    "Takedowns"
+    "Pasted image 20240501103457.png"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-tag: #hide",
+  "collapse-filter": false,
+  "search": "-tag: #hide tag:#straightjacketsystem  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.03840398940654735,
-  "close": true
+  "scale": 0.05384173635435406,
+  "close": false
 }
