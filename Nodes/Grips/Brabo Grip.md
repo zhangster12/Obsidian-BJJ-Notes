@@ -11,7 +11,7 @@ The <u>Brabo Grip</u> is a powerful grip in the gi, where you control the oppone
 - [KOB](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FKnee%20On%20Belly):
 - [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control):
 # Keys
-- To make this grip difficult to escape, pull the lapel **as tightly as possible** to the opponent’s neck (carotid artery) and keep your elbows tight.
+- **Tight grip**: Pull the lapel **as tightly as possible** to the opponent’s neck and keep your elbows tight.
 ## Troubleshooting
 - 
 # Transitioning
@@ -27,6 +27,9 @@ The <u>Brabo Grip</u> is a powerful grip in the gi, where you control the oppone
 ## Positions
 - [[Side Control]]:
 	- [Chest-to-Chest Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FChest-to-Chest%20Half%20Guard):
+## Transitions
+- [[Arm Drag]]: With the passer’s posture push one of their arms across your body.
+	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
 # Defense
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): Before the lapel grip is passed back to the other hand, lower their head and push the grip off.

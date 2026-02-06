@@ -3,8 +3,10 @@ The <u>Dummy Sweep</u>, or <u>Idiot Sweep</u>, involves catching both the passer
 
 ![Dummy Sweep](https://thebjjnotebook.wordpress.com/wp-content/uploads/2019/01/giphy.gif)
 # Setup
+- **Grab both pants/ankles**: 
 ## Guards
 - [Ashi Garami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami):
+- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Nodes%2FGuards%2FClosed%20Guard):
 - [Seated Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSeated%20Guard):
 - [Supine Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSupine%20Guard):
 # Keys

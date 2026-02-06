@@ -5,7 +5,7 @@
 # Entry
 - **Guard pass**: Enter <u>Side Control</u> from passing the guard.
 # Keys
-- Underhook and overhook.
+- [[Diagonal Control]]:
 - Drive the over hook into their face to turn it.
 - Keep one knee at the hip and the other under the near side shoulder.
 - Dynamically pin the bottom player and switch from position to position.

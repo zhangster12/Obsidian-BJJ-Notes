@@ -20,7 +20,7 @@
 - [[Deep DLR-X Guard]]: If the passer keeps the front knee up and the back knee down.
 - [[Lasso Guard]]:
 ## Submissions
-- [[Triangle Choke]]: If the passer brings their leg up, bridge into a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke).
+- [[Triangle Choke (Guard)]]: If the passer brings their leg up, bridge into a [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke).
 ## Sweeps
 - [[Scissor Sweep]]: Since the passer is kneeling, pull their bottom arm, while extending their top arm. Block the outside of their knee as you turn him over. [Link](https://www.instagram.com/p/DHHV668BoiL/?hl=en)
 # Variations

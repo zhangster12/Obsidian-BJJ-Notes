@@ -22,7 +22,7 @@ The <u>Lasso Guard</u> is an open guard where you use your leg and sleeve contro
 - [[Spider-Lasso Guard]]: Your other foot is planted on the bicep, and you’re controlling the sleeve.
 # Transitioning
 ## Submissions
-- [[Triangle Choke]]: Control the triceps, then shoot your legs up.
+- [[Triangle Choke (Guard)]]: Control the triceps, then shoot your legs up.
 ## Sweeps
 - [[Lasso Hook Sweep]]:
 - [[Lasso-Lever Sweep]]:

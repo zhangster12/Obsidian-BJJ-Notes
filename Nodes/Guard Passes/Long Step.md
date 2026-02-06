@@ -18,6 +18,7 @@ The <u>Long Step</u> is a pass that disentangles you away from the legs of the g
 # Transitioning
 ## Passes
 - [[Leg Drag]]: If the guard player maintains connection to the legs.
+	- [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Nodes%2FGuards%2FDe%20La%20Riva): 
 ## Positions
 - [[Knee On Belly]]:
 - [[Side Control]]: Keep control of the leg or switch to the bottom pant grip and push the bottom player over.

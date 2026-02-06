@@ -1,4 +1,5 @@
 # Overview
+The <u>Cow Catcher</u> is a move from Front headlock, using a chin strap grip and an underhook to control the opponent's head and arm.
 
 ![Cow Catcher](https://cdn.evolve-university.com/wp-content/uploads/2024/06/cow-catcher-bjj.jpg)
 # Setup

@@ -8,6 +8,8 @@ This variation of an <u>Armbar</u> is from your guard.
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): If their elbow is pulled past your centerline.
 - [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock): (1) Bring your far knee across the passer’s face into a traditional <u>Armbar from Guard</u>, or (2) bring their elbow to your hip bone from [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock).
+## Submissions
+- [[Triangle Choke (Guard)]]: If the top player brings their other arm in, bring your outside leg over their head. 
 # Keys
 - **Head/upper body control**: Be heavy with your hamstrings on their head/upper body, and point your feet toward their head for extra pressure.
 - **Arm/wrist control**: Pinch your knees and grab their hand to prevent elbow bending or arm rotation.
@@ -17,13 +19,10 @@ This variation of an <u>Armbar</u> is from your guard.
 # Transitioning
 ## Positions
 - [[Reverse Triangle]]: If the passer pulls their arm out.
-	- [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock): 
 - [[Trap Triangle]]: If the passer pulls their arm out, use this as a hub to transition to other [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke) variations.
-	- [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock):
 ## Submissions
-- [[Armbar]]: (1) If the passer falls over.
-- [[Triangle Choke]]: If the passer pulls their arm out.
-	- [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock):
+- [[Armbar]]: If the passer falls over or grab their leg to sweep them over.
+- [[Triangle Choke (Guard)]]: If the passer pulls their arm out.
 # Defense
 - **Stack and pressure**:
 - 

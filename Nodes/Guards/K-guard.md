@@ -17,7 +17,7 @@
 ## Positions
 - [[Back]]:
 ## Submissions
-- [[Triangle Choke]]: If the passer is kneeling, push them away to bridge the hips. [Link](https://youtu.be/abMZW1GXS5I?si=oyJY44wr5SGVv7g_&t=53)
+- [[Triangle Choke (Guard)]]: If the passer is kneeling, push them away to bridge the hips. [Link](https://youtu.be/abMZW1GXS5I?si=oyJY44wr5SGVv7g_&t=53)
 # Variations
 - **Kneeling**:
 - **Standing**:

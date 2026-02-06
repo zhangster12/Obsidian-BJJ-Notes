@@ -1,4 +1,5 @@
 # Overview
+The <u>Lasso-Lever Sweep</u> is a sweep from [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard) that involves turning your Lasso hook out to sweep. This is different from the [Merigali Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Nodes%2FSweeps%2FLasso%20Hook%20Sweep), where you’re hooking onto the opposite leg.
 # Setup
 ## Guards
 - [Lasso Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FLasso%20Guard): Lower the other knee to bait the passer into passing.

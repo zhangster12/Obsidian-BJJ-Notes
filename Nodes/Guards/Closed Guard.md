@@ -49,7 +49,7 @@ The <u>Closed Guard</u> is when the passer is locked between your legs, preventi
 - [[Ezekiel Choke]]:
 - [[Kimura]]:
 - [[Omoplata]]:
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 ## Sweeps
 - [[Hip Bump Sweep]]: If the passer’s posture is high. Setup by breaking their posture, and as they posture up, sweep.
 - [[Muscle Sweep]]: If they stand up with both of their feet square to you.

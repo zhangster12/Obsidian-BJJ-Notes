@@ -17,8 +17,11 @@ The <u>KOB</u>, or <u>Knee Ride</u>, is a floating pin where you use your knee t
 - **Far underhook**: If the bottom player is pushing with their far arm, underhook and step over the head for [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar) or [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura).
 ## Grips
 - [[Brabo Grip]]:
-# Escape
-- Block the knee:
+## Submissions
+- [[Kimura (North-South)]]:
+# Counter
+- **Block the knee**: Prevent the top player’s knee from cutting across your stomach.
+
 # Variations
 - 
 # References

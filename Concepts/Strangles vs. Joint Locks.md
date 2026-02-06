@@ -6,7 +6,7 @@ Strangles are always superior to joint locks, because your opponent will become 
 - 
 # Applications
 ## Systems
-- [[Straightjacket System]]:
+- [[Straightjacket System]]: This system allows you to attack your opponent where they’re the most vulnerable with strangles.
 # Drills
 - 
 # References

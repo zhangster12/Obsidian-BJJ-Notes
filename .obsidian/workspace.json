@@ -4,311 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "cd57511de64fc108",
+        "id": "c92bd86b859139d4",
         "type": "tabs",
         "children": [
           {
-            "id": "efaa5850e734ab2c",
+            "id": "7949cda7bedee0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inside Heel Hook.md",
+                "file": "Nodes/Submissions/Bread Cutter Choke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inside Heel Hook"
+              "title": "Bread Cutter Choke"
             }
           },
           {
-            "id": "ce527d87d8fe22ed",
+            "id": "a3898ebc2db2a065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Spinal Alignment on the Back.md",
+                "file": "Concepts/Diagonal Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Spinal Alignment on the Back"
+              "title": "Diagonal Control"
             }
           },
           {
-            "id": "3ae1afc39f71421f",
+            "id": "7967ae5be29c65e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Positions/Side Control.md",
+                "file": "Nodes/Positions/Mount/Technical Mount.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Side Control"
+              "title": "Technical Mount"
             }
           },
           {
-            "id": "1ce7f1443bffe831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guard Passes/Gator Roll Pass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gator Roll Pass"
-            }
-          },
-          {
-            "id": "2d0aae592bf56544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guard Passes/Leg Trap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Leg Trap"
-            }
-          },
-          {
-            "id": "f08db491afec7f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/Closed Guard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Closed Guard"
-            }
-          },
-          {
-            "id": "e4d72216a6029b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Sweeps/G-roll Sweep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "G-roll Sweep"
-            }
-          },
-          {
-            "id": "e8ab4778a3296f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/Dogfight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dogfight"
-            }
-          },
-          {
-            "id": "38109c0305a7aa85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Gramby Roll.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gramby Roll"
-            }
-          },
-          {
-            "id": "b1e21e8bff1ef434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Cow Catcher.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cow Catcher"
-            }
-          },
-          {
-            "id": "3ca5004fc69304fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/50-50.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "50-50"
-            }
-          },
-          {
-            "id": "f2215bf5b3f4b5dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Positions/Knee On Belly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Knee On Belly"
-            }
-          },
-          {
-            "id": "c9b00366228289ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/Lasso-DLR Guard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lasso-DLR Guard"
-            }
-          },
-          {
-            "id": "afeb84c523fd287e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leg Lock.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Leg Lock"
-            }
-          },
-          {
-            "id": "620305fbdf50f368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Sweeps/Pendulum Sweep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Pendulum Sweep"
-            }
-          },
-          {
-            "id": "7efd993f24c89286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Head Trap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Head Trap"
-            }
-          },
-          {
-            "id": "22e3b1dac756d945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guard Passes/Body Lock Pass/Front Body Lock Pass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Front Body Lock Pass"
-            }
-          },
-          {
-            "id": "ff02cb799d373cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Gramby Roll.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gramby Roll"
-            }
-          },
-          {
-            "id": "5a4a0c7f8040620d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Submissions/Single Wing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Single Wing"
-            }
-          },
-          {
-            "id": "257288f658f9880a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/Lasso-50-50 Guard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lasso-50-50 Guard"
-            }
-          },
-          {
-            "id": "1c1c147632c8ed88",
+            "id": "2d861c2492fe7703",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -323,202 +68,82 @@
             }
           },
           {
-            "id": "07c75b64b02ff3cf",
+            "id": "e5d81d17c1b3c30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Submissions/Guillotine.md",
+                "file": "Nodes/Positions/Turtle/Turtle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Guillotine"
+              "title": "Turtle"
             }
           },
           {
-            "id": "463d1d64dd4f0e9b",
+            "id": "d2ac87a1f0dcd028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Submissions/Guillotine/Arm-out Guillotine.md",
+                "file": "Nodes/Guard Passes/Shin Pin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arm-out Guillotine"
+              "title": "Shin Pin"
             }
           },
           {
-            "id": "7e40535c13459934",
+            "id": "9199d30fbe9a51f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Submissions/Baseball Bat Choke.md",
+                "file": "Nodes/Guards/Chest-to-Chest Half Guard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Baseball Bat Choke"
+              "title": "Chest-to-Chest Half Guard"
             }
           },
           {
-            "id": "8a039d3f5055c2f2",
+            "id": "da6b637d45ecb2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Guards/50-50.md",
+                "file": "Nodes/Grips/Brabo Grip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "50-50"
+              "title": "Brabo Grip"
             }
           },
           {
-            "id": "f04dc2abbf8c743d",
+            "id": "32a6228d76136c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Guards/Sit Up Guard.md",
+                "file": "Templates/Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sit Up Guard"
-            }
-          },
-          {
-            "id": "44129e248262e9c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guards/1-4 Guard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1-4 Guard"
-            }
-          },
-          {
-            "id": "4f1b1c03bc9150d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Positions/Inside Camp/High-Head Inside Camp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "High-Head Inside Camp"
-            }
-          },
-          {
-            "id": "4cf84286d1767672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Takedowns/Knee Tap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Knee Tap"
-            }
-          },
-          {
-            "id": "13f66c449a012009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminars/Nick and Danny's Seminar (4-30 - 5-3-2024).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nick and Danny's Seminar (4-30 - 5-3-2024)"
-            }
-          },
-          {
-            "id": "0c6a93594b51958e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Wrestle-up.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wrestle-up"
-            }
-          },
-          {
-            "id": "44c74a90ed4f902d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Wrestle-up.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wrestle-up"
-            }
-          },
-          {
-            "id": "564f1b43d5c7cb38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Takedowns/Osoto Gari.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Osoto Gari"
-            }
-          },
-          {
-            "id": "40059fae22b6fcd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guard Passes/Body Lock Pass/High Body Lock Pass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "High Body Lock Pass"
+              "title": "Systems"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -550,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "head quarters",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -705,44 +330,44 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "564f1b43d5c7cb38",
+  "active": "9199d30fbe9a51f2",
   "lastOpenFiles": [
+    "Concepts/Hooks.md",
+    "Concepts/Strangles vs. Joint Locks.md",
+    "Concepts/Guard Retention.md",
+    "Nodes/Guards/De La Riva.md",
+    "Nodes/Guard Passes/Long Step.md",
     "Nodes/Transitions/Wrestle-up.md",
-    "Seminars/Nick and Danny's Seminar (4-30 - 5-3-2024).md",
-    "Nodes/Takedowns/Knee Tap.md",
-    "Nodes/Positions/Inside Camp/High-Head Inside Camp.md",
-    "Nodes/Positions/Inside Camp/J-point.md",
-    "Nodes/Positions/Inside Camp",
-    "Nodes/Guards/1-4 Guard.md",
-    "Nodes/Guard Passes/X-pass.md",
+    "Nodes/Grips/Brabo Grip.md",
+    "Nodes/Guards/X-guard.md",
+    "Nodes/Guards/De.md",
+    "Movements/Technical Standup.md",
+    "Templates/Movement.md",
+    "Concepts/Default Principle.md",
+    "Nodes/Guards/Ashi Garami.md",
+    "Templates/Systems.md",
+    "Templates/Concepts.md",
+    "Untitled",
     "Untitled.base",
-    "Nodes/Positions/Headquarters.md",
-    "Nodes/Submissions/Heel Hook/Inside Heel Hook.md",
-    "Nodes/Submissions/Heel Hook/Heel Hook.md",
-    "Nodes/Guards/Sit Up Guard.md",
-    "Nodes/Guards/50-50.md",
-    "Nodes/Submissions/Baseball Bat Choke.md",
-    "Nodes/Submissions/Guillotine/Arm-out Guillotine.md",
-    "Nodes/Submissions/Guillotine/Guillotine.md",
-    "Nodes/Submissions/Guillotine/Arm-in Guillotine.md",
-    "Nodes/Submissions/Guillotine/desktop.ini",
-    "Nodes/Submissions/Guillotine",
-    "Nodes/Positions/Front Headlock.md",
-    "Nodes/Transitions/Gator Roll.md",
-    "Nodes/Guards/Lasso-50-50 Guard.md",
-    "Nodes/Submissions/Single Wing.md",
-    "Nodes/Transitions/Gramby Roll.md",
-    "Nodes/Guard Passes/Body Lock Pass/Front Body Lock Pass.md",
-    "Concepts/Head Trap.md",
-    "Nodes/Sweeps/Pendulum Sweep.md",
-    "Leg Lock.md",
-    "Systems/Straightjacket System.md",
-    "Nodes/Submissions/Heel Hook",
-    "Nodes/Guard Passes/Body Lock Pass/desktop.ini",
-    "Nodes/Guard Passes/Body Lock Pass",
-    "Concepts",
-    "Nodes",
-    "Systems",
+    "Movements",
+    "Untitled.md",
+    "Concepts/Diagonal Control.md",
+    "Concepts/Crossface.md",
+    "Nodes/Positions/Side Control.md",
+    "Nodes/Guard Passes/Untitled.md",
+    "Nodes/Submissions/Americana.md",
+    "Nodes/Sweeps/Butterfly Sweep.md",
+    "Nodes/Guard Passes/Shin Pin.md",
+    "Nodes/Guard Passes/Circle Pass.md",
+    "Concepts/Dilemmas.md",
+    "Concepts/Spinal Alignment on the Back.md",
+    "Nodes/Positions/Mount/desktop.ini",
+    "Nodes/Positions/Mount",
+    "Nodes/Submissions/Armbar",
+    "Nodes/Submissions/Triangle Choke",
+    "Nodes/Positions/Turtle",
+    "Nodes/Submissions/Kimura",
+    "Nodes/Positions/Kimura",
     "Pasted image 20250617002332.png",
     "Pasted image 20250113140713.png",
     "Untitled 1.canvas",

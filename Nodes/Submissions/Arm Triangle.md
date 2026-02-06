@@ -3,8 +3,6 @@ The <u>Arm Triangle</u> or <u>Head and Arm Choke</u> are generic terms describin
 ![Arm Triangle No-gi](https://www.bjjee.com/wp-content/uploads/2021/10/arm-triangle-roger-gracie.jpg)
 # Setup
 - Mount
-# Passing
-- 
 # Retention/Keys
 - 
 ## Troubleshooting

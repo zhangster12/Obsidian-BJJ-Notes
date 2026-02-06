@@ -3,6 +3,7 @@
 
 ![Omoplata](https://evolve-mma.com/wp-content/uploads/2018/06/bjj-omoplata-e1639445661716.jpg)
 # Setup
+- **Elbow separation**: If the top player is keeping their elbows close to their elbow, you need to separate that otherwise, there’s no <u>Omoplata</u>.
 ## Guards
 - Closed Guard:
 - Collar Sleeve: Bring their wrist to your back pocket.

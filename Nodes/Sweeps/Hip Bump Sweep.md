@@ -19,7 +19,7 @@ The <u>Hip Bump Sweep</u> is a technique that unbalances the passer towards a di
 - [[Reverse Triangle]]:
 ## Submissions
 - [[Kimura]]: If the passer drives into you.
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 # Defense
 - 
 # References

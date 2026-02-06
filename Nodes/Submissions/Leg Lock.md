@@ -9,8 +9,8 @@ A <u>Leg Lock</u> is a joint lock that is directed at joints of the leg such as 
 - 
 # Types
 - [[Heel Hook]]:
-- [[Knee Bar]]:
-- 
+- [[Kneebar]]:
+- [[Straight Arm Lock]]:
 # References
 - 
 # Tags

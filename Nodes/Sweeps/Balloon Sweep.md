@@ -14,8 +14,6 @@ The <u>Balloon Sweep</u> is a sweep where you send the passer over your head.
 - [[Mount]]: Roll into top position.
 # Defense
 - Tuck your chin.
-# Variations
-- 
 # References
 - 
 # Tags

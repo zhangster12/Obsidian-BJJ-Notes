@@ -3,7 +3,7 @@
 
 ![Seated Guard](https://i.ytimg.com/vi/s1tPIdANAOQ/maxresdefault.jpg)
 # Entry
-- **Guard pull**: (1) Sit down or (2) grab an arm then sit down.
+- **Guard pull**: Sit down or grab an arm then sit down.
 ## Guards
 - [Closed Guard:](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
 # Passing

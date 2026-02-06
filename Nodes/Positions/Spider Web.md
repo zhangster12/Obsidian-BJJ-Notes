@@ -11,7 +11,7 @@ The <u>Spider Web</u> is a pinning position where you’ve isolated one of the b
 # Transitioning
 ## Submissions
 - [[Armbar]]:
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 # Defense
 - 
 # Variations

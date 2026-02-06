@@ -19,7 +19,7 @@
 ## Positions
 - [[Turtle]]:
 ## Submissions
-- [[Side Triangle Choke]]:
+- [[Triangle Choke (Side)]]:
 # Variations
 - **Standing**:
 - [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle):

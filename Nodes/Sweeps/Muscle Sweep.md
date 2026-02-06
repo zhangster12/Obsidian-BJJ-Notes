@@ -17,8 +17,8 @@ The <u>Muscle Sweep</u> is a sweep that can be used when the passer stands up in
 ## Positions
 - [[Mount]]: Sweep into [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount).
 ## Submissions
-- [[Mounted Triangle]]:
-- [[Triangle Choke]]:
+- [[Triangle Choke (Mount)]]:
+- [[Triangle Choke (Guard)]]:
 # Defense
 - Push down on the knee or hips.
 - Step one foot back.

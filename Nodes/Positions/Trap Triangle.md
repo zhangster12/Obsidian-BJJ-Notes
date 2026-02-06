@@ -8,7 +8,7 @@ The <u>Trap Triangle</u> is when you’ve isolated the head and arm in the guard
 - 
 # Transitioning
 ## Submissions
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 # Escape
 - 
 # References

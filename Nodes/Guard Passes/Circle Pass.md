@@ -17,7 +17,8 @@ The <u>Circle Pass</u> is a pass where you circle around the guard player’s le
 - [[Knee Cut]]: If the guard player tracks you with their feet, pin their leg.
 ## Positions
 - [[J-point]]: Instead of a [Leg Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guard%20Passes%2FLeg%20Drag), camp the position to fatigue the guard player.
-- [[North-South]]: Walk around, then drop your chest down.
+- [[Knee On Belly]]: With one hand on the hip and the other at the knee, walk as if you're performing a Knee Cut, then slightly push their knee away and step your foot into the gap above their knee.
+- [[North-South]]: Walk around over their head, then drop your chest down.
 - [[Side Control]]: If there are no frames, drop your weight.
 - [[Turtle]]: If they feel danger, they may roll into [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FTurtle.).
 # Defense

@@ -1,11 +1,13 @@
 # Overview
-Diagonal Control is the idea of controlling your opponent diagonally while on the [[Back]] to prevent them from rotating into you and escaping.
+<u>Diagonal Control</u> is the idea of controlling your opponent diagonally while on the [[Back]] or other dominant positions to prevent them from rotating into you and escaping.
 
 ![Cross Body Control](https://cdn.evolve-mma.com/wp-content/uploads/2025/01/bjj-diagonal-control.jpg)
 # Core Mechanics
 - **Overhook and underhook**: While using a seat belt, pinch your elbows with one in front of your opponent’s shoulder, and one behind. Your elbows are the tools controlling them, not the clasp of your hands. This is important because you’ll have to open your hands to strangle.
-- **Hooks**: Hooks prevent lower body movement. If you only have one hook and one hand, they have to be on opposite sides. If there are no hands, two overhooks, or two underhooks, then you have both hooks.
+- **Hooks**: While on the [[Back]], hooks prevent lower body movement. If you only have one hook and one hand, they have to be on opposite sides. If there are no hands, two overhooks, or two underhooks, then you have both hooks.
 # Applications
+## Positions
+- [[Side Control]]:
 ## Systems
 - [[Straightjacket System]]:
 # Drills

@@ -29,7 +29,7 @@
 - [[Omoplata]]: If they bend their arm back to defend a [Straight Arm Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FStraight%20Arm%20Lock), you can also use your legs.
 - [[Punch Choke]]: 
 - [[Straight Arm Lock]]: Scoop their arm over their shoulder.
-- [[Triangle Choke]]: If they posture up.
+- [[Triangle Choke (Guard)]]: If they posture up.
 - [[Wrist Lock]]: If the Straight Arm Lock doesn’t work and you’ve isolated an arm, attack the wrist.
 # Variations
 - **Knee in front of the face**: Place your bottom leg in front of the passer’s near side neck with your foot hooking at the armpit.

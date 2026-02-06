@@ -6,14 +6,19 @@
 ## Guards
 - [Half Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FHalf%20Guard): Pommel your arms for underhooks.
 # Passing
+- [[Crossface]]: This prevents the guard player from turning their head, which prevents them from rotating their body. The more you bring your head to their hip, the worse it becomes.
+- [[Diagonal Control]]: By pinning the hip and the opposite side shoulder, you prevent them from rotating and sitting up. They will still be able to sit up if you’re controlling the same side shoulder.
+- Hips above their hips: DOn’t place your hips directly above theirs, place it a few inches above theirs otherwirse you’ll get bridged. When the bottom player bridges step into mount because their weight is on their feet
 - **Free the knee**: By freeing the knee, you prevent the guard player from controlling your hip.
 ## Grips
-- [[Brabo Grip]]: Use the grip to force the passer’s elbow open so you can underhook.
+- [[Brabo Grip]]: Use the grip to force the passer’s elbow open so you can underhook. It also turns their head and pins the opposite side shoulder.
 ## Guards
 - [[Reverse Half Guard]]:
 ## Passes
 - [[High Body Lock Pass]]: Get two underhooks.
 - [[Tripod Pass]]: (1) Flare the elbows, tripod up, use a hook to free your leg to pass into [Side Control](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FSide%20Control) or [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount). When passing to [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount), separate the guard player’s knees and elbows, or they can sweep you. (2) Walk yourself 45 deg away from them, then push their legs away as you drive forward.
+## Positions
+- [[Mount]]: If the guard player bridges, their feet are on the mat, which means their weight is not on your leg, so you can step over.
 # Retention
 - 
 ## Troubleshooting

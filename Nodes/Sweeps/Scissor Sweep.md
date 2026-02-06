@@ -20,7 +20,7 @@ The <u>Scissor Sweep</u> is a technique characterized by the scissoring motion o
 ## Positions
 - [[Mount]]: Sweep into top position.
 ## Submissions
-- [[Triangle Choke]]: With the Collar Sleeve Grip, youll have isolated a head and arm, so you can shoot a Triangle.
+- [[Triangle Choke (Guard)]]: With the Collar Sleeve Grip, youll have isolated a head and arm, so you can shoot a Triangle.
 # Defense
 - 
 # Variations

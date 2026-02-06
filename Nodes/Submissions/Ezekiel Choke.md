@@ -5,10 +5,10 @@ The <u>Ezekiel Choke</u> is a choke that involves applying pressure to an oppone
 
 ![Ezekiel Choke No-gi](https://www.elitesports.com/cdn/shop/articles/ultimate-guide-to-set-up-the-ezekiel-choke.jpg?v=1719592963&width=1200)
 # Entry
-- **Double underhooks**: When the opponent has double underhooks.
+- **Double underhooks**: When the opponent has double underhooks. When passing or advancing position, threaten this to make them open their elbows.
 ## Guards
 - [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard):
-- Half Guard: 
+- [[Chest-to-Chest Half Guard]]:
 ## Positions
 - [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount): With a crossface, grab the opposite side sleeve, turn the bottom player’s head, bring your other arm over their neck and under their chin, and extend your arms.
 # Keys
@@ -20,8 +20,8 @@ The <u>Ezekiel Choke</u> is a choke that involves applying pressure to an oppone
 # Defense
 - **Grab the hand**: Prevent your opponent from getting their hand to the other side of your neck.
 # Variations
-- 
+- **No-gi**:
 # References
 - [BJJ 101: Ezekiel Choke](https://evolve-mma.com/blog/bjj-101-ezekiel-choke/)
 # Tags
-#gi #submission 
+#gi #nogi #submission 

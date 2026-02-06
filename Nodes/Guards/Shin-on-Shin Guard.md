@@ -13,7 +13,7 @@
 # Transitioning
 ## Guards
 - [[Ashi Garami]]: Roll between their legs.
-- [[X-guard]]
+- [[X-guard]]:
 ## Sweeps
 - [[Ankle Pick Sweep]]: Capture the other ankle as you drive your head into the side of their knee.
 - [[Tripod Sweep]]:

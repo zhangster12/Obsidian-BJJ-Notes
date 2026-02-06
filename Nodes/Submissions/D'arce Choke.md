@@ -12,7 +12,7 @@ The <u>D’arce</u>, or no-gi [Brabo Choke](obsidian://open?vault=Obsidian-BJJ-N
 # Transitioning
 - 
 # Defense
-- 
+- **Keep your base**: ([1](https://www.youtube.com/shorts/zE-oOVNe8R0)) Stay on your knees and prevent the top player from breaking you down to your side.
 # Variations
 - 
 # References

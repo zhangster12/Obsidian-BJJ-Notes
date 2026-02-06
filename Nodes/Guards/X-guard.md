@@ -23,7 +23,7 @@ The <u>X-guard</u> is when your legs are controlling a passer’s leg like an X.
 - [[Back]]:
 ## Submissions
 - [[Straight Ankle Lock]]:
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 ## Sweeps
 - [[Tripod Pass]]: Lower one hook to the passer’s foot and push the other at the hip. [Link](https://www.youtube.com/watch?v=5SkgNz0iwbw)
 ## Transitions

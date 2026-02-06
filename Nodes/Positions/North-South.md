@@ -13,6 +13,7 @@
 - [[S-mount]]:
 - [[Side Control]]:
 ## Submissions
+- [[Kimura (North-South)]]:
 - [[North-South Choke]]:
 # Escape
 - 

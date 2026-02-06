@@ -17,7 +17,7 @@
 - [[Spider-Lasso Guard]]:
 - [[Spider Guard]]: Switch your feet to their biceps.
 ## Submissions
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 ## Sweeps
 - [[Balloon Sweep]]: Load the passer onto your feet.
 - [[Dummy Sweep]]: If both feet are reachable.

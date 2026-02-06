@@ -22,7 +22,7 @@ The <u>Mount</u> is one of the most dominant positions, where you’re sitting o
 - [[Cross Choke]]:
 - [[Ezekiel Choke]]: Use this to separate the elbows.
 - [[Smother Choke]]:
-- [[Mounted Triangle]]:
+- [[Triangle Choke (Mount)]]:
 # Escape
 - **Frames**: Use your elbows to block the top player from advancing.
 - Double underhooks: When someone tries for double underhooks, shoot your hand through their armpits.

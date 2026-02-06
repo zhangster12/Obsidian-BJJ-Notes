@@ -3,19 +3,21 @@
 
 ![DLR](https://www.bjjheroes.com/wp-content/uploads/2014/06/De-La-Riva-Guard1.jpg)
 # Entry
-- When the passer steps forward with one leg.
+- **One leg forward**: When the passer steps forward with one leg, you can hook onto it. Otherwise, if the step with no legs or both legs, attack their upper body or sweep with both legs, respectively.
 ## Guards
 - [Collar Sleeve](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FCollar%20Sleeve%20Guard):
 - [Spider Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FSpider%20Guard):
 # Passing
 - **Kill the hook**: (1) Extend your leg, (2) push it down, or (3) reach under your own leg to push the hook down. To prevent the guard player from re-hooking, turn your knee out and drive it out.
+- **Break the ankle grip**:
 - **Push down on the frame**: After pushing down, place their leg between your legs. (1) Drive your other knee into their thigh of their other leg or ([2](https://www.impact-athletes.com/members/dlr-to-side-smash-pass/)) place their shin below your knees.
 ## Guards
 - [[Half Guard]]: If the guard player strips your grips.
 ## Passes
 - [[Knee Cut]]:
-- [[Leg Drag]]:
-- [[Smash Pass]]: 
+- [[Leg Drag]]: Bring the guard player’s non-hooked leg into the hip pocket on the same side as their other leg ([1](https://www.youtube.com/shorts/SWw1efiXxpc)). 
+- [[Long Step]]: Shin slice over the hooked leg as you windshield wipe your legs ([1](https://www.youtube.com/watch?v=Yt5olwa2v8k)).
+- [[Smash Pass]]: Shin slice your knee over the hooked leg to break the grip as you drop your weight over their knees.
 ## Positions
 - [[Headquarters]]: (1) Control the leg on your hip and squat on it or (2) if the passer pushes back.
 # Retention
@@ -39,7 +41,7 @@
 ## Positions
 - [[Back]]:
 ## Submissions
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 ## Sweeps
 - [[Split Sweep]]:
 - [[Tripod Sweep]]:

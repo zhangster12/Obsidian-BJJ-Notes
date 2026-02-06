@@ -25,7 +25,7 @@ The <u>Collar Sleeve Guard</u> is characterized by collar and sleeve control, wh
 - [[Collar Drag]]: Similarly to [Arm Drag](obsidian://open?vault=Obsidian-BJJ-Notes&file=Transitions%2FArm%20Drag), retain control of the collar to drag the arm across. 
 ## Submissions
 - [[Omoplata]]:
-- [[Triangle Choke]]:
+- [[Triangle Choke (Guard)]]:
 ## Sweeps
  - [[Tripod Sweep]]:
 # Variations

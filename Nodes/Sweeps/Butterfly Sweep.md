@@ -1,4 +1,5 @@
 # Overview
+A <u>Butterfly Sweep</u> is a sweep from Butterfly Guard, where you use your Butterfly hooks inside the top player's thighs and grips to lift their hips and roll them over your shoulder.
 
 ![Butterfly Sweep](https://www.bjjee.com/wp-content/uploads/2021/10/final_615f28a20827c4005ba3ec32_180848-1.png)
 # Setup

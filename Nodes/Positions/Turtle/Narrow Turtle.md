@@ -1,9 +1,10 @@
 # Overview
+Narrow Turtle is the variation of Turtle where your legs and elbows are tight.
 # Entry/Setup
 - 
-# Back
+# Passing
 - 
-# Retention/Keys
+# Core Mechanics
 - 
 ## Troubleshooting
 - 
@@ -11,9 +12,7 @@
 - 
 # Escape/Defense/Counter
 - 
-# Other Variations/Variations
-- 
 # References
 - 
 # Tags
-#hide
+{insert tags} #hide

@@ -16,13 +16,16 @@ The <u>Turtle</u> is a defensive position where you expose your back and curling
 - **Hook onto the far foot**: Kick away and torque their hip.
 ## Positions
 - [[Back]]:
+
+Break them down to a hip and then use a deep hip bone grip with your elbnow tucked and  knee over it to sag your weight down.
 ## Submissions
 - [[Armbar]]:
+- [[Clock Choke]]:
 # Escape
 - Recover guard.
 # Variations
 - **Wide**: Insert your knee between the bottom player’s knee and elbow.
-- **Narrow**: Roll them onto their side.
+- [[Narrow Turtle]]: Roll them onto their side.
 # References
 - [The Complete Guide To The BJJ Turtle Position](https://evolve-mma.com/blog/the-complete-guide-to-the-bjj-turtle-position/#:~:text=The%20turtle%20is%20a%20popular,mother%20of%20all%20defensive%20maneuvers.)
 # Tags

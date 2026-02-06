@@ -1,5 +1,5 @@
 # Overview
-The <u>Mounted Triangle</u> is when you have a head and arm isolated in Mount with your legs locked.
+The <u>Mounted Triangle</u> the variation of the Triangle Choke where you have a head and arm isolated in Mount with your legs locked.
 
 ![Mounted Triangle](https://www.bjjee.com/wp-content/uploads/2020/08/mounted-triangle-choke.jpg)
 # Setup
@@ -11,7 +11,7 @@ The <u>Mounted Triangle</u> is when you have a head and arm isolated in Mount wi
 - Trouble locking legs: Make the other side heavy so you can move your legs.
 # Transitioning
 ## Submissions
-- [[Triangle Choke]]: Dismount into guard.
+- [[Triangle Choke (Guard)]]: Dismount into guard.
 # Defense
 - Escape from underneath them.
 # References
