@@ -16,10 +16,10 @@ An <u>Arm Drag</u> is when drag one of the passer’s arms across their body.
 ## Guards
 - [[Top Lock]]: If the passer squares back up.
 ## Positions
-- [[Back]]: 
+- [[Nodes/Positions/Back]]: 
 - [[Mount]]:
 ## Submissions
-- [[Armbar]]: If the bottom player reaches for your arm, roll over their head.
+- [[Armbar (Temp)]]: If the bottom player reaches for your arm, roll over their head.
 ## Sweeps
 - [[Butterfly Sweep]]:
 - [[Pendulum Sweep]]: If the passer tries to square back in [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard) with their arm still across.

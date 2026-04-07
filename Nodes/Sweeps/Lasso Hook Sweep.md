@@ -11,7 +11,7 @@ The <u>Lasso Hook Sweep</u>, or the <u>Merigali Sweep</u>, is a sweep that uses 
 - [[Knee On Belly]]:
 - [[Mount]]:
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 # Defense
 - 
 # Variations

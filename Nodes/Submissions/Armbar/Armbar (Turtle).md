@@ -1,0 +1,1 @@
+- [Turtle]: Scoop the bottom player’s near side arm with your leg. [Link](https://www.youtube.com/watch?v=uUk00ZAD8Y0)

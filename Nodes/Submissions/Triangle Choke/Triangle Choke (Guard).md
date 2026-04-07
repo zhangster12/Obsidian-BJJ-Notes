@@ -23,7 +23,7 @@ The <u>Triangle Choke</u> is a choke that encircles the passer's neck and arm wi
 - **Passer stacks you**: Frame against your own leg while shoulder walking back before you cut an angle. [Link](https://www.youtube.com/watch?v=krq1YLXOZWs)
 # Transitioning
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Omoplata]]: If they place their arm behind you.
 # Escape
 - Frame on the hips and posture as high as possible to pop your shoulder out.

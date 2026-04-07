@@ -1,5 +1,5 @@
 # Overview
-The [[Back]] is the most dominant position in BJJ, because you have multiple high percentage submissions, while your opponent has very little. In addition, strangles are superior to joint locks, because while you can endure damage to a joint, you cannot endure a strangle, as you’ll become unconscious. However, because of the points system, athletes have no intention to submit from the [[Back]], only maintain.
+The [[Nodes/Positions/Back]] is the most dominant position in BJJ, because you have multiple high percentage submissions, while your opponent has very little. In addition, strangles are superior to joint locks, because while you can endure damage to a joint, you cannot endure a strangle, as you’ll become unconscious. However, because of the points system, athletes have no intention to submit from the [[Nodes/Positions/Back]], only maintain.
 
 Thus, John Danaher has devised the <u>Straightjacket System</u>, which takes advantage of the sequential nature of Back escapes.
 # Entry

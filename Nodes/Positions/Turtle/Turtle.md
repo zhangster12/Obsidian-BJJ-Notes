@@ -15,11 +15,11 @@ The <u>Turtle</u> is a defensive position where you expose your back and curling
 - **Armpit and triceps grip**: Simultaneously push their triceps away and pull their armpit.
 - **Hook onto the far foot**: Kick away and torque their hip.
 ## Positions
-- [[Back]]:
+- [[Nodes/Positions/Back]]:
 
 Break them down to a hip and then use a deep hip bone grip with your elbnow tucked and  knee over it to sag your weight down.
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Clock Choke]]:
 # Escape
 - Recover guard.

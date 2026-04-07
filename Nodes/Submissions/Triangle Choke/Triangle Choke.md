@@ -3,7 +3,7 @@ The <u>Triangle Choke</u> is a choke that encircles the passer's neck and arm wi
 
 ![Triangle Choke](https://gumacliftonnj.com/wp-content/uploads/2023/06/Mastering-the-Triangle-Choke-Essential-Tips-and-Variations.png)
 # Common Mechanics
-- **Head and arm isolation**:
+- **Head and arm isolation**: This allows you to strangle your opponent with their shoulder and your leg.
 ## Troubleshooting
 - 
 # Defense

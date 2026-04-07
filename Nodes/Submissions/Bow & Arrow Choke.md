@@ -1,4 +1,5 @@
 # Overview
+The <u>Bow & Arrow Choke</u> is a high percentage collar choke from the Back and the free arm controlling the closest leg.
 
 ![Bow & Arrow Choke](https://cdn.evolve-mma.com/wp-content/uploads/2019/11/bjj-bow-and-arrow-choke-e1641281205867.jpg)
 
@@ -15,6 +16,8 @@
 # Transitioning
 ## Positions
 - [[Mount]]:
+## Submissions
+- [[Triangle Choke (Back)]]: If you’re unable to finish the <u>Bow & Arrow</u>, pin the nearside arm to you.
 # Defense
 - 
 # Variations

@@ -9,7 +9,7 @@ The <u>Side Body Lock</u> is a variation of the [Body Lock Pass](obsidian://open
 - 
 # Transitioning
 ## Positions
-- [[Back]]:
+- [[Nodes/Positions/Back]]:
 - [[Mount]]:
 # Counter
 - 

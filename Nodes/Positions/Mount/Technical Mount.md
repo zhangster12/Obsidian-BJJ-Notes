@@ -13,7 +13,7 @@ The <u>Technical Mount</u> is a variation of [Mount](Nodes/Positions/Mount/Mount
 - 
 # Transitioning
 # Positions
-- [[Back]]:
+- [[Nodes/Positions/Back]]:
 ## Submissions
 - [[Bow & Arrow Choke]]:
 - [[Single Wing]]:

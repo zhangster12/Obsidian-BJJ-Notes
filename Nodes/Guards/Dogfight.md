@@ -17,7 +17,7 @@ The <u>Dogfight</u> is a variation of [Half Guard](obsidian://open?vault=Obsidia
 ## Passes
 - [[Leg Drag]]: If you’re having a hard time driving forward, move back, pull the nearside foot into your hip, then drive forward. [Link](https://www.youtube.com/shorts/9hFyCb6QHVM)
 ## Positions
-- [[Back]]: Shrug the whizzer off.
+- [[Nodes/Positions/Back]]: Shrug the whizzer off.
 ## Sweeps
 - [[Ankle Pick Sweep]]: Pull the guard player’s far ankle towards you as you drive forward. Control the ankle at their toes.
 - [[Knee Tap Sweep]]: Block their far knee as you drive forward to complete the sweep.

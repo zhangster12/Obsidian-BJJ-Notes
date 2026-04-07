@@ -1,5 +1,5 @@
 # Overview
-The <u>Split Sweep</u> is a sweep from DLR, where you split the passer’s base then sweeping them.
+The <u>Split Sweep</u> is a sweep from [DLR](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FDe%20La%20Riva), where you split the passer’s base then sweeping them.
 
 ![Split Sweep Gi](https://i.ytimg.com/vi/4aktZ7ZV22Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBGQOqw2BEWiZF1Vo-EN1ex5cOAzg)
 # Setup
@@ -14,7 +14,7 @@ The <u>Split Sweep</u> is a sweep from DLR, where you split the passer’s base 
 ## Passes
 - [[Knee Cut]]: 
 # Variations
-- No-gi: Instead
+- **No-gi**: Instead of a collar grip, grab onto the passer’s knee.
 # References
 - 
 # Tags

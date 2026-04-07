@@ -26,7 +26,7 @@ A <u>Cross Collar Grip</u> is a grip on the opponent’s opposite collar (i.e. y
 	- [High Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FHigh%20Mount):
 	- [Mount](obsidian://open?vault=Obsidian-BJJ-Notes&file=Positions%2FMount):
 ## Submissions
-- [[Armbar]]
+- [[Armbar (Temp)]]
 	- [Closed Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FClosed%20Guard): If the passer tries to stiff arm you to avoid having their posture broken, grab their arm to control it to enter [Top Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTop%20Lock) or [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FArmbar).
 - [[Cross Choke]]
 	- [Butterfly Guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FButterfly%20Guard):

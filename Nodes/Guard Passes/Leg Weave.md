@@ -16,6 +16,9 @@ The <u>Leg Weave</u> is a pressure pass that depends on properly pinning the gua
 ## Troubleshooting
 - 
 # Transitioning
+
+## Guards
+- [[Chest-to-Chest Half Guard]]: If the guard player opens their leg out wide or tries to Lever Sweep.
 ## Passes
 - [[Gator Roll Pass]]:
 - [[Leg Drag]]:

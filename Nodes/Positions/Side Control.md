@@ -19,17 +19,17 @@
 ## Positions
 - [[Knee On Belly]]:
 - [[Mount]]: Step over the bottom player.
-- [[North-South]]: Block their near side hip, tripod, and walk towards their head. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
+- [[North-South]]: Block their near side hip, tripod, and step over their head. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
 - [[S-mount]]:
 - [[Side Control]]:
-- [[Technical Mount]]: Block the near side hip and walk towards the other side. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16)
+- [[Technical Mount]]: Block the near side hip and walk towards the other side. [Link](https://www.youtube.com/watch?v=SZfpXrlMueg&list=PLEt17gB8NjJfyEwTlMr7ct8IAo225ei_f&index=16) Another option is to step over the near arm, pull their far arm towards you as you step over and around their head to force them onto their side. Step over their hip and then take the back.
 ## Submissions
 - [[Bicep Slicer]]:
 	- Lasso-Lever Sweep: If the sweep succeeds. [Link](https://www.youtube.com/watch?v=_KewfhqETXI)
 - [[Kimura]]:
 ## Submissions
 - [[Americana]]:
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Bread Cutter Choke]]: [Link](https://youtube.com/watch?v=25Phe--Jhu0)
 - [[D'arce Choke]]:
 - [[Kimura]]:

@@ -10,7 +10,7 @@ According to Wikipedia, “in a classical right-handed osotogari, tori steps nex
 ## Troubleshooting
 - 
 # Transitioning
-- [[Side Control]]:
+- [[Side Control]]: Land in top position.
 # Counter
 - [[Osoto Gari]]: One way to defend against someone doing an <u>Osoto Gari</u> is your own, by leaning forward.
 # Variations

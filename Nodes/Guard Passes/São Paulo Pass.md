@@ -18,7 +18,7 @@ The <u>São Paulo Pass</u>, also known as the <u>Tozi Pass</u> or hammerlock, is
 - [[Side Control]]: Step over the legs.
 ## Submissions
 - [[Kimura (Side Control)]]: After passing with the arm controlled, scoop your free hand under their shoulder, sit them up, and apply the [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura) ([1](https://www.youtube.com/watch?v=NCp6xctn1lQ&t=413s)).
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 	- [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura): If the [Kimura](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FKimura) fails, control the other arm and step over. [Link](https://youtu.be/NCp6xctn1lQ?si=I3VB44ahIH86txMF&t=220)
 # Defense
 - Push the head and neck away.

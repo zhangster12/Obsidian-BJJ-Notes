@@ -11,7 +11,7 @@ The <u>Guillotine</u>, named after the medieval torture device, is a choke that 
 # Defense
 - **Push the top leg over**: If the bottom player’s legs are not crossed, use your outside arm to push their leg over, so there’s less pressure on your back. Petr Yan does this against Merab in their 2nd fight in Round 4, 3:40 ([1](https://fullfightreplays.com/ufc-323-dvalishvili-vs-yan-2-full-fight-replays-december-6-2025)).
 # Variations
-- [[Arm-in Guillotine]]:
+- [[Arm-in Guillotine]]: 
 - [[Arm-out Guillotine]]:
 # References
 - 

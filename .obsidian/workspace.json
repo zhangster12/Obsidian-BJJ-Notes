@@ -8,142 +8,322 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7949cda7bedee0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Submissions/Bread Cutter Choke.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bread Cutter Choke"
-            }
-          },
-          {
-            "id": "a3898ebc2db2a065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Diagonal Control.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagonal Control"
-            }
-          },
-          {
-            "id": "7967ae5be29c65e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Positions/Mount/Technical Mount.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical Mount"
-            }
-          },
-          {
-            "id": "2d861c2492fe7703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Transitions/Gator Roll.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gator Roll"
-            }
-          },
-          {
-            "id": "e5d81d17c1b3c30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Positions/Turtle/Turtle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Turtle"
-            }
-          },
-          {
-            "id": "d2ac87a1f0dcd028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nodes/Guard Passes/Shin Pin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shin Pin"
-            }
-          },
-          {
             "id": "9199d30fbe9a51f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Guards/Chest-to-Chest Half Guard.md",
+                "file": "Nodes/Submissions/Armbar/Armbar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chest-to-Chest Half Guard"
+              "title": "Armbar"
             }
           },
           {
-            "id": "da6b637d45ecb2cb",
+            "id": "168f43138db43209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodes/Grips/Brabo Grip.md",
+                "file": "Nodes/Submissions/Armbar/Armbar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Brabo Grip"
+              "title": "Armbar"
             }
           },
           {
-            "id": "32a6228d76136c81",
+            "id": "6aeda65f0b969b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Systems.md",
+                "file": "Nodes/Positions/Mount/High Mount.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Systems"
+              "title": "High Mount"
+            }
+          },
+          {
+            "id": "38ca4edc512c0ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Ezekiel Choke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ezekiel Choke"
+            }
+          },
+          {
+            "id": "eda0e7847c58cc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Lapel-Lasso Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lapel-Lasso Guard"
+            }
+          },
+          {
+            "id": "e38c5736263deb1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Takedowns/Osoto Gari.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Osoto Gari"
+            }
+          },
+          {
+            "id": "4dfb201ea046d823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Triangle Choke/Triangle Choke (Back).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Triangle Choke (Back)"
+            }
+          },
+          {
+            "id": "e5bd9f97cdd6bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Triangle Choke/Triangle Choke (Mount).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Triangle Choke (Mount)"
+            }
+          },
+          {
+            "id": "96ebebba8336e1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Bicep Slicer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bicep Slicer"
+            }
+          },
+          {
+            "id": "d3a94f612dee6d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Lasso Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasso Guard"
+            }
+          },
+          {
+            "id": "037eb0be154d8dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/Shin-on-Shin Spider Guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Shin-on-Shin Spider Guard"
+            }
+          },
+          {
+            "id": "4e1caa2f2beb79b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Self-Frames.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-Frames"
+            }
+          },
+          {
+            "id": "452a4f4166ccc696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Crossface.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Crossface"
+            }
+          },
+          {
+            "id": "17b9de156e012865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Arm Triangle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Arm Triangle"
+            }
+          },
+          {
+            "id": "8cf79ec5a7739e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Sweeps/Split Sweep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Split Sweep"
+            }
+          },
+          {
+            "id": "9d77f641bc95360b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Top Hand Position.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Top Hand Position"
+            }
+          },
+          {
+            "id": "750e14c7ab8fb496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Takedowns/Standing Body Lock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Standing Body Lock"
+            }
+          },
+          {
+            "id": "5b8e59f039d5a926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Guillotine/Guillotine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Guillotine"
+            }
+          },
+          {
+            "id": "72b28451749a7928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Positions/Back.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Back"
+            }
+          },
+          {
+            "id": "775706c984e7386c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Guards/K-guard/Standing K-guard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Standing K-guard"
+            }
+          },
+          {
+            "id": "ba61133f4e072f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes/Submissions/Kimura/Kimura (Side Control).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kimura (Side Control)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -175,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "long ste",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -330,44 +510,45 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "9199d30fbe9a51f2",
+  "active": "72b28451749a7928",
   "lastOpenFiles": [
-    "Concepts/Hooks.md",
-    "Concepts/Strangles vs. Joint Locks.md",
-    "Concepts/Guard Retention.md",
-    "Nodes/Guards/De La Riva.md",
-    "Nodes/Guard Passes/Long Step.md",
-    "Nodes/Transitions/Wrestle-up.md",
-    "Nodes/Grips/Brabo Grip.md",
-    "Nodes/Guards/X-guard.md",
-    "Nodes/Guards/De.md",
-    "Movements/Technical Standup.md",
-    "Templates/Movement.md",
-    "Concepts/Default Principle.md",
-    "Nodes/Guards/Ashi Garami.md",
-    "Templates/Systems.md",
-    "Templates/Concepts.md",
-    "Untitled",
-    "Untitled.base",
-    "Movements",
-    "Untitled.md",
-    "Concepts/Diagonal Control.md",
-    "Concepts/Crossface.md",
-    "Nodes/Positions/Side Control.md",
-    "Nodes/Guard Passes/Untitled.md",
-    "Nodes/Submissions/Americana.md",
     "Nodes/Sweeps/Butterfly Sweep.md",
-    "Nodes/Guard Passes/Shin Pin.md",
-    "Nodes/Guard Passes/Circle Pass.md",
-    "Concepts/Dilemmas.md",
-    "Concepts/Spinal Alignment on the Back.md",
+    "Nodes/Guards/K-guard/K-guard.md",
+    "Nodes/Guard Passes/Long Step.md",
+    "Nodes/Guards/De La Riva.md",
+    "Nodes/Guards/K-guard/Kneeling K-guard.md",
+    "Nodes/Guards/K-guard/Standing K-guard.md",
+    "Nodes/Takedowns/Standing Body Lock.md",
+    "Nodes/Submissions/Guillotine/Guillotine.md",
+    "Nodes/Submissions/Kimura/Kimura (Side Control).md",
+    "Nodes/Submissions/Kimura/Kimura.md",
+    "Nodes/Guards/Deep DLR-X Guard.md",
+    "Nodes/Submissions/Guillotine/Arm-out Guillotine.md",
+    "Nodes/Submissions/Guillotine/Arm-in Guillotine.md",
+    "Concepts/Top Hand Position.md",
+    "Nodes/Sweeps/Split Sweep.md",
+    "Nodes/Submissions/Arm Triangle.md",
+    "Movements/Back Roll.md",
+    "Nodes/Submissions/Triangle Choke/Triangle Choke (Back).md",
+    "Hitchhiker Escape.md",
+    "Crucifix.md",
+    "Concepts/Crossface.md",
+    "Concepts/2-on-1.md",
+    "Matrix.md",
+    "Nodes/Guards/K-guard",
+    "Concepts/Self-Frames.md",
+    "Concepts/Frames.md",
+    "Nodes/Submissions/Anaconda Choke.md",
+    "Pasted image 20260315114713.png",
+    "Nodes/Submissions/Wrist Lock",
+    "Contents.base",
+    "Untitled",
+    "Movements",
     "Nodes/Positions/Mount/desktop.ini",
     "Nodes/Positions/Mount",
     "Nodes/Submissions/Armbar",
     "Nodes/Submissions/Triangle Choke",
     "Nodes/Positions/Turtle",
-    "Nodes/Submissions/Kimura",
-    "Nodes/Positions/Kimura",
     "Pasted image 20250617002332.png",
     "Pasted image 20250113140713.png",
     "Untitled 1.canvas",
@@ -378,7 +559,6 @@
     "Pasted image 20240507104318.png",
     "Pasted image 20240503114256.png",
     "Pasted image 20240503114244.png",
-    "Pasted image 20240501124457.png",
-    "Pasted image 20240501103457.png"
+    "Pasted image 20240501124457.png"
   ]
 }

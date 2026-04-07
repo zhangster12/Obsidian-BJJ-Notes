@@ -20,7 +20,7 @@ The <u>X-guard</u> is when your legs are controlling a passer’s leg like an X.
 ## Guards
 - [[Supine Guard]]: Bring your knees to chest and push the passer away onto their back.
 ## Positions
-- [[Back]]:
+- [[Nodes/Positions/Back]]:
 ## Submissions
 - [[Straight Ankle Lock]]:
 - [[Triangle Choke (Guard)]]:

@@ -19,7 +19,7 @@ The <u>S-mount</u> is characterized by the “S” formation that you form using
 ## Positions
 - [[Mount]]:
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Chest Compression]]:
 # Defense
 - 

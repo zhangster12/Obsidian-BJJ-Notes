@@ -18,7 +18,7 @@ The <u>Mount</u> is one of the most dominant positions, where you’re sitting o
 - [[S-mount]]:
 - [[Technical Mount]]: (1) With double underhooks, pull one arm across until you cover it with your chest. Use a kimura grip and torque to force them onto their side. 
 ## Submission
-- [[Armbar]]: If the bottom player extends your arms.
+- [[Armbar (Temp)]]: If the bottom player extends your arms.
 - [[Cross Choke]]:
 - [[Ezekiel Choke]]: Use this to separate the elbows.
 - [[Smother Choke]]:

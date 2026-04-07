@@ -16,7 +16,7 @@ The [[Kimura]] from guard is done from the bottom position.
 # Transitioning
 - **Passer straightens their arm**: Place your knee behind their head to transition into [Ude Gatami](obsidian://open?vault=Obsidian-BJJ-Notes&file=Ude%20Gatami) or skip it and force them to roll all the way through to an [Armbar](obsidian://open?vault=Obsidian-BJJ-Notes&file=Nodes%2FSubmissions%2FArmbar).
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Ude Gatami]]:
 # Defense
 - **Tuck your elbows**: Keep your elbow by your side and behind your first. If you’re wearing a gi, you can grab your own lapel.

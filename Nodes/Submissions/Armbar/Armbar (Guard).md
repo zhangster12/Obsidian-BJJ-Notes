@@ -21,7 +21,7 @@ This variation of an <u>Armbar</u> is from your guard.
 - [[Reverse Triangle]]: If the passer pulls their arm out.
 - [[Trap Triangle]]: If the passer pulls their arm out, use this as a hub to transition to other [Triangle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FTriangle%20Choke) variations.
 ## Submissions
-- [[Armbar]]: If the passer falls over or grab their leg to sweep them over.
+- [[Armbar (Temp)]]: If the passer falls over or grab their leg to sweep them over.
 - [[Triangle Choke (Guard)]]: If the passer pulls their arm out.
 # Defense
 - **Stack and pressure**:

@@ -21,7 +21,7 @@ The <u>Leg Drag</u> is a pass where you control the guard player's hip by dragg
 - 
 # Transitioning
 ## Positions
-- [[Back]]: If the guard player goes to [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTurtle%20Guard).
+- [[Nodes/Positions/Back]]: If the guard player goes to [Turtle](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FTurtle%20Guard).
 - [[Scarf Hold]]:
 - [[Side Control]]:
 - [[Turtle]]: If you’re the guard player trying to avoid getting passed.

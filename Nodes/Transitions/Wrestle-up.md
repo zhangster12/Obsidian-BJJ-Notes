@@ -25,7 +25,7 @@ The passer can lean their weight forward, but this will open them up to being of
 ## Passes
 - [[Leg Drag]]
 ## Positions
-- [[Back]]
+- [[Nodes/Positions/Back]]
 - [[Turtle]]
 # Tags
 #gi #nogi #transition 

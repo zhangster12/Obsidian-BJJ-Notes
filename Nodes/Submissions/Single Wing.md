@@ -14,7 +14,7 @@ The <u>Single Wing</u> or Arm-in Lapel Choke or Katahajime is a lapel choke that
 - 
 # Transitioning
 ## Positions
-- [[Back]]: If you lose the choke.
+- [[Nodes/Positions/Back]]: If you lose the choke.
 # Defense
 - **Arm down**: Keep your arm down and don’t allow your opponent to bring it up.
 # References

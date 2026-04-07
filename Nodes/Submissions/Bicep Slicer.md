@@ -3,7 +3,7 @@ The <u>Bicep Slicer</u>, <u>Bicep Crusher</u>, or <u>Bicep Lock</u>, is a compr
 
 ![Bicep Slicer](https://cdn.evolve-mma.com/wp-content/uploads/2024/09/bicep-slicer-1.jpg)
 # Setup
-- 
+- [Lasso-Lever Sweep](obsidian://open?vault=Obsidian-BJJ-Notes&file=Nodes%2FSweeps%2FLasso-Lever%20Sweep): When you sweep into top position, your shin will be across the bottom player’s bicep.
 # Keys
 - 
 ## Troubleshooting

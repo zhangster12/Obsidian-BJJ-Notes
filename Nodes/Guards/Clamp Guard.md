@@ -23,7 +23,7 @@
 - [[Trap Triangle]]: If the passer postures up.
 - [[Turtle]]: If they free their arm.
 ## Submissions
-- [[Armbar]]: If the passer’s hand is in your armpit.
+- [[Armbar (Temp)]]: If the passer’s hand is in your armpit.
 - [[Cross Choke]]: If you have a Cross Collar Grip with your overhook.
 - [[Kimura]]: If the passer bends their arm back to defend a [Straight Arm Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FStraight%20Arm%20Lock). [Link](https://www.youtube.com/watch?v=7ojphoRQ5qo)
 - [[Omoplata]]: If they bend their arm back to defend a [Straight Arm Lock](obsidian://open?vault=Obsidian-BJJ-Notes&file=Submissions%2FStraight%20Arm%20Lock), you can also use your legs.

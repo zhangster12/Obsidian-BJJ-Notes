@@ -13,7 +13,7 @@ From the bottom, the guard player can Berimbolo from:
 - **Lift your opponent’s hips**: Pinch their leg and stomp your feet down.
 
 # Transitioning
-- [[Back]]:
+- [[Nodes/Positions/Back]]:
 # Counter
 # Variations
 # Links
@@ -21,7 +21,7 @@ From the bottom, the guard player can Berimbolo from:
 ## Guards
 ## Passes
 ## Positions
-- [[Back]]
+- [[Nodes/Positions/Back]]
 ## Takedowns
 ## Transitions
 ## Submissions

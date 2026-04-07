@@ -14,7 +14,7 @@ A <u>Butterfly Sweep</u> is a sweep from Butterfly Guard, where you use your But
 - Bring the passer’s shoulder to the head. This twists their upper body, making their spine out of alignment.
 - Come onto your knees if you’re having trouble completing the sweep.
 ## Troubleshooting
-- **Passer posts leg**: (1) Push their knee/foot away or (2) plant your foot on their knee/foot and chop it, or (3) reverse shrimp/hop.
+- **Passer posts leg**: (1) Push their knee/foot away. Placing your foot above their knee gives you better leverage and makes it harder for them to jump over it. (2) Plant your foot on their knee/foot and chop it. (3) Reverse shrimp/hop.
 - **On knees**: (1) Kick their knee out, (2) Scissor Sweep with the Butterfly hook, or (3) if their weight is back, Wrestle-up.
 # Transitioning
 - **Leg is too close**: Underhook and transition to [X-guard](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FX-guard) or [Ashi](obsidian://open?vault=Obsidian-BJJ-Notes&file=Guards%2FAshi%20Garami).

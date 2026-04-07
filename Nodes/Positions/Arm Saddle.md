@@ -13,7 +13,7 @@
 ## Guards
 - [[K-guard]]:
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 # Counter
 - 
 # References

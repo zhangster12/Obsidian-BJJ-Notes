@@ -44,7 +44,7 @@ The <u>Closed Guard</u> is when the passer is locked between your legs, preventi
 - [[Spider Guard]]: Control both sleeves. [Link](https://www.instagram.com/reel/DHHV668BoiL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - [[Top Lock]]:
 ## Submissions
-- [[Armbar]]:
+- [[Armbar (Temp)]]:
 - [[Cross Choke]]:
 - [[Ezekiel Choke]]:
 - [[Kimura]]:
